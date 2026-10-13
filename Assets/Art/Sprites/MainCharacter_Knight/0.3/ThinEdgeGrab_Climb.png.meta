@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: c06bc6ef309940642988fc12a572894c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5764233514503375747
+    second: ThinEdgeGrab_Climb_0
+  - first:
+      213: -5110717188439643117
+    second: ThinEdgeGrab_Climb_1
+  - first:
+      213: -4438554604381431934
+    second: ThinEdgeGrab_Climb_2
+  - first:
+      213: 8101316649019185010
+    second: ThinEdgeGrab_Climb_3
+  - first:
+      213: 8632578360457982875
+    second: ThinEdgeGrab_Climb_4
+  - first:
+      213: -7618139318124237545
+    second: ThinEdgeGrab_Climb_5
+  - first:
+      213: 3224750878272230891
+    second: ThinEdgeGrab_Climb_6
+  - first:
+      213: 7870202352788782102
+    second: ThinEdgeGrab_Climb_7
+  - first:
+      213: 6716673214185018001
+    second: ThinEdgeGrab_Climb_8
+  - first:
+      213: 2512419211393246600
+    second: ThinEdgeGrab_Climb_9
+  - first:
+      213: 7365217624182273487
+    second: ThinEdgeGrab_Climb_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b006a57dbaeff40800000000000000
+      internalID: 5764233514503375747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 28
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c629b7bc51319b0800000000000000
+      internalID: -5110717188439643117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 28
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879ba19a161762c0800000000000000
+      internalID: -4438554604381431934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 28
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2771fb5d198ad6070800000000000000
+      internalID: 8101316649019185010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 28
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9372de08441dc770800000000000000
+      internalID: 8632578360457982875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 42
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da4cd17aee64690800000000000000
+      internalID: -7618139318124237545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 56
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59b8c96dd90cc20800000000000000
+      internalID: 3224750878272230891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_7
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 65
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c3b6c7753983d60800000000000000
+      internalID: 7870202352788782102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_8
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 75
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19211eba3ba663d50800000000000000
+      internalID: 6716673214185018001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 77
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88526fd16f7edd220800000000000000
+      internalID: 2512419211393246600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinEdgeGrab_Climb_10
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 77
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b4d61862863660800000000000000
+      internalID: 7365217624182273487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c76e1299d4fb89459ad3824723c18df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThinEdgeGrab_Climb_0: 5764233514503375747
+      ThinEdgeGrab_Climb_1: -5110717188439643117
+      ThinEdgeGrab_Climb_10: 7365217624182273487
+      ThinEdgeGrab_Climb_2: -4438554604381431934
+      ThinEdgeGrab_Climb_3: 8101316649019185010
+      ThinEdgeGrab_Climb_4: 8632578360457982875
+      ThinEdgeGrab_Climb_5: -7618139318124237545
+      ThinEdgeGrab_Climb_6: 3224750878272230891
+      ThinEdgeGrab_Climb_7: 7870202352788782102
+      ThinEdgeGrab_Climb_8: 6716673214185018001
+      ThinEdgeGrab_Climb_9: 2512419211393246600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

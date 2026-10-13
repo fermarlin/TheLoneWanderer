@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 30a545ef3e8ce1341a1917d4948c02af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 52062997906597866
+    second: Attack_After_Parry_0
+  - first:
+      213: 4425770610151049908
+    second: Attack_After_Parry_1
+  - first:
+      213: -5499618592243670854
+    second: Attack_After_Parry_2
+  - first:
+      213: -4626594291365722303
+    second: Attack_After_Parry_3
+  - first:
+      213: -3127422030274356027
+    second: Attack_After_Parry_4
+  - first:
+      213: 3021620489873788085
+    second: Attack_After_Parry_5
+  - first:
+      213: -504251832312583007
+    second: Attack_After_Parry_6
+  - first:
+      213: 3495977373942031223
+    second: Attack_After_Parry_7
+  - first:
+      213: -9106443163680652501
+    second: Attack_After_Parry_8
+  - first:
+      213: 7020295847598612396
+    second: Attack_After_Parry_9
+  - first:
+      213: 6200906841168802060
+    second: Attack_After_Parry_10
+  - first:
+      213: 8385444363536716488
+    second: Attack_After_Parry_11
+  - first:
+      213: -298745360374664080
+    second: Attack_After_Parry_12
+  - first:
+      213: 5356377948452369877
+    second: Attack_After_Parry_13
+  - first:
+      213: -3660689354608676799
+    second: Attack_After_Parry_14
+  - first:
+      213: -1464582128930374983
+    second: Attack_After_Parry_15
+  - first:
+      213: 5434239004291408580
+    second: Attack_After_Parry_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_After_Parry_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae72a205507f8b000800000000000000
+      internalID: 52062997906597866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baca63dbee7b6d30800000000000000
+      internalID: 4425770610151049908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 31
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ae21570e6da3b0800000000000000
+      internalID: -5499618592243670854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 31
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147cb4731090bcfb0800000000000000
+      internalID: -4626594291365722303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 31
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc14c6bb3a2994d0800000000000000
+      internalID: -3127422030274356027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 31
+        width: 59
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc08f883d3fee920800000000000000
+      internalID: 3021620489873788085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 31
+        width: 58
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac2ba151a98009f0800000000000000
+      internalID: -504251832312583007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_7
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 31
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732e9c26e4348030800000000000000
+      internalID: 3495977373942031223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_8
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 31
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c78dc03a6f9180800000000000000
+      internalID: -9106443163680652501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 31
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafd346d0e91d6160800000000000000
+      internalID: 7020295847598612396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_10
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 31
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01f7211beb0e0650800000000000000
+      internalID: 6200906841168802060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_11
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 31
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2586c78351f5470800000000000000
+      internalID: 8385444363536716488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_12
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 31
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07472947da4aadbf0800000000000000
+      internalID: -298745360374664080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_13
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 31
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53d346d5da55a40800000000000000
+      internalID: 5356377948452369877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_14
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140fe795d6e923dc0800000000000000
+      internalID: -3660689354608676799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_15
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba38bc3052ccabe0800000000000000
+      internalID: -1464582128930374983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_After_Parry_16
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ac53259b4a6b40800000000000000
+      internalID: 5434239004291408580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e338d1c957db914da3764726995b16e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_After_Parry_0: 52062997906597866
+      Attack_After_Parry_1: 4425770610151049908
+      Attack_After_Parry_10: 6200906841168802060
+      Attack_After_Parry_11: 8385444363536716488
+      Attack_After_Parry_12: -298745360374664080
+      Attack_After_Parry_13: 5356377948452369877
+      Attack_After_Parry_14: -3660689354608676799
+      Attack_After_Parry_15: -1464582128930374983
+      Attack_After_Parry_16: 5434239004291408580
+      Attack_After_Parry_2: -5499618592243670854
+      Attack_After_Parry_3: -4626594291365722303
+      Attack_After_Parry_4: -3127422030274356027
+      Attack_After_Parry_5: 3021620489873788085
+      Attack_After_Parry_6: -504251832312583007
+      Attack_After_Parry_7: 3495977373942031223
+      Attack_After_Parry_8: -9106443163680652501
+      Attack_After_Parry_9: 7020295847598612396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

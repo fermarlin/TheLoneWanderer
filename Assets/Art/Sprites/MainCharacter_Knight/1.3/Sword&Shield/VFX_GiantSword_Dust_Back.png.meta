@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7a900e3362f8e684bb5e8a3dd14a8781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6417496592789849284
+    second: VFX_GiantSword_Dust_Back_0
+  - first:
+      213: 1375892418361312654
+    second: VFX_GiantSword_Dust_Back_1
+  - first:
+      213: -8043564548029888025
+    second: VFX_GiantSword_Dust_Back_2
+  - first:
+      213: -3317222028581229314
+    second: VFX_GiantSword_Dust_Back_3
+  - first:
+      213: 5840422714139687821
+    second: VFX_GiantSword_Dust_Back_4
+  - first:
+      213: -4788561762214480863
+    second: VFX_GiantSword_Dust_Back_5
+  - first:
+      213: 8800785606997153682
+    second: VFX_GiantSword_Dust_Back_6
+  - first:
+      213: -9144070160847463431
+    second: VFX_GiantSword_Dust_Back_7
+  - first:
+      213: -5687640600805761768
+    second: VFX_GiantSword_Dust_Back_8
+  - first:
+      213: 699911115653496528
+    second: VFX_GiantSword_Dust_Back_9
+  - first:
+      213: -6815139109203301482
+    second: VFX_GiantSword_Dust_Back_10
+  - first:
+      213: -2633157768864871359
+    second: VFX_GiantSword_Dust_Back_11
+  - first:
+      213: -7256072460720102766
+    second: VFX_GiantSword_Dust_Back_12
+  - first:
+      213: 2934619969521808157
+    second: VFX_GiantSword_Dust_Back_13
+  - first:
+      213: 2004543517239925961
+    second: VFX_GiantSword_Dust_Back_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 81
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c48856278f0950800000000000000
+      internalID: 6417496592789849284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 90
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85449d5dd6281310800000000000000
+      internalID: 1375892418361312654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 26
+        width: 92
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9c0c209a48f5090800000000000000
+      internalID: -8043564548029888025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 26
+        width: 93
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca051f32cd6f1d0800000000000000
+      internalID: -3317222028581229314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 28
+        width: 94
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3b6eb3895d0150800000000000000
+      internalID: 5840422714139687821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 42
+        width: 72
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124ff2ab27c9b8db0800000000000000
+      internalID: -4788561762214480863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_6
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 50
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2979f6981eba22a70800000000000000
+      internalID: 8800785606997153682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 56
+        width: 37
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb1075d2acb91180800000000000000
+      internalID: -9144070160847463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 59
+        width: 42
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d12ea02017111b0800000000000000
+      internalID: -5687640600805761768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 40
+        width: 560
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0debfde837596b900800000000000000
+      internalID: 699911115653496528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_10
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 29
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba01d9613cb61a0800000000000000
+      internalID: -6815139109203301482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_11
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 35
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ccf35d5f4257bd0800000000000000
+      internalID: -2633157768864871359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_12
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 39
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a8429a804d4b90800000000000000
+      internalID: -7256072460720102766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 45
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137d12605dd9b820800000000000000
+      internalID: 2934619969521808157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_GiantSword_Dust_Back_14
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 36
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd5e955b191db10800000000000000
+      internalID: 2004543517239925961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1cb32fda11c6114792c9e907cf660e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_GiantSword_Dust_Back_0: 6417496592789849284
+      VFX_GiantSword_Dust_Back_1: 1375892418361312654
+      VFX_GiantSword_Dust_Back_10: -6815139109203301482
+      VFX_GiantSword_Dust_Back_11: -2633157768864871359
+      VFX_GiantSword_Dust_Back_12: -7256072460720102766
+      VFX_GiantSword_Dust_Back_13: 2934619969521808157
+      VFX_GiantSword_Dust_Back_14: 2004543517239925961
+      VFX_GiantSword_Dust_Back_2: -8043564548029888025
+      VFX_GiantSword_Dust_Back_3: -3317222028581229314
+      VFX_GiantSword_Dust_Back_4: 5840422714139687821
+      VFX_GiantSword_Dust_Back_5: -4788561762214480863
+      VFX_GiantSword_Dust_Back_6: 8800785606997153682
+      VFX_GiantSword_Dust_Back_7: -9144070160847463431
+      VFX_GiantSword_Dust_Back_8: -5687640600805761768
+      VFX_GiantSword_Dust_Back_9: 699911115653496528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

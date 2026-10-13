@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 0a45e34249df2124f876300a781fba37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3221646846481995408
+    second: Aerial_DownAttack_0
+  - first:
+      213: 4193618154538341689
+    second: Aerial_DownAttack_1
+  - first:
+      213: -237211585900679286
+    second: Aerial_DownAttack_2
+  - first:
+      213: 5898137508567651924
+    second: Aerial_DownAttack_3
+  - first:
+      213: -5040200170318281964
+    second: Aerial_DownAttack_4
+  - first:
+      213: 2229982987804062954
+    second: Aerial_DownAttack_5
+  - first:
+      213: 8456399936686345913
+    second: Aerial_DownAttack_6
+  - first:
+      213: 2146028531786505207
+    second: Aerial_DownAttack_7
+  - first:
+      213: -2441792716312529781
+    second: Aerial_DownAttack_8
+  - first:
+      213: -2711388132770364791
+    second: Aerial_DownAttack_9
+  - first:
+      213: -1947184212817029969
+    second: Aerial_DownAttack_10
+  - first:
+      213: 7818811830084016002
+    second: Aerial_DownAttack_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aerial_DownAttack_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961154ecb695bc20800000000000000
+      internalID: 3221646846481995408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 8
+        width: 87
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93513e82e79b23a30800000000000000
+      internalID: 4193618154538341689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 38
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f68c5c15145bcf0800000000000000
+      internalID: -237211585900679286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 37
+        width: 79
+        height: 57
+      alignment: 9
+      pivot: {x: 0.64, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456159a70d46ad150800000000000000
+      internalID: 5898137508567651924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 36
+        width: 78
+        height: 59
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c05336ac9d0ab0800000000000000
+      internalID: -5040200170318281964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 36
+        width: 78
+        height: 59
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b93366bd72fe10800000000000000
+      internalID: 2229982987804062954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 36
+        width: 79
+        height: 57
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be43d040fa2b5570800000000000000
+      internalID: 8456399936686345913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 37
+        width: 71
+        height: 39
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbdcfa549938cd10800000000000000
+      internalID: 2146028531786505207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 36
+        width: 56
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b843e0136720d1ed0800000000000000
+      internalID: -2441792716312529781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 35
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982430adbd63f5ad0800000000000000
+      internalID: -2711388132770364791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 35
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4daca66463af4e0800000000000000
+      internalID: -1947184212817029969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_DownAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 35
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28797c10feff18c60800000000000000
+      internalID: 7818811830084016002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a30b765318d19e4409ef6087e01e9cca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aerial_DownAttack_0: 3221646846481995408
+      Aerial_DownAttack_1: 4193618154538341689
+      Aerial_DownAttack_10: -1947184212817029969
+      Aerial_DownAttack_11: 7818811830084016002
+      Aerial_DownAttack_2: -237211585900679286
+      Aerial_DownAttack_3: 5898137508567651924
+      Aerial_DownAttack_4: -5040200170318281964
+      Aerial_DownAttack_5: 2229982987804062954
+      Aerial_DownAttack_6: 8456399936686345913
+      Aerial_DownAttack_7: 2146028531786505207
+      Aerial_DownAttack_8: -2441792716312529781
+      Aerial_DownAttack_9: -2711388132770364791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

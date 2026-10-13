@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ad78c4f9627908e40b839df00d54bcd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -368710520259163791
+    second: StatusResist_Potion_0
+  - first:
+      213: 5508636395343430324
+    second: StatusResist_Potion_1
+  - first:
+      213: 1564426453790768863
+    second: StatusResist_Potion_2
+  - first:
+      213: 5634868466765402225
+    second: StatusResist_Potion_3
+  - first:
+      213: -7131863548651282689
+    second: StatusResist_Potion_4
+  - first:
+      213: 594227255313335712
+    second: StatusResist_Potion_5
+  - first:
+      213: -3637112131703940242
+    second: StatusResist_Potion_6
+  - first:
+      213: -3079617703740768528
+    second: StatusResist_Potion_7
+  - first:
+      213: 1564379265905884628
+    second: StatusResist_Potion_8
+  - first:
+      213: -1677455382580439033
+    second: StatusResist_Potion_9
+  - first:
+      213: -4140085398134172900
+    second: StatusResist_Potion_10
+  - first:
+      213: -8696135551070172954
+    second: StatusResist_Potion_11
+  - first:
+      213: 2172233652578765377
+    second: StatusResist_Potion_12
+  - first:
+      213: 5485445267714069410
+    second: StatusResist_Potion_13
+  - first:
+      213: -411738096767473899
+    second: StatusResist_Potion_14
+  - first:
+      213: 4344913110210957265
+    second: StatusResist_Potion_15
+  - first:
+      213: -1946851776396350397
+    second: StatusResist_Potion_16
+  - first:
+      213: -7296448306064918882
+    second: StatusResist_Potion_17
+  - first:
+      213: -8767562798916457293
+    second: StatusResist_Potion_18
+  - first:
+      213: 2247080549350140064
+    second: StatusResist_Potion_19
+  - first:
+      213: 4821009112990886515
+    second: StatusResist_Potion_20
+  - first:
+      213: 9110929004399122179
+    second: StatusResist_Potion_21
+  - first:
+      213: 1596497799115762550
+    second: StatusResist_Potion_22
+  - first:
+      213: 8347690452334007075
+    second: StatusResist_Potion_23
+  - first:
+      213: 7610316371360813287
+    second: StatusResist_Potion_24
+  - first:
+      213: 1260081814408331628
+    second: StatusResist_Potion_25
+  - first:
+      213: 4010192672925075975
+    second: StatusResist_Potion_26
+  - first:
+      213: 1477657666394673826
+    second: StatusResist_Potion_27
+  - first:
+      213: 4433148898768452923
+    second: StatusResist_Potion_28
+  - first:
+      213: 1140683369504355683
+    second: StatusResist_Potion_29
+  - first:
+      213: -2952015546379590831
+    second: StatusResist_Potion_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatusResist_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 31
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c00f3cb312eaf0800000000000000
+      internalID: -368710520259163791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 72
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2cb359d9b927c40800000000000000
+      internalID: 5508636395343430324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 31
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde3c6f2295f5b510800000000000000
+      internalID: 1564426453790768863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 72
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1701a950403133e40800000000000000
+      internalID: 5634868466765402225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 31
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe551483e7860d90800000000000000
+      internalID: -7131863548651282689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 77
+        width: 23
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a58ec45a8e1f3800800000000000000
+      internalID: 594227255313335712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 74
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd58559c1668dc0800000000000000
+      internalID: -3637112131703940242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 74
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef684d3000345d0800000000000000
+      internalID: -3079617703740768528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 75
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7e4667aac5b510800000000000000
+      internalID: 1564379265905884628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 76
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d9b2973b78b8e0800000000000000
+      internalID: -1677455382580439033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 77
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135e68f3467b86c0800000000000000
+      internalID: -4140085398134172900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e801d75ace115780800000000000000
+      internalID: -8696135551070172954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a4b1f7ff2552e10800000000000000
+      internalID: 2172233652578765377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d1f86867302c40800000000000000
+      internalID: 5485445267714069410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517eda9e166394af0800000000000000
+      internalID: -411738096767473899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfcf02147b3c4c30800000000000000
+      internalID: 4344913110210957265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cae8dcf946bf4e0800000000000000
+      internalID: -1946851776396350397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96fff28ceecdba90800000000000000
+      internalID: -7296448306064918882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 31
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bca7a0461c535680800000000000000
+      internalID: -8767562798916457293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 31
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a864b5aadb3f2f10800000000000000
+      internalID: 2247080549350140064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a2eb6de3aa7e240800000000000000
+      internalID: 4821009112990886515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307530168a5807e70800000000000000
+      internalID: 9110929004399122179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 31
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67becf82a46e72610800000000000000
+      internalID: 1596497799115762550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 31
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323d94a0d34f8d370800000000000000
+      internalID: 8347690452334007075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 31
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01d472b664d9960800000000000000
+      internalID: 7610316371360813287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_25
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 31
+        width: 53
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610db7ebb5bc7110800000000000000
+      internalID: 1260081814408331628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_26
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 60
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ac2963df017a730800000000000000
+      internalID: 4010192672925075975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_27
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 31
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2561191d1b18410800000000000000
+      internalID: 1477657666394673826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_28
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 31
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df1838f65b58d30800000000000000
+      internalID: 4433148898768452923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_29
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b0802b7584df00800000000000000
+      internalID: 1140683369504355683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatusResist_Potion_30
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1532d9240855807d0800000000000000
+      internalID: -2952015546379590831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d878c63270795e4994d9c36966a82de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StatusResist_Potion_0: -368710520259163791
+      StatusResist_Potion_1: 5508636395343430324
+      StatusResist_Potion_10: -4140085398134172900
+      StatusResist_Potion_11: -8696135551070172954
+      StatusResist_Potion_12: 2172233652578765377
+      StatusResist_Potion_13: 5485445267714069410
+      StatusResist_Potion_14: -411738096767473899
+      StatusResist_Potion_15: 4344913110210957265
+      StatusResist_Potion_16: -1946851776396350397
+      StatusResist_Potion_17: -7296448306064918882
+      StatusResist_Potion_18: -8767562798916457293
+      StatusResist_Potion_19: 2247080549350140064
+      StatusResist_Potion_2: 1564426453790768863
+      StatusResist_Potion_20: 4821009112990886515
+      StatusResist_Potion_21: 9110929004399122179
+      StatusResist_Potion_22: 1596497799115762550
+      StatusResist_Potion_23: 8347690452334007075
+      StatusResist_Potion_24: 7610316371360813287
+      StatusResist_Potion_25: 1260081814408331628
+      StatusResist_Potion_26: 4010192672925075975
+      StatusResist_Potion_27: 1477657666394673826
+      StatusResist_Potion_28: 4433148898768452923
+      StatusResist_Potion_29: 1140683369504355683
+      StatusResist_Potion_3: 5634868466765402225
+      StatusResist_Potion_30: -2952015546379590831
+      StatusResist_Potion_4: -7131863548651282689
+      StatusResist_Potion_5: 594227255313335712
+      StatusResist_Potion_6: -3637112131703940242
+      StatusResist_Potion_7: -3079617703740768528
+      StatusResist_Potion_8: 1564379265905884628
+      StatusResist_Potion_9: -1677455382580439033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 94ec6c4816587b944b9e478e0dd15720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8912177880819650062
+    second: Sleeping_Loop_0
+  - first:
+      213: 6459501442737943515
+    second: Sleeping_Loop_1
+  - first:
+      213: 6894011819211415861
+    second: Sleeping_Loop_2
+  - first:
+      213: -4406610046070145244
+    second: Sleeping_Loop_3
+  - first:
+      213: -5517734220192224658
+    second: Sleeping_Loop_4
+  - first:
+      213: 561554494346412589
+    second: Sleeping_Loop_5
+  - first:
+      213: 616080112304894788
+    second: Sleeping_Loop_6
+  - first:
+      213: 4743830533749370716
+    second: Sleeping_Loop_7
+  - first:
+      213: 7719510864811403332
+    second: Sleeping_Loop_8
+  - first:
+      213: 5558713270785730262
+    second: Sleeping_Loop_9
+  - first:
+      213: 7175360925933274582
+    second: Sleeping_Loop_10
+  - first:
+      213: -5893867763159785042
+    second: Sleeping_Loop_11
+  - first:
+      213: -8145149750188914204
+    second: Sleeping_Loop_12
+  - first:
+      213: -6036627062076301705
+    second: Sleeping_Loop_13
+  - first:
+      213: -4792885378954924925
+    second: Sleeping_Loop_14
+  - first:
+      213: 1795577881919877275
+    second: Sleeping_Loop_15
+  - first:
+      213: 344695702611949077
+    second: Sleeping_Loop_16
+  - first:
+      213: -2251127001347315000
+    second: Sleeping_Loop_17
+  - first:
+      213: -2492846672411338580
+    second: Sleeping_Loop_18
+  - first:
+      213: 7629780598755684664
+    second: Sleeping_Loop_19
+  - first:
+      213: -7148565105496333923
+    second: Sleeping_Loop_20
+  - first:
+      213: -6903318462986515700
+    second: Sleeping_Loop_21
+  - first:
+      213: -1227450647918955646
+    second: Sleeping_Loop_22
+  - first:
+      213: -2290909713707054358
+    second: Sleeping_Loop_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sleeping_Loop_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 31
+        width: 38
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e4959509a6eab70800000000000000
+      internalID: 8912177880819650062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3b4889652c4a950800000000000000
+      internalID: 6459501442737943515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_2
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 31
+        width: 38
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531e07939337caf50800000000000000
+      internalID: 6894011819211415861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 31
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3254a28398d2c0800000000000000
+      internalID: -4406610046070145244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_4
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aec6006f11d63b0800000000000000
+      internalID: -5517734220192224658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_5
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 31
+        width: 38
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ca8d56da0bc700800000000000000
+      internalID: 561554494346412589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_6
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 52
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bd171991cc8800800000000000000
+      internalID: 616080112304894788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 53
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f68ce8cb875d140800000000000000
+      internalID: 4743830533749370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_8
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 31
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482ad85b36312b60800000000000000
+      internalID: 7719510864811403332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_9
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 31
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ee69b444842d40800000000000000
+      internalID: 5558713270785730262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_10
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 31
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58875deb0049360800000000000000
+      internalID: 7175360925933274582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_11
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 31
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea12cb71f76c43ea0800000000000000
+      internalID: -5893867763159785042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_12
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 31
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9c0a1057d96fe80800000000000000
+      internalID: -8145149750188914204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_13
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 55
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e9e63aba7993ca0800000000000000
+      internalID: -6036627062076301705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_14
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 56
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c6a3244204c7db0800000000000000
+      internalID: -4792885378954924925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_15
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 31
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f16af19c2be810800000000000000
+      internalID: 1795577881919877275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_16
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 31
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f9cd4aea98c400800000000000000
+      internalID: 344695702611949077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_17
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 31
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca27645be362c0e0800000000000000
+      internalID: -2251127001347315000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_18
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 31
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8586bb821a76dd0800000000000000
+      internalID: -2492846672411338580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831fffeb70d62e960800000000000000
+      internalID: 7629780598755684664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 31
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91632949e13bcc90800000000000000
+      internalID: -7148565105496333923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_21
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 31
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0b4aee6c7230a0800000000000000
+      internalID: -6903318462986515700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_22
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b777932837fee0800000000000000
+      internalID: -1227450647918955646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_Loop_23
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeacffdc0cd0530e0800000000000000
+      internalID: -2290909713707054358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d5fcad88619e924aa8e8ebb68b9592a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sleeping_Loop_0: 8912177880819650062
+      Sleeping_Loop_1: 6459501442737943515
+      Sleeping_Loop_10: 7175360925933274582
+      Sleeping_Loop_11: -5893867763159785042
+      Sleeping_Loop_12: -8145149750188914204
+      Sleeping_Loop_13: -6036627062076301705
+      Sleeping_Loop_14: -4792885378954924925
+      Sleeping_Loop_15: 1795577881919877275
+      Sleeping_Loop_16: 344695702611949077
+      Sleeping_Loop_17: -2251127001347315000
+      Sleeping_Loop_18: -2492846672411338580
+      Sleeping_Loop_19: 7629780598755684664
+      Sleeping_Loop_2: 6894011819211415861
+      Sleeping_Loop_20: -7148565105496333923
+      Sleeping_Loop_21: -6903318462986515700
+      Sleeping_Loop_22: -1227450647918955646
+      Sleeping_Loop_23: -2290909713707054358
+      Sleeping_Loop_3: -4406610046070145244
+      Sleeping_Loop_4: -5517734220192224658
+      Sleeping_Loop_5: 561554494346412589
+      Sleeping_Loop_6: 616080112304894788
+      Sleeping_Loop_7: 4743830533749370716
+      Sleeping_Loop_8: 7719510864811403332
+      Sleeping_Loop_9: 5558713270785730262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

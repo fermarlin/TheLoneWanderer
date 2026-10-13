@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 8f43a2607fb5d3b49a08851ba4b0fe02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1793929258945666857
+    second: TombStone_0
+  - first:
+      213: 9798482065353495
+    second: TombStone_1
+  - first:
+      213: 6480547657158002172
+    second: TombStone_2
+  - first:
+      213: -8258420675938923795
+    second: TombStone_3
+  - first:
+      213: -8404997915647492865
+    second: TombStone_4
+  - first:
+      213: -1969205619378970613
+    second: TombStone_5
+  - first:
+      213: 5293946065762740425
+    second: TombStone_6
+  - first:
+      213: 2376782658205882745
+    second: TombStone_7
+  - first:
+      213: -1735121604436028981
+    second: TombStone_8
+  - first:
+      213: 4748975931521292699
+    second: TombStone_9
+  - first:
+      213: -963034603027939178
+    second: TombStone_10
+  - first:
+      213: -198644231483487164
+    second: TombStone_11
+  - first:
+      213: 4800563863305551876
+    second: TombStone_12
+  - first:
+      213: -542495155012487240
+    second: TombStone_13
+  - first:
+      213: 666297740419612147
+    second: TombStone_14
+  - first:
+      213: 7209710464932100077
+    second: TombStone_15
+  - first:
+      213: 2074431922319352082
+    second: TombStone_16
+  - first:
+      213: 5512132374213166304
+    second: TombStone_17
+  - first:
+      213: -5855233158288096746
+    second: TombStone_18
+  - first:
+      213: -5507335044920469490
+    second: TombStone_19
+  - first:
+      213: -2374518557749381430
+    second: TombStone_20
+  - first:
+      213: 2764195782500540292
+    second: TombStone_21
+  - first:
+      213: 3473737181931100732
+    second: TombStone_22
+  - first:
+      213: -8070487379574021491
+    second: TombStone_23
+  - first:
+      213: 7155297855137804351
+    second: TombStone_24
+  - first:
+      213: 7180615793771118854
+    second: TombStone_25
+  - first:
+      213: -5370106186000397887
+    second: TombStone_26
+  - first:
+      213: -3672352411938765272
+    second: TombStone_27
+  - first:
+      213: 3534608829132210939
+    second: TombStone_28
+  - first:
+      213: -3452084516154456759
+    second: TombStone_29
+  - first:
+      213: -5744306313623767285
+    second: TombStone_30
+  - first:
+      213: 8247772293981654661
+    second: TombStone_31
+  - first:
+      213: -3902182727332672937
+    second: TombStone_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TombStone_0
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 9
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02d58f7deaa17e0800000000000000
+      internalID: -1793929258945666857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_1
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 9
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71be7d2eaafc22000800000000000000
+      internalID: 9798482065353495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_2
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 9
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf584ee32c78fe950800000000000000
+      internalID: 6480547657158002172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_3
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 36
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4be47622346d80800000000000000
+      internalID: -8258420675938923795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_4
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 9
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcbee36de27b5b80800000000000000
+      internalID: -8404997915647492865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_5
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 31
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00a6372ce9fba4e0800000000000000
+      internalID: -1969205619378970613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_6
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86dd5f5efd77940800000000000000
+      internalID: 5293946065762740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_7
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 9
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799ba22c370cf020800000000000000
+      internalID: 2376782658205882745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_8
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 34
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc11c75081c9be7e0800000000000000
+      internalID: -1735121604436028981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_9
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 33
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d435d270c7e140800000000000000
+      internalID: 4748975931521292699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_10
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 9
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6904c14812d92a2f0800000000000000
+      internalID: -963034603027939178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_11
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0fb9bf164e3df0800000000000000
+      internalID: -198644231483487164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_12
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 9
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40087e136670f9240800000000000000
+      internalID: 4800563863305551876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_13
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 9
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b73c11e78ba878f0800000000000000
+      internalID: -542495155012487240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_14
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 9
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3b54c34a2f3900800000000000000
+      internalID: 666297740419612147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_15
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 9
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7b1bb18790e0460800000000000000
+      internalID: 7209710464932100077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_16
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116390b7dcd9cc10800000000000000
+      internalID: 2074431922319352082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_17
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e408e790370f7c40800000000000000
+      internalID: 5512132374213166304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_18
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 9
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612462307780ebea0800000000000000
+      internalID: -5855233158288096746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_19
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 9
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08947ca4f30293b0800000000000000
+      internalID: -5507335044920469490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_20
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 9
+        width: 91
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac676c4d3f30c0fd0800000000000000
+      internalID: -2374518557749381430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_21
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 9
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd3993b656c5620800000000000000
+      internalID: 2764195782500540292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ad114ff81353030800000000000000
+      internalID: 3473737181931100732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a730dc7edfff80800000000000000
+      internalID: -8070487379574021491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307a952d79bc4360800000000000000
+      internalID: 7155297855137804351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6018948150ca6a360800000000000000
+      internalID: 7180615793771118854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 162
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9815930ec8975b0800000000000000
+      internalID: -5370106186000397887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 9
+        width: 427
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826475430fe290dc0800000000000000
+      internalID: -3672352411938765272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 9
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28260c0047d0130800000000000000
+      internalID: 3534608829132210939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_29
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 13
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ccf72c6bb710d0800000000000000
+      internalID: -3452084516154456759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_30
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07fb67a7df1840b0800000000000000
+      internalID: -5744306313623767285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_31
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ec51be339f57270800000000000000
+      internalID: 8247772293981654661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_32
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 9
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75acba0fb79a8d9c0800000000000000
+      internalID: -3902182727332672937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TombStone_0: -1793929258945666857
+      TombStone_1: 9798482065353495
+      TombStone_10: -963034603027939178
+      TombStone_11: -198644231483487164
+      TombStone_12: 4800563863305551876
+      TombStone_13: -542495155012487240
+      TombStone_14: 666297740419612147
+      TombStone_15: 7209710464932100077
+      TombStone_16: 2074431922319352082
+      TombStone_17: 5512132374213166304
+      TombStone_18: -5855233158288096746
+      TombStone_19: -5507335044920469490
+      TombStone_2: 6480547657158002172
+      TombStone_20: -2374518557749381430
+      TombStone_21: 2764195782500540292
+      TombStone_22: 3473737181931100732
+      TombStone_23: -8070487379574021491
+      TombStone_24: 7155297855137804351
+      TombStone_25: 7180615793771118854
+      TombStone_26: -5370106186000397887
+      TombStone_27: -3672352411938765272
+      TombStone_28: 3534608829132210939
+      TombStone_29: -3452084516154456759
+      TombStone_3: -8258420675938923795
+      TombStone_30: -5744306313623767285
+      TombStone_31: 8247772293981654661
+      TombStone_32: -3902182727332672937
+      TombStone_4: -8404997915647492865
+      TombStone_5: -1969205619378970613
+      TombStone_6: 5293946065762740425
+      TombStone_7: 2376782658205882745
+      TombStone_8: -1735121604436028981
+      TombStone_9: 4748975931521292699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

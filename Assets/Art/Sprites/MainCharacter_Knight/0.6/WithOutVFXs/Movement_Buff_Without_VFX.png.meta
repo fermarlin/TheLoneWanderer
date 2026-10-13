@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: e33659128e3bbbf43a886c90e5a050b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5519203923234198918
+    second: Movement_Buff_Without_VFX_0
+  - first:
+      213: -5805809213767378766
+    second: Movement_Buff_Without_VFX_1
+  - first:
+      213: 6315993986974719388
+    second: Movement_Buff_Without_VFX_2
+  - first:
+      213: 5098207638543577373
+    second: Movement_Buff_Without_VFX_3
+  - first:
+      213: 5941316457415119669
+    second: Movement_Buff_Without_VFX_4
+  - first:
+      213: -8288780460964762965
+    second: Movement_Buff_Without_VFX_5
+  - first:
+      213: 5354126836284166575
+    second: Movement_Buff_Without_VFX_6
+  - first:
+      213: -1914568947290308537
+    second: Movement_Buff_Without_VFX_7
+  - first:
+      213: 6907390877161774195
+    second: Movement_Buff_Without_VFX_8
+  - first:
+      213: -5040008843461615048
+    second: Movement_Buff_Without_VFX_9
+  - first:
+      213: -768376681430724283
+    second: Movement_Buff_Without_VFX_10
+  - first:
+      213: -6152664259922490518
+    second: Movement_Buff_Without_VFX_11
+  - first:
+      213: 225860795657356995
+    second: Movement_Buff_Without_VFX_12
+  - first:
+      213: 2155334504360904345
+    second: Movement_Buff_Without_VFX_13
+  - first:
+      213: -6235325886069477218
+    second: Movement_Buff_Without_VFX_14
+  - first:
+      213: -8240358372948275738
+    second: Movement_Buff_Without_VFX_15
+  - first:
+      213: -4847747193461000750
+    second: Movement_Buff_Without_VFX_16
+  - first:
+      213: -7428402370854676571
+    second: Movement_Buff_Without_VFX_17
+  - first:
+      213: -1011682014719671086
+    second: Movement_Buff_Without_VFX_18
+  - first:
+      213: 3629574815237163159
+    second: Movement_Buff_Without_VFX_19
+  - first:
+      213: -8659721309660139574
+    second: Movement_Buff_Without_VFX_20
+  - first:
+      213: -1966981924354274352
+    second: Movement_Buff_Without_VFX_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851157e9b6289c40800000000000000
+      internalID: 5519203923234198918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b894b3d74f9d6fa0800000000000000
+      internalID: -5805809213767378766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 31
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d912d411be6a750800000000000000
+      internalID: 6315993986974719388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 31
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11b296f5d870c640800000000000000
+      internalID: 5098207638543577373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533196ee6dbc37250800000000000000
+      internalID: 5941316457415119669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2ffa261658fc80800000000000000
+      internalID: -8288780460964762965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_6
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19a1f7dfdad4a40800000000000000
+      internalID: 5354126836284166575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74084ceafa51e65e0800000000000000
+      internalID: -1914568947290308537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_8
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5006e76bfbdf50800000000000000
+      internalID: 6907390877161774195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a4a4f8aa4e0ab0800000000000000
+      internalID: -5040008843461615048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_10
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d0a1ba7d2655f0800000000000000
+      internalID: -768376681430724283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_11
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b041d24785d9aa0800000000000000
+      internalID: -6152664259922490518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_12
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c608dd623b622300800000000000000
+      internalID: 225860795657356995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_13
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9960390ff4949ed10800000000000000
+      internalID: 2155334504360904345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_14
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90f70e842ca779a0800000000000000
+      internalID: -6235325886069477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_15
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed808618bd54ad80800000000000000
+      internalID: -8240358372948275738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_16
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53cdcac9759bcb0800000000000000
+      internalID: -4847747193461000750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_17
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 31
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7998ca66309e890800000000000000
+      internalID: -7428402370854676571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_18
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 31
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48bf65198c5f1f0800000000000000
+      internalID: -1011682014719671086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_19
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 31
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984aeb6017de5230800000000000000
+      internalID: 3629574815237163159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_20
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 31
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfa3db995d72d780800000000000000
+      internalID: -8659721309660139574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movement_Buff_Without_VFX_21
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbcf3f7c50e3b4e0800000000000000
+      internalID: -1966981924354274352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f4a91acac3780241b255def7206c693
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Movement_Buff_Without_VFX_0: 5519203923234198918
+      Movement_Buff_Without_VFX_1: -5805809213767378766
+      Movement_Buff_Without_VFX_10: -768376681430724283
+      Movement_Buff_Without_VFX_11: -6152664259922490518
+      Movement_Buff_Without_VFX_12: 225860795657356995
+      Movement_Buff_Without_VFX_13: 2155334504360904345
+      Movement_Buff_Without_VFX_14: -6235325886069477218
+      Movement_Buff_Without_VFX_15: -8240358372948275738
+      Movement_Buff_Without_VFX_16: -4847747193461000750
+      Movement_Buff_Without_VFX_17: -7428402370854676571
+      Movement_Buff_Without_VFX_18: -1011682014719671086
+      Movement_Buff_Without_VFX_19: 3629574815237163159
+      Movement_Buff_Without_VFX_2: 6315993986974719388
+      Movement_Buff_Without_VFX_20: -8659721309660139574
+      Movement_Buff_Without_VFX_21: -1966981924354274352
+      Movement_Buff_Without_VFX_3: 5098207638543577373
+      Movement_Buff_Without_VFX_4: 5941316457415119669
+      Movement_Buff_Without_VFX_5: -8288780460964762965
+      Movement_Buff_Without_VFX_6: 5354126836284166575
+      Movement_Buff_Without_VFX_7: -1914568947290308537
+      Movement_Buff_Without_VFX_8: 6907390877161774195
+      Movement_Buff_Without_VFX_9: -5040008843461615048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

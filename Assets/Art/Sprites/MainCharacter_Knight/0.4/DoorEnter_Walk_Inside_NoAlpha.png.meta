@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f30a4ff374809fe4281a47982d7ad5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4683428356341547813
+    second: DoorEnter_Walk_Inside_NoAlpha_0
+  - first:
+      213: -5924309554659198480
+    second: DoorEnter_Walk_Inside_NoAlpha_1
+  - first:
+      213: 7479367851962245416
+    second: DoorEnter_Walk_Inside_NoAlpha_2
+  - first:
+      213: 7751216831006183524
+    second: DoorEnter_Walk_Inside_NoAlpha_3
+  - first:
+      213: 8596940176396700657
+    second: DoorEnter_Walk_Inside_NoAlpha_4
+  - first:
+      213: -2318278155222125464
+    second: DoorEnter_Walk_Inside_NoAlpha_5
+  - first:
+      213: -5476400058395508358
+    second: DoorEnter_Walk_Inside_NoAlpha_6
+  - first:
+      213: 3334908897756734114
+    second: DoorEnter_Walk_Inside_NoAlpha_7
+  - first:
+      213: 3918258503126506318
+    second: DoorEnter_Walk_Inside_NoAlpha_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523cab6b641eef040800000000000000
+      internalID: 4683428356341547813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9f51f29df98cda0800000000000000
+      internalID: -5924309554659198480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 31
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821afa81f6d0cc760800000000000000
+      internalID: 7479367851962245416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 31
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460172dd3aad19b60800000000000000
+      internalID: 7751216831006183524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 31
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc869ba877e4770800000000000000
+      internalID: 8596940176396700657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 31
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ff63fc42d3dfd0800000000000000
+      internalID: -2318278155222125464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 31
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71486f792beff3b0800000000000000
+      internalID: -5476400058395508358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_7
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 31
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2641139f9f74e20800000000000000
+      internalID: 3334908897756734114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorEnter_Walk_Inside_NoAlpha_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 31
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b52094953706630800000000000000
+      internalID: 3918258503126506318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a7723bd4b389294791e5d7fd5fc9a7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DoorEnter_Walk_Inside_NoAlpha_0: 4683428356341547813
+      DoorEnter_Walk_Inside_NoAlpha_1: -5924309554659198480
+      DoorEnter_Walk_Inside_NoAlpha_2: 7479367851962245416
+      DoorEnter_Walk_Inside_NoAlpha_3: 7751216831006183524
+      DoorEnter_Walk_Inside_NoAlpha_4: 8596940176396700657
+      DoorEnter_Walk_Inside_NoAlpha_5: -2318278155222125464
+      DoorEnter_Walk_Inside_NoAlpha_6: -5476400058395508358
+      DoorEnter_Walk_Inside_NoAlpha_7: 3334908897756734114
+      DoorEnter_Walk_Inside_NoAlpha_8: 3918258503126506318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

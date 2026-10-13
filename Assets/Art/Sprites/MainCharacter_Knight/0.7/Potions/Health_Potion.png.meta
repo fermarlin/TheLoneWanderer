@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 9104612f04efe1046a4d6fae29a49876
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8717908661333387831
+    second: Health_Potion_0
+  - first:
+      213: -4222148713039127959
+    second: Health_Potion_1
+  - first:
+      213: 7093157724810617231
+    second: Health_Potion_2
+  - first:
+      213: -2515017991466800861
+    second: Health_Potion_3
+  - first:
+      213: -2807560267401944653
+    second: Health_Potion_4
+  - first:
+      213: -3979570861698506354
+    second: Health_Potion_5
+  - first:
+      213: -2913965259879100547
+    second: Health_Potion_6
+  - first:
+      213: 626599534843683723
+    second: Health_Potion_7
+  - first:
+      213: -7057276450633851046
+    second: Health_Potion_8
+  - first:
+      213: 6898234132591387372
+    second: Health_Potion_9
+  - first:
+      213: 2772607863881297875
+    second: Health_Potion_10
+  - first:
+      213: -7818461899528052790
+    second: Health_Potion_11
+  - first:
+      213: 6959056145085299288
+    second: Health_Potion_12
+  - first:
+      213: -9124565467336370688
+    second: Health_Potion_13
+  - first:
+      213: 8141489946304763020
+    second: Health_Potion_14
+  - first:
+      213: -2856716797314589308
+    second: Health_Potion_15
+  - first:
+      213: 5668562804523506226
+    second: Health_Potion_16
+  - first:
+      213: -5029805868112468620
+    second: Health_Potion_17
+  - first:
+      213: 9107980738346440361
+    second: Health_Potion_18
+  - first:
+      213: 3814728902125443587
+    second: Health_Potion_19
+  - first:
+      213: -5352305383553232035
+    second: Health_Potion_20
+  - first:
+      213: -5206336459705774653
+    second: Health_Potion_21
+  - first:
+      213: -2776953734284430362
+    second: Health_Potion_22
+  - first:
+      213: 5550214068200785678
+    second: Health_Potion_23
+  - first:
+      213: -9104375258007253463
+    second: Health_Potion_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae31fecbb3cf870800000000000000
+      internalID: 8717908661333387831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a1e6a8d1ae765c0800000000000000
+      internalID: -4222148713039127959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a72b9e55ff6260800000000000000
+      internalID: 7093157724810617231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a7ee367cd81dd0800000000000000
+      internalID: -2515017991466800861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a108dfca8909d0800000000000000
+      internalID: -2807560267401944653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8127fdc269b5c8c0800000000000000
+      internalID: -3979570861698506354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc315f8048f87d0800000000000000
+      internalID: -2913965259879100547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 31
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8368c205f022b800800000000000000
+      internalID: 626599534843683723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 31
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5d3e85748f0e90800000000000000
+      internalID: -7057276450633851046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a59a25637bbf50800000000000000
+      internalID: 6898234132591387372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 31
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df691c89284a7620800000000000000
+      internalID: 2772607863881297875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 31
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf54bc835e3f7390800000000000000
+      internalID: -7818461899528052790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 31
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85afecb71b8839060800000000000000
+      internalID: 6959056145085299288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 31
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069e9d2d080f5180800000000000000
+      internalID: -9124565467336370688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 31
+        width: 55
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d8ef78f16cf070800000000000000
+      internalID: 8141489946304763020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 31
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1c285537ea58d0800000000000000
+      internalID: -2856716797314589308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 65
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a9d9e56d7caae40800000000000000
+      internalID: 5668562804523506226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 31
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4752bf5463a823ab0800000000000000
+      internalID: -5029805868112468620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 31
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a65d32b93c066e70800000000000000
+      internalID: 9107980738346440361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 31
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a5a95a9b3a0f430800000000000000
+      internalID: 3814728902125443587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 31
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5316e38c9ac8b5b0800000000000000
+      internalID: -5352305383553232035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 31
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd821203906fb7b0800000000000000
+      internalID: -5206336459705774653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 31
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33846aa474679d0800000000000000
+      internalID: -2776953734284430362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 31
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cb7ae942560d40800000000000000
+      internalID: 5550214068200785678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4f9c90f2c6a180800000000000000
+      internalID: -9104375258007253463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c6512d248042c5940876f037fafc67db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Health_Potion_0: 8717908661333387831
+      Health_Potion_1: -4222148713039127959
+      Health_Potion_10: 2772607863881297875
+      Health_Potion_11: -7818461899528052790
+      Health_Potion_12: 6959056145085299288
+      Health_Potion_13: -9124565467336370688
+      Health_Potion_14: 8141489946304763020
+      Health_Potion_15: -2856716797314589308
+      Health_Potion_16: 5668562804523506226
+      Health_Potion_17: -5029805868112468620
+      Health_Potion_18: 9107980738346440361
+      Health_Potion_19: 3814728902125443587
+      Health_Potion_2: 7093157724810617231
+      Health_Potion_20: -5352305383553232035
+      Health_Potion_21: -5206336459705774653
+      Health_Potion_22: -2776953734284430362
+      Health_Potion_23: 5550214068200785678
+      Health_Potion_24: -9104375258007253463
+      Health_Potion_3: -2515017991466800861
+      Health_Potion_4: -2807560267401944653
+      Health_Potion_5: -3979570861698506354
+      Health_Potion_6: -2913965259879100547
+      Health_Potion_7: 626599534843683723
+      Health_Potion_8: -7057276450633851046
+      Health_Potion_9: 6898234132591387372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

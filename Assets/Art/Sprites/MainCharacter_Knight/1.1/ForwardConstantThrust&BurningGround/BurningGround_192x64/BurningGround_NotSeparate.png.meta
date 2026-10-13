@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 1b95adc9613c425439138f0a96b6ed8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5942837533394529559
+    second: BurningGround_NotSeparate_0
+  - first:
+      213: 5564317652839279010
+    second: BurningGround_NotSeparate_1
+  - first:
+      213: 7841536421664306556
+    second: BurningGround_NotSeparate_2
+  - first:
+      213: -6124842194761426139
+    second: BurningGround_NotSeparate_3
+  - first:
+      213: 5987880339368807652
+    second: BurningGround_NotSeparate_4
+  - first:
+      213: -6613001356629547099
+    second: BurningGround_NotSeparate_5
+  - first:
+      213: 3099178415044216809
+    second: BurningGround_NotSeparate_6
+  - first:
+      213: 5528333514534682985
+    second: BurningGround_NotSeparate_7
+  - first:
+      213: 8606260687403897023
+    second: BurningGround_NotSeparate_8
+  - first:
+      213: 105597595136060787
+    second: BurningGround_NotSeparate_9
+  - first:
+      213: -1902015317208267088
+    second: BurningGround_NotSeparate_10
+  - first:
+      213: -1506514710955465393
+    second: BurningGround_NotSeparate_11
+  - first:
+      213: -8598749943307945298
+    second: BurningGround_NotSeparate_12
+  - first:
+      213: -989822450384170498
+    second: BurningGround_NotSeparate_13
+  - first:
+      213: 1790811687941386218
+    second: BurningGround_NotSeparate_14
+  - first:
+      213: 6469582595583557117
+    second: BurningGround_NotSeparate_15
+  - first:
+      213: -4931556435682196416
+    second: BurningGround_NotSeparate_16
+  - first:
+      213: 340717155611862273
+    second: BurningGround_NotSeparate_17
+  - first:
+      213: -2625455725748938759
+    second: BurningGround_NotSeparate_18
+  - first:
+      213: -101782043515071387
+    second: BurningGround_NotSeparate_19
+  - first:
+      213: 1189509188831029450
+    second: BurningGround_NotSeparate_20
+  - first:
+      213: 7248899184866963018
+    second: BurningGround_NotSeparate_21
+  - first:
+      213: 8083874480522578869
+    second: BurningGround_NotSeparate_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_0
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 112
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de6d70043397250800000000000000
+      internalID: 5942837533394529559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 38
+        width: 66
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9abea9c6d683d40800000000000000
+      internalID: 5564317652839279010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_2
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 41
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b69a44dbb2dc60800000000000000
+      internalID: 7841536421664306556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 39
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bdbe38970300ba0800000000000000
+      internalID: -6124842194761426139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_4
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 44
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8f998179391350800000000000000
+      internalID: 5987880339368807652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_5
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 0
+        width: 88
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a76be6ad46e934a0800000000000000
+      internalID: -6613001356629547099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_6
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 0
+        width: 113
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c44c295e720b20800000000000000
+      internalID: 3099178415044216809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_7
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 104
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9610ab58a0698bc40800000000000000
+      internalID: 5528333514534682985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 44
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb05e1d4f749f6770800000000000000
+      internalID: 8606260687403897023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 62
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d683b0478277100800000000000000
+      internalID: 105597595136060787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 62
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60374752faa95e0800000000000000
+      internalID: -1902015317208267088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 62
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45699c2ad8c71be0800000000000000
+      internalID: -1506514710955465393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 67
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa38b41c7a1ba880800000000000000
+      internalID: -8598749943307945298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_13
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 59
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11526c9b17342f0800000000000000
+      internalID: -989822450384170498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_14
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 0
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2d57fdbd3ad810800000000000000
+      internalID: 1790811687941386218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 47
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdbec6e71398c950800000000000000
+      internalID: 6469582595583557117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_16
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 24
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440f5ddc879f8bb0800000000000000
+      internalID: -4931556435682196416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_17
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2
+        width: 7
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1056025a2787ab400800000000000000
+      internalID: 340717155611862273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_18
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 0
+        width: 108
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7183d7de1809bd0800000000000000
+      internalID: -2625455725748938759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_19
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56455cb45c5669ef0800000000000000
+      internalID: -101782043515071387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac826511e4cf18010800000000000000
+      internalID: 1189509188831029450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_21
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2d9ef663499460800000000000000
+      internalID: 7248899184866963018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningGround_NotSeparate_22
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc4648201bf2070800000000000000
+      internalID: 8083874480522578869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f8d7a32726ec09468b485a6756fb8b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BurningGround_NotSeparate_0: 5942837533394529559
+      BurningGround_NotSeparate_1: 5564317652839279010
+      BurningGround_NotSeparate_10: -1902015317208267088
+      BurningGround_NotSeparate_11: -1506514710955465393
+      BurningGround_NotSeparate_12: -8598749943307945298
+      BurningGround_NotSeparate_13: -989822450384170498
+      BurningGround_NotSeparate_14: 1790811687941386218
+      BurningGround_NotSeparate_15: 6469582595583557117
+      BurningGround_NotSeparate_16: -4931556435682196416
+      BurningGround_NotSeparate_17: 340717155611862273
+      BurningGround_NotSeparate_18: -2625455725748938759
+      BurningGround_NotSeparate_19: -101782043515071387
+      BurningGround_NotSeparate_2: 7841536421664306556
+      BurningGround_NotSeparate_20: 1189509188831029450
+      BurningGround_NotSeparate_21: 7248899184866963018
+      BurningGround_NotSeparate_22: 8083874480522578869
+      BurningGround_NotSeparate_3: -6124842194761426139
+      BurningGround_NotSeparate_4: 5987880339368807652
+      BurningGround_NotSeparate_5: -6613001356629547099
+      BurningGround_NotSeparate_6: 3099178415044216809
+      BurningGround_NotSeparate_7: 5528333514534682985
+      BurningGround_NotSeparate_8: 8606260687403897023
+      BurningGround_NotSeparate_9: 105597595136060787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

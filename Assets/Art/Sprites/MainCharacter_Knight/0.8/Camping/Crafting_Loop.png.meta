@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 3be3557b73b63874381be3ea839bb315
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2014992911535188470
+    second: Crafting_Loop_0
+  - first:
+      213: 3165190408177334462
+    second: Crafting_Loop_1
+  - first:
+      213: -2770494377933178720
+    second: Crafting_Loop_2
+  - first:
+      213: -4724440967283448306
+    second: Crafting_Loop_3
+  - first:
+      213: -8160509199263302003
+    second: Crafting_Loop_4
+  - first:
+      213: 1572109522597405622
+    second: Crafting_Loop_5
+  - first:
+      213: -6719044611546907068
+    second: Crafting_Loop_6
+  - first:
+      213: 1025683669516482776
+    second: Crafting_Loop_7
+  - first:
+      213: 3996164738694413678
+    second: Crafting_Loop_8
+  - first:
+      213: 6955075784866816330
+    second: Crafting_Loop_9
+  - first:
+      213: 6447050352751331867
+    second: Crafting_Loop_10
+  - first:
+      213: 2965007335466278753
+    second: Crafting_Loop_11
+  - first:
+      213: -8717721941451848669
+    second: Crafting_Loop_12
+  - first:
+      213: 7744858006822689343
+    second: Crafting_Loop_13
+  - first:
+      213: -8932704925111084613
+    second: Crafting_Loop_14
+  - first:
+      213: 3318598919136361448
+    second: Crafting_Loop_15
+  - first:
+      213: 5284462856265095999
+    second: Crafting_Loop_16
+  - first:
+      213: 9139337485047376224
+    second: Crafting_Loop_17
+  - first:
+      213: -7835055053077211348
+    second: Crafting_Loop_18
+  - first:
+      213: 3415976300328622527
+    second: Crafting_Loop_19
+  - first:
+      213: 4961094283764047705
+    second: Crafting_Loop_20
+  - first:
+      213: 3505151438347008768
+    second: Crafting_Loop_21
+  - first:
+      213: -4458965750193400150
+    second: Crafting_Loop_22
+  - first:
+      213: 2217001538643937830
+    second: Crafting_Loop_23
+  - first:
+      213: 4716242175946447557
+    second: Crafting_Loop_24
+  - first:
+      213: 3139572741353151281
+    second: Crafting_Loop_25
+  - first:
+      213: 3372955739526757050
+    second: Crafting_Loop_26
+  - first:
+      213: -8265466777025032335
+    second: Crafting_Loop_27
+  - first:
+      213: -2491120131695895025
+    second: Crafting_Loop_28
+  - first:
+      213: -2008956469934040970
+    second: Crafting_Loop_29
+  - first:
+      213: -3541828025889847814
+    second: Crafting_Loop_30
+  - first:
+      213: 2255214572158907785
+    second: Crafting_Loop_31
+  - first:
+      213: -5096884777013611332
+    second: Crafting_Loop_32
+  - first:
+      213: -7348487493668347984
+    second: Crafting_Loop_33
+  - first:
+      213: -5004695538166326536
+    second: Crafting_Loop_34
+  - first:
+      213: -3073162239767600904
+    second: Crafting_Loop_35
+  - first:
+      213: 8003994774511921086
+    second: Crafting_Loop_36
+  - first:
+      213: 4153548581982310997
+    second: Crafting_Loop_37
+  - first:
+      213: -5001909322165801527
+    second: Crafting_Loop_38
+  - first:
+      213: 998232511937649430
+    second: Crafting_Loop_39
+  - first:
+      213: -1289340849506584743
+    second: Crafting_Loop_40
+  - first:
+      213: -983262380549984795
+    second: Crafting_Loop_41
+  - first:
+      213: -1204863862365570642
+    second: Crafting_Loop_42
+  - first:
+      213: -2036598526863510657
+    second: Crafting_Loop_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crafting_Loop_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06d3037f9e4904e0800000000000000
+      internalID: -2014992911535188470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb832e508e30deb20800000000000000
+      internalID: 3165190408177334462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 31
+        width: 40
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8731fba0a3d89d0800000000000000
+      internalID: -2770494377933178720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 46
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0664cea8f96f6eb0800000000000000
+      internalID: -4724440967283448306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7a979e1c00ce80800000000000000
+      internalID: -8160509199263302003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 47
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b36d6a084141d510800000000000000
+      internalID: 1572109522597405622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_6
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 31
+        width: 41
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7eba568821c2a0800000000000000
+      internalID: -6719044611546907068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_7
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 48
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f275fcd5fb3e00800000000000000
+      internalID: 1025683669516482776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 31
+        width: 42
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d72d148aa357730800000000000000
+      internalID: 3996164738694413678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_9
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 49
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4168e6a394658060800000000000000
+      internalID: 6955075784866816330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_10
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acccc4326887950800000000000000
+      internalID: 6447050352751331867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 50
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f15ea5672d52920800000000000000
+      internalID: 2965007335466278753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324422d251e640780800000000000000
+      internalID: -8717721941451848669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_13
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 51
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a918cb2534b7b60800000000000000
+      internalID: 7744858006822689343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_14
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb91f57b238a80480800000000000000
+      internalID: -8932704925111084613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_15
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 52
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb3e1f52280e0e20800000000000000
+      internalID: 3318598919136361448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_16
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b5d6038fe265940800000000000000
+      internalID: 5284462856265095999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_17
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06929a6350375de70800000000000000
+      internalID: 9139337485047376224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_18
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2714bde0fa444390800000000000000
+      internalID: -7835055053077211348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_19
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99d36b85cf76f20800000000000000
+      internalID: 3415976300328622527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_20
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f1af057f859d440800000000000000
+      internalID: 4961094283764047705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_21
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7f9e79acc4a030800000000000000
+      internalID: 3505151438347008768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_22
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 31
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d61a56429e12c0800000000000000
+      internalID: -4458965750193400150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_23
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 31
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62acd59372f54ce10800000000000000
+      internalID: 2217001538643937830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_24
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 31
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad0047545737140800000000000000
+      internalID: 4716242175946447557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_25
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 39
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9ada26c0029b20800000000000000
+      internalID: 3139572741353151281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_26
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 31
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba7b99df552fce20800000000000000
+      internalID: 3372955739526757050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_27
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 42
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f41a432c92b4d80800000000000000
+      internalID: -8265466777025032335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_28
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 31
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e11715073cd6dd0800000000000000
+      internalID: -2491120131695895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_29
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 41
+        width: 35
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678db580cb0ce14e0800000000000000
+      internalID: -2008956469934040970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_30
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 31
+        width: 50
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af500550d26e8dec0800000000000000
+      internalID: -3541828025889847814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_31
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 40
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f0d964b12c4f10800000000000000
+      internalID: 2255214572158907785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_32
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 31
+        width: 51
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f10dbc4a3449b0800000000000000
+      internalID: -5096884777013611332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_33
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 39
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf5f77fe8de40a90800000000000000
+      internalID: -7348487493668347984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_34
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 31
+        width: 51
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1d9e8cefbb8ab0800000000000000
+      internalID: -5004695538166326536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_35
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 39
+        width: 36
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02289a93fe955d0800000000000000
+      internalID: -3073162239767600904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_36
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7add627d6e31f60800000000000000
+      internalID: 8003994774511921086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_37
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 47
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552126acd6e54a930800000000000000
+      internalID: 4153548581982310997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_38
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda79509f5a59ab0800000000000000
+      internalID: -5001909322165801527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_39
+      rect:
+        serializedVersion: 2
+        x: 4871
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1a454e2f6add00800000000000000
+      internalID: 998232511937649430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_40
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95772ce14575b1ee0800000000000000
+      internalID: -1289340849506584743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_41
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed205e0310ca52f0800000000000000
+      internalID: -983262380549984795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_42
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 31
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9bef863b6774fe0800000000000000
+      internalID: -1204863862365570642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Loop_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 41
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7377302e6c8cb3e0800000000000000
+      internalID: -2036598526863510657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 452a535fda93c054485ec6dafd4e3c05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crafting_Loop_0: -2014992911535188470
+      Crafting_Loop_1: 3165190408177334462
+      Crafting_Loop_10: 6447050352751331867
+      Crafting_Loop_11: 2965007335466278753
+      Crafting_Loop_12: -8717721941451848669
+      Crafting_Loop_13: 7744858006822689343
+      Crafting_Loop_14: -8932704925111084613
+      Crafting_Loop_15: 3318598919136361448
+      Crafting_Loop_16: 5284462856265095999
+      Crafting_Loop_17: 9139337485047376224
+      Crafting_Loop_18: -7835055053077211348
+      Crafting_Loop_19: 3415976300328622527
+      Crafting_Loop_2: -2770494377933178720
+      Crafting_Loop_20: 4961094283764047705
+      Crafting_Loop_21: 3505151438347008768
+      Crafting_Loop_22: -4458965750193400150
+      Crafting_Loop_23: 2217001538643937830
+      Crafting_Loop_24: 4716242175946447557
+      Crafting_Loop_25: 3139572741353151281
+      Crafting_Loop_26: 3372955739526757050
+      Crafting_Loop_27: -8265466777025032335
+      Crafting_Loop_28: -2491120131695895025
+      Crafting_Loop_29: -2008956469934040970
+      Crafting_Loop_3: -4724440967283448306
+      Crafting_Loop_30: -3541828025889847814
+      Crafting_Loop_31: 2255214572158907785
+      Crafting_Loop_32: -5096884777013611332
+      Crafting_Loop_33: -7348487493668347984
+      Crafting_Loop_34: -5004695538166326536
+      Crafting_Loop_35: -3073162239767600904
+      Crafting_Loop_36: 8003994774511921086
+      Crafting_Loop_37: 4153548581982310997
+      Crafting_Loop_38: -5001909322165801527
+      Crafting_Loop_39: 998232511937649430
+      Crafting_Loop_4: -8160509199263302003
+      Crafting_Loop_40: -1289340849506584743
+      Crafting_Loop_41: -983262380549984795
+      Crafting_Loop_42: -1204863862365570642
+      Crafting_Loop_43: -2036598526863510657
+      Crafting_Loop_5: 1572109522597405622
+      Crafting_Loop_6: -6719044611546907068
+      Crafting_Loop_7: 1025683669516482776
+      Crafting_Loop_8: 3996164738694413678
+      Crafting_Loop_9: 6955075784866816330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: a70edd2de63acf64094c180d1c503627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2142771980275849127
+    second: HeavyAttackCharge2_LVL3_SlashVFX_0
+  - first:
+      213: -8370829877347576028
+    second: HeavyAttackCharge2_LVL3_SlashVFX_1
+  - first:
+      213: 7992195738610727134
+    second: HeavyAttackCharge2_LVL3_SlashVFX_2
+  - first:
+      213: 3040930100043139093
+    second: HeavyAttackCharge2_LVL3_SlashVFX_3
+  - first:
+      213: -5289536539582820417
+    second: HeavyAttackCharge2_LVL3_SlashVFX_4
+  - first:
+      213: -9214245138342341068
+    second: HeavyAttackCharge2_LVL3_SlashVFX_5
+  - first:
+      213: -1223942380708590241
+    second: HeavyAttackCharge2_LVL3_SlashVFX_6
+  - first:
+      213: 5720090309366148763
+    second: HeavyAttackCharge2_LVL3_SlashVFX_7
+  - first:
+      213: -5427686559327810765
+    second: HeavyAttackCharge2_LVL3_SlashVFX_8
+  - first:
+      213: -6918148917726267830
+    second: HeavyAttackCharge2_LVL3_SlashVFX_9
+  - first:
+      213: -2717568587812161606
+    second: HeavyAttackCharge2_LVL3_SlashVFX_10
+  - first:
+      213: -7758770231252535174
+    second: HeavyAttackCharge2_LVL3_SlashVFX_11
+  - first:
+      213: 1734597611397144699
+    second: HeavyAttackCharge2_LVL3_SlashVFX_12
+  - first:
+      213: -5082557724387047386
+    second: HeavyAttackCharge2_LVL3_SlashVFX_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7900f53c7acbd10800000000000000
+      internalID: 2142771980275849127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 59
+        width: 55
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427987db396d4db80800000000000000
+      internalID: -8370829877347576028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 31
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed878470eabf9ee60800000000000000
+      internalID: 7992195738610727134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 31
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5184ddf70dd833a20800000000000000
+      internalID: 3040930100043139093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_4
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 31
+        width: 71
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf87bbda8ac796b0800000000000000
+      internalID: -5289536539582820417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 35
+        width: 58
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361cb7addc602080800000000000000
+      internalID: -9214245138342341068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 31
+        width: 13
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8154b3eea30fe0800000000000000
+      internalID: -1223942380708590241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 60
+        width: 7
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e6cec74d7d16f40800000000000000
+      internalID: 5720090309366148763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 31
+        width: 14
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b8a17d4dbfca4b0800000000000000
+      internalID: -5427686559327810765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 31
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463ca7963ccdff90800000000000000
+      internalID: -6918148917726267830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_10
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 31
+        width: 393
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab732b684c1494ad0800000000000000
+      internalID: -2717568587812161606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 61
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a783158159f435490800000000000000
+      internalID: -7758770231252535174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_12
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 35
+        width: 7
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7061975657821810800000000000000
+      internalID: 1734597611397144699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyAttackCharge2_LVL3_SlashVFX_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 31
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6280e7f9da02779b0800000000000000
+      internalID: -5082557724387047386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77718e2547b87c84eabb33c6e073e16a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeavyAttackCharge2_LVL3_SlashVFX_0: 2142771980275849127
+      HeavyAttackCharge2_LVL3_SlashVFX_1: -8370829877347576028
+      HeavyAttackCharge2_LVL3_SlashVFX_10: -2717568587812161606
+      HeavyAttackCharge2_LVL3_SlashVFX_11: -7758770231252535174
+      HeavyAttackCharge2_LVL3_SlashVFX_12: 1734597611397144699
+      HeavyAttackCharge2_LVL3_SlashVFX_13: -5082557724387047386
+      HeavyAttackCharge2_LVL3_SlashVFX_2: 7992195738610727134
+      HeavyAttackCharge2_LVL3_SlashVFX_3: 3040930100043139093
+      HeavyAttackCharge2_LVL3_SlashVFX_4: -5289536539582820417
+      HeavyAttackCharge2_LVL3_SlashVFX_5: -9214245138342341068
+      HeavyAttackCharge2_LVL3_SlashVFX_6: -1223942380708590241
+      HeavyAttackCharge2_LVL3_SlashVFX_7: 5720090309366148763
+      HeavyAttackCharge2_LVL3_SlashVFX_8: -5427686559327810765
+      HeavyAttackCharge2_LVL3_SlashVFX_9: -6918148917726267830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

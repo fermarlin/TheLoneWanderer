@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ca7092f8f1ab7c447bdb8cc712c6366e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5511116431282796311
+    second: Aerial_StraightAttack_2_0
+  - first:
+      213: 4310526612337827929
+    second: Aerial_StraightAttack_2_1
+  - first:
+      213: 8696828130425390923
+    second: Aerial_StraightAttack_2_2
+  - first:
+      213: 8269417197180152735
+    second: Aerial_StraightAttack_2_3
+  - first:
+      213: 1028046422177544381
+    second: Aerial_StraightAttack_2_4
+  - first:
+      213: -4871530831622347742
+    second: Aerial_StraightAttack_2_5
+  - first:
+      213: 5430080020048054687
+    second: Aerial_StraightAttack_2_6
+  - first:
+      213: -6311019661307619348
+    second: Aerial_StraightAttack_2_7
+  - first:
+      213: -6393061475825458125
+    second: Aerial_StraightAttack_2_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717fd62f13b6b7c40800000000000000
+      internalID: 5511116431282796311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 35
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a343ad1112db30800000000000000
+      internalID: 4310526612337827929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 34
+        width: 96
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4741aa5b1751b870800000000000000
+      internalID: 8696828130425390923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 35
+        width: 69
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bed69a02fd2c270800000000000000
+      internalID: 8269417197180152735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_4
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 35
+        width: 72
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8f08e26ca544e00800000000000000
+      internalID: 1028046422177544381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_5
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 35
+        width: 72
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22469c4e488d46cb0800000000000000
+      internalID: -4871530831622347742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_6
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 36
+        width: 71
+        height: 39
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9909e822058b5b40800000000000000
+      internalID: 5430080020048054687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_7
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 36
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d0452e01ca68a0800000000000000
+      internalID: -6311019661307619348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerial_StraightAttack_2_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 35
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334603aa5784747a0800000000000000
+      internalID: -6393061475825458125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6bc862db1097fa74796831753395d09b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aerial_StraightAttack_2_0: 5511116431282796311
+      Aerial_StraightAttack_2_1: 4310526612337827929
+      Aerial_StraightAttack_2_2: 8696828130425390923
+      Aerial_StraightAttack_2_3: 8269417197180152735
+      Aerial_StraightAttack_2_4: 1028046422177544381
+      Aerial_StraightAttack_2_5: -4871530831622347742
+      Aerial_StraightAttack_2_6: 5430080020048054687
+      Aerial_StraightAttack_2_7: -6311019661307619348
+      Aerial_StraightAttack_2_8: -6393061475825458125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

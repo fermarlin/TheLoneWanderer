@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: ee6ddd752eb96e246bdd372423dae252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6704849217856264613
+    second: TombStone_Attack_0
+  - first:
+      213: 3517828064930407981
+    second: TombStone_Attack_1
+  - first:
+      213: -6374624208082704062
+    second: TombStone_Attack_2
+  - first:
+      213: 168613951575303342
+    second: TombStone_Attack_3
+  - first:
+      213: 4560076872663235414
+    second: TombStone_Attack_4
+  - first:
+      213: -8864047099909258072
+    second: TombStone_Attack_5
+  - first:
+      213: -2263438805483735417
+    second: TombStone_Attack_6
+  - first:
+      213: -1014040861062546515
+    second: TombStone_Attack_7
+  - first:
+      213: -9027638872764332093
+    second: TombStone_Attack_8
+  - first:
+      213: -2438403912322416808
+    second: TombStone_Attack_9
+  - first:
+      213: 5254379729140640267
+    second: TombStone_Attack_10
+  - first:
+      213: 323233652322873112
+    second: TombStone_Attack_11
+  - first:
+      213: -1301311619773543274
+    second: TombStone_Attack_12
+  - first:
+      213: 5373454099245227168
+    second: TombStone_Attack_13
+  - first:
+      213: -7729387546082399152
+    second: TombStone_Attack_14
+  - first:
+      213: 1242868354560485713
+    second: TombStone_Attack_15
+  - first:
+      213: 7701467817461625212
+    second: TombStone_Attack_16
+  - first:
+      213: 7157642192079928412
+    second: TombStone_Attack_17
+  - first:
+      213: -1066527061960696762
+    second: TombStone_Attack_18
+  - first:
+      213: 3091267795458920348
+    second: TombStone_Attack_19
+  - first:
+      213: -1468392780590579096
+    second: TombStone_Attack_20
+  - first:
+      213: -1349122902041709271
+    second: TombStone_Attack_21
+  - first:
+      213: -3360838002155840813
+    second: TombStone_Attack_22
+  - first:
+      213: 3842573497357961191
+    second: TombStone_Attack_23
+  - first:
+      213: -794725584513833361
+    second: TombStone_Attack_24
+  - first:
+      213: -8304100860867189190
+    second: TombStone_Attack_25
+  - first:
+      213: 5790308612426905087
+    second: TombStone_Attack_26
+  - first:
+      213: 6284948311181917155
+    second: TombStone_Attack_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TombStone_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562f11092793f2a0800000000000000
+      internalID: -6704849217856264613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a31f9cf5d1d030800000000000000
+      internalID: 3517828064930407981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249ef949e09c887a0800000000000000
+      internalID: -6374624208082704062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea422dfde79075200800000000000000
+      internalID: 168613951575303342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 34
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bf09f51c5a84f30800000000000000
+      internalID: 4560076872663235414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 31
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c39950249cf480800000000000000
+      internalID: -8864047099909258072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 34
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786be4c0666a690e0800000000000000
+      internalID: -2263438805483735417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb2a0a5376de1f0800000000000000
+      internalID: -1014040861062546515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 31
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7cf54964267b280800000000000000
+      internalID: -9027638872764332093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 31
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f791b9f8c092ed0800000000000000
+      internalID: -2438403912322416808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 36
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ae076568e4be840800000000000000
+      internalID: 5254379729140640267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 31
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f28225b4b5c7400800000000000000
+      internalID: 323233652322873112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 36
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c4f49f9ffc0fde0800000000000000
+      internalID: -1301311619773543274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 31
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd0629808529a40800000000000000
+      internalID: 5373454099245227168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 37
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c2e689af2bbb490800000000000000
+      internalID: -7729387546082399152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 31
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159e628fe2e8f3110800000000000000
+      internalID: 1242868354560485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 31
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7137e40d2c11ea60800000000000000
+      internalID: 7701467817461625212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 31
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb540a6ad055360800000000000000
+      internalID: 7157642192079928412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 42
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cdd70b94fe231f0800000000000000
+      internalID: -1066527061960696762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 31
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0fe58ea366ea20800000000000000
+      internalID: 3091267795458920348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 44
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628622cb883f9be0800000000000000
+      internalID: -1468392780590579096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 31
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b5795ed3f64de0800000000000000
+      internalID: -1349122902041709271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 31
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1eddb4a7eb51d0800000000000000
+      internalID: -3360838002155840813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 31
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70a5dac30935530800000000000000
+      internalID: 3842573497357961191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 31
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f666321aa4198f4f0800000000000000
+      internalID: -794725584513833361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 31
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36eef89348e1cc80800000000000000
+      internalID: -8304100860867189190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 31
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5379f210f4b5050800000000000000
+      internalID: 5790308612426905087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombStone_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 31
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb70bf903f983750800000000000000
+      internalID: 6284948311181917155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TombStone_Attack_0: -6704849217856264613
+      TombStone_Attack_1: 3517828064930407981
+      TombStone_Attack_10: 5254379729140640267
+      TombStone_Attack_11: 323233652322873112
+      TombStone_Attack_12: -1301311619773543274
+      TombStone_Attack_13: 5373454099245227168
+      TombStone_Attack_14: -7729387546082399152
+      TombStone_Attack_15: 1242868354560485713
+      TombStone_Attack_16: 7701467817461625212
+      TombStone_Attack_17: 7157642192079928412
+      TombStone_Attack_18: -1066527061960696762
+      TombStone_Attack_19: 3091267795458920348
+      TombStone_Attack_2: -6374624208082704062
+      TombStone_Attack_20: -1468392780590579096
+      TombStone_Attack_21: -1349122902041709271
+      TombStone_Attack_22: -3360838002155840813
+      TombStone_Attack_23: 3842573497357961191
+      TombStone_Attack_24: -794725584513833361
+      TombStone_Attack_25: -8304100860867189190
+      TombStone_Attack_26: 5790308612426905087
+      TombStone_Attack_27: 6284948311181917155
+      TombStone_Attack_3: 168613951575303342
+      TombStone_Attack_4: 4560076872663235414
+      TombStone_Attack_5: -8864047099909258072
+      TombStone_Attack_6: -2263438805483735417
+      TombStone_Attack_7: -1014040861062546515
+      TombStone_Attack_8: -9027638872764332093
+      TombStone_Attack_9: -2438403912322416808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 0e18d600c5e83244fa74313d8269cd35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4158552684489398439
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_0
+  - first:
+      213: -3884957744231913236
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_1
+  - first:
+      213: -5460402305839652355
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_2
+  - first:
+      213: 2750681611268759687
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_3
+  - first:
+      213: 8954284408329379403
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_4
+  - first:
+      213: 4622472516258654393
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_5
+  - first:
+      213: -1268772350039593768
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_6
+  - first:
+      213: 6274666827735709533
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_7
+  - first:
+      213: -1622563534072360327
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_8
+  - first:
+      213: 221392569495060000
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_9
+  - first:
+      213: -5772570585959349697
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_10
+  - first:
+      213: -9077295676004288591
+    second: LightSpecialAttack_BackDashAttack_WithOutVFX_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8dcb232a526b930800000000000000
+      internalID: 4158552684489398439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce867a7d38bd51ac0800000000000000
+      internalID: -3884957744231913236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 31
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df124b58801c834b0800000000000000
+      internalID: -5460402305839652355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 31
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780afd90a526c2620800000000000000
+      internalID: 2750681611268759687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 31
+        width: 72
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9a404a32044c70800000000000000
+      internalID: 8954284408329379403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 31
+        width: 75
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86a9b3342562040800000000000000
+      internalID: 4622472516258654393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 31
+        width: 75
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc6d07154a646ee0800000000000000
+      internalID: -1268772350039593768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 31
+        width: 72
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573d173c38141750800000000000000
+      internalID: 6274666827735709533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 31
+        width: 49
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725d1eff0f7b79e0800000000000000
+      internalID: -1622563534072360327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 31
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef9a47e5b821300800000000000000
+      internalID: 221392569495060000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_10
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 31
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32460fe2a5b3efa0800000000000000
+      internalID: -5772570585959349697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_BackDashAttack_WithOutVFX_11
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7339e1da7f60280800000000000000
+      internalID: -9077295676004288591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd1493d4d64affe4b8df35f3960b85ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LightSpecialAttack_BackDashAttack_WithOutVFX_0: 4158552684489398439
+      LightSpecialAttack_BackDashAttack_WithOutVFX_1: -3884957744231913236
+      LightSpecialAttack_BackDashAttack_WithOutVFX_10: -5772570585959349697
+      LightSpecialAttack_BackDashAttack_WithOutVFX_11: -9077295676004288591
+      LightSpecialAttack_BackDashAttack_WithOutVFX_2: -5460402305839652355
+      LightSpecialAttack_BackDashAttack_WithOutVFX_3: 2750681611268759687
+      LightSpecialAttack_BackDashAttack_WithOutVFX_4: 8954284408329379403
+      LightSpecialAttack_BackDashAttack_WithOutVFX_5: 4622472516258654393
+      LightSpecialAttack_BackDashAttack_WithOutVFX_6: -1268772350039593768
+      LightSpecialAttack_BackDashAttack_WithOutVFX_7: 6274666827735709533
+      LightSpecialAttack_BackDashAttack_WithOutVFX_8: -1622563534072360327
+      LightSpecialAttack_BackDashAttack_WithOutVFX_9: 221392569495060000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

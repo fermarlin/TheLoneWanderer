@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6a11e48c242746b4cb6dfb4a2432372e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6696845774592570389
+    second: TakeBlock_LeftSwing_0
+  - first:
+      213: 933986033633619426
+    second: TakeBlock_LeftSwing_1
+  - first:
+      213: -8699888490524256416
+    second: TakeBlock_LeftSwing_2
+  - first:
+      213: 1443669363327507184
+    second: TakeBlock_LeftSwing_3
+  - first:
+      213: 3738724311453291531
+    second: TakeBlock_LeftSwing_4
+  - first:
+      213: -8873947482603992567
+    second: TakeBlock_LeftSwing_5
+  - first:
+      213: 3664061939972447148
+    second: TakeBlock_LeftSwing_6
+  - first:
+      213: 6990604246644722833
+    second: TakeBlock_LeftSwing_7
+  - first:
+      213: -8424984116545497960
+    second: TakeBlock_LeftSwing_8
+  - first:
+      213: -1243614845499584931
+    second: TakeBlock_LeftSwing_9
+  - first:
+      213: 5887168290828623132
+    second: TakeBlock_LeftSwing_10
+  - first:
+      213: 8187219546474234579
+    second: TakeBlock_LeftSwing_11
+  - first:
+      213: 3135125462842441094
+    second: TakeBlock_LeftSwing_12
+  - first:
+      213: -5795975913796335926
+    second: TakeBlock_LeftSwing_13
+  - first:
+      213: -7657346232355082484
+    second: TakeBlock_LeftSwing_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 50
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb85d9df360013a0800000000000000
+      internalID: -6696845774592570389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 69
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed68ef595f26fc00800000000000000
+      internalID: 933986033633619426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 65
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067dac80389c34780800000000000000
+      internalID: -8699888490524256416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa104613a1f80410800000000000000
+      internalID: 1443669363327507184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b045a41e3fd92e330800000000000000
+      internalID: 3738724311453291531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90acaefd7c769d480800000000000000
+      internalID: -8873947482603992567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 46
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab161fdbec59d230800000000000000
+      internalID: 3664061939972447148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c8896468d930160800000000000000
+      internalID: 6990604246644722833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8945ffe5591741b80800000000000000
+      internalID: -8424984116545497960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e489013eacdbee0800000000000000
+      internalID: -1243614845499584931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 0
+        width: 47
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d98c37e5c63b150800000000000000
+      internalID: 5887168290828623132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d24bbdbcc8de9170800000000000000
+      internalID: 8187219546474234579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_12
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 35
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d71037ff3328b20800000000000000
+      internalID: 3135125462842441094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_13
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac603736d9e809fa0800000000000000
+      internalID: -5795975913796335926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBlock_LeftSwing_14
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fac4a0c24abb590800000000000000
+      internalID: -7657346232355082484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a741b2f3a1e2b640ae37ef6d45ddf22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TakeBlock_LeftSwing_0: -6696845774592570389
+      TakeBlock_LeftSwing_1: 933986033633619426
+      TakeBlock_LeftSwing_10: 5887168290828623132
+      TakeBlock_LeftSwing_11: 8187219546474234579
+      TakeBlock_LeftSwing_12: 3135125462842441094
+      TakeBlock_LeftSwing_13: -5795975913796335926
+      TakeBlock_LeftSwing_14: -7657346232355082484
+      TakeBlock_LeftSwing_2: -8699888490524256416
+      TakeBlock_LeftSwing_3: 1443669363327507184
+      TakeBlock_LeftSwing_4: 3738724311453291531
+      TakeBlock_LeftSwing_5: -8873947482603992567
+      TakeBlock_LeftSwing_6: 3664061939972447148
+      TakeBlock_LeftSwing_7: 6990604246644722833
+      TakeBlock_LeftSwing_8: -8424984116545497960
+      TakeBlock_LeftSwing_9: -1243614845499584931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

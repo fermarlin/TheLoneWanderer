@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5895cdbdca2721d47831ec14697a4034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4070234580219448190
+    second: SpecialLightAttack_BumerangShield_Start_0
+  - first:
+      213: -7115651243966739712
+    second: SpecialLightAttack_BumerangShield_Start_1
+  - first:
+      213: -2619353996706618155
+    second: SpecialLightAttack_BumerangShield_Start_2
+  - first:
+      213: 3873694733477671929
+    second: SpecialLightAttack_BumerangShield_Start_3
+  - first:
+      213: -3491312186388294529
+    second: SpecialLightAttack_BumerangShield_Start_4
+  - first:
+      213: -2253820724337555686
+    second: SpecialLightAttack_BumerangShield_Start_5
+  - first:
+      213: -6158255276917506654
+    second: SpecialLightAttack_BumerangShield_Start_6
+  - first:
+      213: -3038002253708536859
+    second: SpecialLightAttack_BumerangShield_Start_7
+  - first:
+      213: -2114755840787933836
+    second: SpecialLightAttack_BumerangShield_Start_8
+  - first:
+      213: 9212130592817503669
+    second: SpecialLightAttack_BumerangShield_Start_9
+  - first:
+      213: 2849098590497550956
+    second: SpecialLightAttack_BumerangShield_Start_10
+  - first:
+      213: 4783709079173011603
+    second: SpecialLightAttack_BumerangShield_Start_11
+  - first:
+      213: 972501304894814221
+    second: SpecialLightAttack_BumerangShield_Start_12
+  - first:
+      213: -1911807800781808146
+    second: SpecialLightAttack_BumerangShield_Start_13
+  - first:
+      213: -6241985028641037686
+    second: SpecialLightAttack_BumerangShield_Start_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31
+        width: 42
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284328dd63f9387c0800000000000000
+      internalID: -4070234580219448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bcbc9d4e0204d90800000000000000
+      internalID: -7115651243966739712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46d4dfa6f26abd0800000000000000
+      internalID: -2619353996706618155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 31
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3fc3d16d022c530800000000000000
+      internalID: 3873694733477671929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 31
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f745552701e5c8fc0800000000000000
+      internalID: -3491312186388294529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 31
+        width: 69
+        height: 41
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1742721ef1d8b0e0800000000000000
+      internalID: -2253820724337555686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 31
+        width: 62
+        height: 41
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad3827147b798aa0800000000000000
+      internalID: -6158255276917506654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 31
+        width: 59
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ddd8db09d6d5d0800000000000000
+      internalID: -3038002253708536859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 31
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475172b64c0e6a2e0800000000000000
+      internalID: -2114755840787933836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_9
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 31
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd556957ff08df70800000000000000
+      internalID: 9212130592817503669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_10
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 31
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623ca8a2180a8720800000000000000
+      internalID: 2849098590497550956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_11
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 31
+        width: 59
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981be4ff06236240800000000000000
+      internalID: 4783709079173011603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_12
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 31
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08fbd5c8c40f7d00800000000000000
+      internalID: 972501304894814221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 31
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed54933fe4e775e0800000000000000
+      internalID: -1911807800781808146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_Start_14
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 31
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826b8a10b30069a0800000000000000
+      internalID: -6241985028641037686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e125a7170ac17d4cbc0a355cb72f088
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpecialLightAttack_BumerangShield_Start_0: -4070234580219448190
+      SpecialLightAttack_BumerangShield_Start_1: -7115651243966739712
+      SpecialLightAttack_BumerangShield_Start_10: 2849098590497550956
+      SpecialLightAttack_BumerangShield_Start_11: 4783709079173011603
+      SpecialLightAttack_BumerangShield_Start_12: 972501304894814221
+      SpecialLightAttack_BumerangShield_Start_13: -1911807800781808146
+      SpecialLightAttack_BumerangShield_Start_14: -6241985028641037686
+      SpecialLightAttack_BumerangShield_Start_2: -2619353996706618155
+      SpecialLightAttack_BumerangShield_Start_3: 3873694733477671929
+      SpecialLightAttack_BumerangShield_Start_4: -3491312186388294529
+      SpecialLightAttack_BumerangShield_Start_5: -2253820724337555686
+      SpecialLightAttack_BumerangShield_Start_6: -6158255276917506654
+      SpecialLightAttack_BumerangShield_Start_7: -3038002253708536859
+      SpecialLightAttack_BumerangShield_Start_8: -2114755840787933836
+      SpecialLightAttack_BumerangShield_Start_9: 9212130592817503669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

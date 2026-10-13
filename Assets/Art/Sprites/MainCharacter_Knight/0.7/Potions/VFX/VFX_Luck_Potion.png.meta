@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 4fd2243903b755542a401c68949c263c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2940017469256013092
+    second: VFX_Luck_Potion_0
+  - first:
+      213: 5850289744296319524
+    second: VFX_Luck_Potion_1
+  - first:
+      213: -8221996790087928833
+    second: VFX_Luck_Potion_2
+  - first:
+      213: -1388947598025781636
+    second: VFX_Luck_Potion_3
+  - first:
+      213: 7086481193350604918
+    second: VFX_Luck_Potion_4
+  - first:
+      213: 3976875395774386895
+    second: VFX_Luck_Potion_5
+  - first:
+      213: 220352979896852603
+    second: VFX_Luck_Potion_6
+  - first:
+      213: 4991404574753958374
+    second: VFX_Luck_Potion_7
+  - first:
+      213: 4577372283388754839
+    second: VFX_Luck_Potion_8
+  - first:
+      213: -3388124073436923373
+    second: VFX_Luck_Potion_9
+  - first:
+      213: -6363358373078369509
+    second: VFX_Luck_Potion_10
+  - first:
+      213: 6629654263423810484
+    second: VFX_Luck_Potion_11
+  - first:
+      213: -5630461903181125736
+    second: VFX_Luck_Potion_12
+  - first:
+      213: -2069884781821775573
+    second: VFX_Luck_Potion_13
+  - first:
+      213: 3147995557660384707
+    second: VFX_Luck_Potion_14
+  - first:
+      213: 2323543138843801279
+    second: VFX_Luck_Potion_15
+  - first:
+      213: -6023925087684285412
+    second: VFX_Luck_Potion_16
+  - first:
+      213: 7547806771355824846
+    second: VFX_Luck_Potion_17
+  - first:
+      213: -5143113802174644553
+    second: VFX_Luck_Potion_18
+  - first:
+      213: 2671243004812109888
+    second: VFX_Luck_Potion_19
+  - first:
+      213: -1607643545009375836
+    second: VFX_Luck_Potion_20
+  - first:
+      213: 5568333613822091272
+    second: VFX_Luck_Potion_21
+  - first:
+      213: 4729337006651909794
+    second: VFX_Luck_Potion_22
+  - first:
+      213: -8258978763516106559
+    second: VFX_Luck_Potion_23
+  - first:
+      213: 6076478347468741767
+    second: VFX_Luck_Potion_24
+  - first:
+      213: 8288714349279320338
+    second: VFX_Luck_Potion_25
+  - first:
+      213: -3365508185900595836
+    second: VFX_Luck_Potion_26
+  - first:
+      213: -277466388032192154
+    second: VFX_Luck_Potion_27
+  - first:
+      213: -6376388372978223404
+    second: VFX_Luck_Potion_28
+  - first:
+      213: -130099171681198553
+    second: VFX_Luck_Potion_29
+  - first:
+      213: 813191755161574800
+    second: VFX_Luck_Potion_30
+  - first:
+      213: -1894907310243842691
+    second: VFX_Luck_Potion_31
+  - first:
+      213: 3604535576608990178
+    second: VFX_Luck_Potion_32
+  - first:
+      213: 5334959252137570924
+    second: VFX_Luck_Potion_33
+  - first:
+      213: -3663110921657945018
+    second: VFX_Luck_Potion_34
+  - first:
+      213: -6044354119911889167
+    second: VFX_Luck_Potion_35
+  - first:
+      213: -4250129277180652929
+    second: VFX_Luck_Potion_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 211
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259278bf4a0dc820800000000000000
+      internalID: 2940017469256013092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 62
+        width: 52
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a94e9b687603150800000000000000
+      internalID: 5850289744296319524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 74
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3386e3b7995ed80800000000000000
+      internalID: -8221996790087928833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 74
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e8a00c48779bce0800000000000000
+      internalID: -1388947598025781636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 63
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678262d791d385260800000000000000
+      internalID: 7086481193350604918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 66
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29f112a13b03730800000000000000
+      internalID: 3976875395774386895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 75
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7063f32ed9de0300800000000000000
+      internalID: 220352979896852603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 68
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92870e308054540800000000000000
+      internalID: 4991404574753958374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 75
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bfa1cf6d7168f30800000000000000
+      internalID: 4577372283388754839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 67
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab7d33b17faf0d0800000000000000
+      internalID: -3388124073436923373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 75
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bf722364fc0b7a0800000000000000
+      internalID: -6363358373078369509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 66
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb70b5d63410c50800000000000000
+      internalID: 6629654263423810484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 73
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e4830bb49cd1b0800000000000000
+      internalID: -5630461903181125736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 75
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b685f1ca4643e0800000000000000
+      internalID: -2069884781821775573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 72
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cddad8e74defab20800000000000000
+      internalID: 3147995557660384707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 75
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b4139c22ee3020800000000000000
+      internalID: 2323543138843801279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 75
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca3038c08b66ca0800000000000000
+      internalID: -6023925087684285412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 75
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b3ffb4423fb860800000000000000
+      internalID: 7547806771355824846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 75
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb8fd0f3dff98b0800000000000000
+      internalID: -5143113802174644553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 31
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a29a2c59221520800000000000000
+      internalID: 2671243004812109888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 50
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a53446a6b080b9e0800000000000000
+      internalID: -1607643545009375836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 31
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800abb26be1b64d40800000000000000
+      internalID: 5568333613822091272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 31
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a89053faf1a140800000000000000
+      internalID: 4729337006651909794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 51
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a0219296326d80800000000000000
+      internalID: -8258978763516106559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 31
+        width: 55
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1a3accdcf35450800000000000000
+      internalID: 6076478347468741767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 51
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2191a7109cd670370800000000000000
+      internalID: 8288714349279320338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_26
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 31
+        width: 59
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c9bad2205b41d0800000000000000
+      internalID: -3365508185900595836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_27
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 49
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610b384acd362cf0800000000000000
+      internalID: -277466388032192154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_28
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 31
+        width: 62
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b3beee848287a0800000000000000
+      internalID: -6376388372978223404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_29
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 47
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e9e5e1e7bc13ef0800000000000000
+      internalID: -130099171681198553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_30
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 31
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d9ea4c799094b00800000000000000
+      internalID: 813191755161574800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_31
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 45
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ff9a47dfe3b5e0800000000000000
+      internalID: -1894907310243842691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_32
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 31
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e369006202e50230800000000000000
+      internalID: 3604535576608990178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_33
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 44
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f7da8c25990a40800000000000000
+      internalID: 5334959252137570924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_34
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 31
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64479b556040a2dc0800000000000000
+      internalID: -3663110921657945018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_35
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 31
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6abf9c3f32e1ca0800000000000000
+      internalID: -6044354119911889167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Luck_Potion_36
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 31
+        width: 422
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d828c0f18405c0800000000000000
+      internalID: -4250129277180652929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34aefb259ce0f4a458708714662f432c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Luck_Potion_0: 2940017469256013092
+      VFX_Luck_Potion_1: 5850289744296319524
+      VFX_Luck_Potion_10: -6363358373078369509
+      VFX_Luck_Potion_11: 6629654263423810484
+      VFX_Luck_Potion_12: -5630461903181125736
+      VFX_Luck_Potion_13: -2069884781821775573
+      VFX_Luck_Potion_14: 3147995557660384707
+      VFX_Luck_Potion_15: 2323543138843801279
+      VFX_Luck_Potion_16: -6023925087684285412
+      VFX_Luck_Potion_17: 7547806771355824846
+      VFX_Luck_Potion_18: -5143113802174644553
+      VFX_Luck_Potion_19: 2671243004812109888
+      VFX_Luck_Potion_2: -8221996790087928833
+      VFX_Luck_Potion_20: -1607643545009375836
+      VFX_Luck_Potion_21: 5568333613822091272
+      VFX_Luck_Potion_22: 4729337006651909794
+      VFX_Luck_Potion_23: -8258978763516106559
+      VFX_Luck_Potion_24: 6076478347468741767
+      VFX_Luck_Potion_25: 8288714349279320338
+      VFX_Luck_Potion_26: -3365508185900595836
+      VFX_Luck_Potion_27: -277466388032192154
+      VFX_Luck_Potion_28: -6376388372978223404
+      VFX_Luck_Potion_29: -130099171681198553
+      VFX_Luck_Potion_3: -1388947598025781636
+      VFX_Luck_Potion_30: 813191755161574800
+      VFX_Luck_Potion_31: -1894907310243842691
+      VFX_Luck_Potion_32: 3604535576608990178
+      VFX_Luck_Potion_33: 5334959252137570924
+      VFX_Luck_Potion_34: -3663110921657945018
+      VFX_Luck_Potion_35: -6044354119911889167
+      VFX_Luck_Potion_36: -4250129277180652929
+      VFX_Luck_Potion_4: 7086481193350604918
+      VFX_Luck_Potion_5: 3976875395774386895
+      VFX_Luck_Potion_6: 220352979896852603
+      VFX_Luck_Potion_7: 4991404574753958374
+      VFX_Luck_Potion_8: 4577372283388754839
+      VFX_Luck_Potion_9: -3388124073436923373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

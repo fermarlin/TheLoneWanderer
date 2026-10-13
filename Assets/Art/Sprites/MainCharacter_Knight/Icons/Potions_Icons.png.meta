@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: db6c0b489fc4f834dbfcf1cb5f514dc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8658339720330659936
+    second: Potions_Icons_0
+  - first:
+      213: -3020296498871589954
+    second: Potions_Icons_1
+  - first:
+      213: 1205082489339579264
+    second: Potions_Icons_2
+  - first:
+      213: 2334406758955846453
+    second: Potions_Icons_3
+  - first:
+      213: 3768380873554846039
+    second: Potions_Icons_4
+  - first:
+      213: 2055314187874180081
+    second: Potions_Icons_5
+  - first:
+      213: -1245164153067551559
+    second: Potions_Icons_6
+  - first:
+      213: -565343336576880569
+    second: Potions_Icons_7
+  - first:
+      213: 2561990909892846824
+    second: Potions_Icons_8
+  - first:
+      213: -1570866082875620666
+    second: Potions_Icons_9
+  - first:
+      213: -8512436134653607052
+    second: Potions_Icons_10
+  - first:
+      213: -3698025663973792074
+    second: Potions_Icons_11
+  - first:
+      213: 3606640900917329843
+    second: Potions_Icons_12
+  - first:
+      213: 1222345725381293811
+    second: Potions_Icons_13
+  - first:
+      213: -1941385908396010312
+    second: Potions_Icons_14
+  - first:
+      213: 1922268341966243386
+    second: Potions_Icons_15
+  - first:
+      213: 537771931547393568
+    second: Potions_Icons_16
+  - first:
+      213: 3495733891972295803
+    second: Potions_Icons_17
+  - first:
+      213: -6669899726673835534
+    second: Potions_Icons_18
+  - first:
+      213: 4907223366009786069
+    second: Potions_Icons_19
+  - first:
+      213: -7994023550650608954
+    second: Potions_Icons_20
+  - first:
+      213: -3432692269362807056
+    second: Potions_Icons_21
+  - first:
+      213: 7872957783034174526
+    second: Potions_Icons_22
+  - first:
+      213: 1012267933377593853
+    second: Potions_Icons_23
+  - first:
+      213: -9144592812455389864
+    second: Potions_Icons_24
+  - first:
+      213: 154980893781030000
+    second: Potions_Icons_25
+  - first:
+      213: -3139538356047276253
+    second: Potions_Icons_26
+  - first:
+      213: 4414497219471420380
+    second: Potions_Icons_27
+  - first:
+      213: -7065356124050052573
+    second: Potions_Icons_28
+  - first:
+      213: 9056601878828484981
+    second: Potions_Icons_29
+  - first:
+      213: 7970855135661536346
+    second: Potions_Icons_30
+  - first:
+      213: -9218466043775314101
+    second: Potions_Icons_31
+  - first:
+      213: -5668835219450931691
+    second: Potions_Icons_32
+  - first:
+      213: -7273377357523309504
+    second: Potions_Icons_33
+  - first:
+      213: -2984111244420070397
+    second: Potions_Icons_34
+  - first:
+      213: 6169670693233728917
+    second: Potions_Icons_35
+  - first:
+      213: 462756727871873255
+    second: Potions_Icons_36
+  - first:
+      213: 7606949430118298682
+    second: Potions_Icons_37
+  - first:
+      213: 8998195929711645924
+    second: Potions_Icons_38
+  - first:
+      213: -2362325659573571009
+    second: Potions_Icons_39
+  - first:
+      213: -443314420243835666
+    second: Potions_Icons_40
+  - first:
+      213: -1679475529054539761
+    second: Potions_Icons_41
+  - first:
+      213: -5768013559092571145
+    second: Potions_Icons_42
+  - first:
+      213: -5192775643125048035
+    second: Potions_Icons_43
+  - first:
+      213: 212429837067152611
+    second: Potions_Icons_44
+  - first:
+      213: -3238445436644001328
+    second: Potions_Icons_45
+  - first:
+      213: 3423104351365386602
+    second: Potions_Icons_46
+  - first:
+      213: 5334885594444654136
+    second: Potions_Icons_47
+  - first:
+      213: -6007747960290155676
+    second: Potions_Icons_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Potions_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c6fe0a1a982870800000000000000
+      internalID: 8658339720330659936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb327642650c516d0800000000000000
+      internalID: -3020296498871589954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b0126a32059b010800000000000000
+      internalID: 1205082489339579264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b85dc349a756020800000000000000
+      internalID: 2334406758955846453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ec92507afb4430800000000000000
+      internalID: 3768380873554846039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9f064d51f58c10800000000000000
+      internalID: 2055314187874180081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cb59ccc948bee0800000000000000
+      internalID: -1245164153067551559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740733f0b3f7728f0800000000000000
+      internalID: -565343336576880569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e461f598250e8320800000000000000
+      internalID: 2561990909892846824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c24d74de99233ae0800000000000000
+      internalID: -1570866082875620666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c5c4bf60cdd980800000000000000
+      internalID: -8512436134653607052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b660986049fdacc0800000000000000
+      internalID: -3698025663973792074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf72936acc5d0230800000000000000
+      internalID: 3606640900917329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b11206f4a6f010800000000000000
+      internalID: 1222345725381293811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45b1e5dcfce05e0800000000000000
+      internalID: -1941385908396010312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3680e55fd44daa10800000000000000
+      internalID: 1922268341966243386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ede06f8bc867700800000000000000
+      internalID: 537771931547393568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6d4c1477538030800000000000000
+      internalID: 3495733891972295803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f981288981cf63a0800000000000000
+      internalID: -6669899726673835534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_19
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de828cd6a5f91440800000000000000
+      internalID: 4907223366009786069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_20
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c21d515fe58f0190800000000000000
+      internalID: -7994023550650608954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_21
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe76657190ac50d0800000000000000
+      internalID: -3432692269362807056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_22
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c1665146d524d60800000000000000
+      internalID: 7872957783034174526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_23
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df18d7a725c4c0e00800000000000000
+      internalID: 1012267933377593853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_24
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85591068941e71180800000000000000
+      internalID: -9144592812455389864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_25
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0747ac04d4a962200800000000000000
+      internalID: 154980893781030000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_26
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279619cf7e1e64d0800000000000000
+      internalID: -3139538356047276253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_27
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb2b8405d1734d30800000000000000
+      internalID: 4414497219471420380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_28
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aad5ef900d2fd90800000000000000
+      internalID: -7065356124050052573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_29
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57905b3cc638fad70800000000000000
+      internalID: 9056601878828484981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_30
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543435b38a2e9e60800000000000000
+      internalID: 7970855135661536346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_31
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4795c689fd611080800000000000000
+      internalID: -9218466043775314101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_32
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516576617604451b0800000000000000
+      internalID: -5668835219450931691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_33
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c247f44d5cf0b90800000000000000
+      internalID: -7273377357523309504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_34
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c71a32ae4696d0800000000000000
+      internalID: -2984111244420070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_35
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9553aec21f9550800000000000000
+      internalID: 6169670693233728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_36
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a93ecaca0c6600800000000000000
+      internalID: 462756727871873255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_37
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bf8e0430519960800000000000000
+      internalID: 7606949430118298682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_38
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e414d9068300ec70800000000000000
+      internalID: 8998195929711645924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_39
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b3592455573fd0800000000000000
+      internalID: -2362325659573571009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_40
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4de8132e709d9f0800000000000000
+      internalID: -443314420243835666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_41
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003eb197ed41b8e0800000000000000
+      internalID: -1679475529054539761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_42
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f396ae6a36e3ffa0800000000000000
+      internalID: -5768013559092571145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_43
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1b39a01e8fe7b0800000000000000
+      internalID: -5192775643125048035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_44
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece412bfc3b2f200800000000000000
+      internalID: 212429837067152611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_45
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9795c880bbe03d0800000000000000
+      internalID: -3238445436644001328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_46
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a615a3c654f418f20800000000000000
+      internalID: 3423104351365386602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_47
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e836ce22590a40800000000000000
+      internalID: 5334885594444654136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_Icons_48
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e3de7f0130aca0800000000000000
+      internalID: -6007747960290155676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 08261a6305d63b14aa86aa763507adca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Potions_Icons_0: 8658339720330659936
+      Potions_Icons_1: -3020296498871589954
+      Potions_Icons_10: -8512436134653607052
+      Potions_Icons_11: -3698025663973792074
+      Potions_Icons_12: 3606640900917329843
+      Potions_Icons_13: 1222345725381293811
+      Potions_Icons_14: -1941385908396010312
+      Potions_Icons_15: 1922268341966243386
+      Potions_Icons_16: 537771931547393568
+      Potions_Icons_17: 3495733891972295803
+      Potions_Icons_18: -6669899726673835534
+      Potions_Icons_19: 4907223366009786069
+      Potions_Icons_2: 1205082489339579264
+      Potions_Icons_20: -7994023550650608954
+      Potions_Icons_21: -3432692269362807056
+      Potions_Icons_22: 7872957783034174526
+      Potions_Icons_23: 1012267933377593853
+      Potions_Icons_24: -9144592812455389864
+      Potions_Icons_25: 154980893781030000
+      Potions_Icons_26: -3139538356047276253
+      Potions_Icons_27: 4414497219471420380
+      Potions_Icons_28: -7065356124050052573
+      Potions_Icons_29: 9056601878828484981
+      Potions_Icons_3: 2334406758955846453
+      Potions_Icons_30: 7970855135661536346
+      Potions_Icons_31: -9218466043775314101
+      Potions_Icons_32: -5668835219450931691
+      Potions_Icons_33: -7273377357523309504
+      Potions_Icons_34: -2984111244420070397
+      Potions_Icons_35: 6169670693233728917
+      Potions_Icons_36: 462756727871873255
+      Potions_Icons_37: 7606949430118298682
+      Potions_Icons_38: 8998195929711645924
+      Potions_Icons_39: -2362325659573571009
+      Potions_Icons_4: 3768380873554846039
+      Potions_Icons_40: -443314420243835666
+      Potions_Icons_41: -1679475529054539761
+      Potions_Icons_42: -5768013559092571145
+      Potions_Icons_43: -5192775643125048035
+      Potions_Icons_44: 212429837067152611
+      Potions_Icons_45: -3238445436644001328
+      Potions_Icons_46: 3423104351365386602
+      Potions_Icons_47: 5334885594444654136
+      Potions_Icons_48: -6007747960290155676
+      Potions_Icons_5: 2055314187874180081
+      Potions_Icons_6: -1245164153067551559
+      Potions_Icons_7: -565343336576880569
+      Potions_Icons_8: 2561990909892846824
+      Potions_Icons_9: -1570866082875620666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

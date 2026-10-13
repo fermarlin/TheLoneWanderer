@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5d8c603aaf354e9429d50315a8f69045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4258372640562015587
+    second: PostRun_HeavyAttack_0
+  - first:
+      213: 1532485649141786086
+    second: PostRun_HeavyAttack_1
+  - first:
+      213: -7749521170497727853
+    second: PostRun_HeavyAttack_2
+  - first:
+      213: 8973614672850995518
+    second: PostRun_HeavyAttack_3
+  - first:
+      213: 1236373967588627975
+    second: PostRun_HeavyAttack_4
+  - first:
+      213: 6627210941030934712
+    second: PostRun_HeavyAttack_5
+  - first:
+      213: 1156814972567641051
+    second: PostRun_HeavyAttack_6
+  - first:
+      213: 3528073588843699477
+    second: PostRun_HeavyAttack_7
+  - first:
+      213: 4878074997707152357
+    second: PostRun_HeavyAttack_8
+  - first:
+      213: 5453448041405076141
+    second: PostRun_HeavyAttack_9
+  - first:
+      213: -4865021037271424283
+    second: PostRun_HeavyAttack_10
+  - first:
+      213: 8414277917265963463
+    second: PostRun_HeavyAttack_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 31
+        width: 69
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d921f0e25a837e4c0800000000000000
+      internalID: -4258372640562015587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 31
+        width: 64
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5ea74149b744510800000000000000
+      internalID: 1532485649141786086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 31
+        width: 62
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3921d1ddd8b247490800000000000000
+      internalID: -7749521170497727853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 31
+        width: 66
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39448e200fa88c70800000000000000
+      internalID: 8973614672850995518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 19
+        width: 80
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70619aba29b782110800000000000000
+      internalID: 1236373967588627975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 32
+        width: 70
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82bb70d3598fb50800000000000000
+      internalID: 6627210941030934712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 33
+        width: 36
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb5fb6a615dd0010800000000000000
+      internalID: 1156814972567641051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 33
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d577c8c3c36f030800000000000000
+      internalID: 3528073588843699477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 34
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9c028d5762b340800000000000000
+      internalID: 4878074997707152357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 36
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2dffc991a8eab40800000000000000
+      internalID: 5453448041405076141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 35
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e262a08429fb7cb0800000000000000
+      internalID: -4865021037271424283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_HeavyAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 35
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c92d0c5f2585c470800000000000000
+      internalID: 8414277917265963463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 573272a24cb41b9499ac89732102ad4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PostRun_HeavyAttack_0: -4258372640562015587
+      PostRun_HeavyAttack_1: 1532485649141786086
+      PostRun_HeavyAttack_10: -4865021037271424283
+      PostRun_HeavyAttack_11: 8414277917265963463
+      PostRun_HeavyAttack_2: -7749521170497727853
+      PostRun_HeavyAttack_3: 8973614672850995518
+      PostRun_HeavyAttack_4: 1236373967588627975
+      PostRun_HeavyAttack_5: 6627210941030934712
+      PostRun_HeavyAttack_6: 1156814972567641051
+      PostRun_HeavyAttack_7: 3528073588843699477
+      PostRun_HeavyAttack_8: 4878074997707152357
+      PostRun_HeavyAttack_9: 5453448041405076141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: fb3a62035df3b0e44a10a13a25f788c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8938600891239172756
+    second: VFX_Mana_Potion_0
+  - first:
+      213: 8098133416554299352
+    second: VFX_Mana_Potion_1
+  - first:
+      213: -5043550322393644939
+    second: VFX_Mana_Potion_2
+  - first:
+      213: 8395028690419240208
+    second: VFX_Mana_Potion_3
+  - first:
+      213: -5694535627267639576
+    second: VFX_Mana_Potion_4
+  - first:
+      213: -8544481141651853258
+    second: VFX_Mana_Potion_5
+  - first:
+      213: 4635336667660094614
+    second: VFX_Mana_Potion_6
+  - first:
+      213: 8700016233368727927
+    second: VFX_Mana_Potion_7
+  - first:
+      213: 6243717281993916160
+    second: VFX_Mana_Potion_8
+  - first:
+      213: 8028248978230711953
+    second: VFX_Mana_Potion_9
+  - first:
+      213: -6303392257263999155
+    second: VFX_Mana_Potion_10
+  - first:
+      213: 2447789376920185205
+    second: VFX_Mana_Potion_11
+  - first:
+      213: -7654342744280917655
+    second: VFX_Mana_Potion_12
+  - first:
+      213: 7726699689448523652
+    second: VFX_Mana_Potion_13
+  - first:
+      213: 7952376144836900025
+    second: VFX_Mana_Potion_14
+  - first:
+      213: 3307988195153607602
+    second: VFX_Mana_Potion_15
+  - first:
+      213: -7336645396209462650
+    second: VFX_Mana_Potion_16
+  - first:
+      213: -377462286266176420
+    second: VFX_Mana_Potion_17
+  - first:
+      213: 2116147767574051262
+    second: VFX_Mana_Potion_18
+  - first:
+      213: 5455802721421158787
+    second: VFX_Mana_Potion_19
+  - first:
+      213: -573994567421231165
+    second: VFX_Mana_Potion_20
+  - first:
+      213: -5063870153815523124
+    second: VFX_Mana_Potion_21
+  - first:
+      213: -4418777089886186873
+    second: VFX_Mana_Potion_22
+  - first:
+      213: -6288345436086780560
+    second: VFX_Mana_Potion_23
+  - first:
+      213: -8380773743140041825
+    second: VFX_Mana_Potion_24
+  - first:
+      213: 6413061461522011164
+    second: VFX_Mana_Potion_25
+  - first:
+      213: -2706352489078001121
+    second: VFX_Mana_Potion_26
+  - first:
+      213: -852783049262924821
+    second: VFX_Mana_Potion_27
+  - first:
+      213: -8265405088999812231
+    second: VFX_Mana_Potion_28
+  - first:
+      213: 120461826632591950
+    second: VFX_Mana_Potion_29
+  - first:
+      213: 1758939416173683001
+    second: VFX_Mana_Potion_30
+  - first:
+      213: 1792615395874924509
+    second: VFX_Mana_Potion_31
+  - first:
+      213: 4867666035780542416
+    second: VFX_Mana_Potion_32
+  - first:
+      213: -5575672626128894291
+    second: VFX_Mana_Potion_33
+  - first:
+      213: 1081260404258774847
+    second: VFX_Mana_Potion_34
+  - first:
+      213: -7606021115990145798
+    second: VFX_Mana_Potion_35
+  - first:
+      213: -736071640206548299
+    second: VFX_Mana_Potion_36
+  - first:
+      213: -1340913338971576592
+    second: VFX_Mana_Potion_37
+  - first:
+      213: 7667572892230673080
+    second: VFX_Mana_Potion_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 77
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f2b029d5b3f380800000000000000
+      internalID: -8938600891239172756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 78
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df7075cf69526070800000000000000
+      internalID: 8098133416554299352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 59
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5708be224b5b10ab0800000000000000
+      internalID: -5043550322393644939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 58
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc6ab7d12218470800000000000000
+      internalID: 8395028690419240208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 58
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f7e79402f8f0b0800000000000000
+      internalID: -5694535627267639576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 58
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63031d91ca7eb6980800000000000000
+      internalID: -8544481141651853258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 83
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c0932e326045040800000000000000
+      internalID: 4635336667660094614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771331a6baaacb870800000000000000
+      internalID: 8700016233368727927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 76
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ff63f89c326a650800000000000000
+      internalID: 6243717281993916160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 66
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19695d309e11a6f60800000000000000
+      internalID: 8028248978230711953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 61
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47e4d9832ad588a0800000000000000
+      internalID: -6303392257263999155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 35
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796d48287b48f120800000000000000
+      internalID: 2447789376920185205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 58
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9691c0a14df46c590800000000000000
+      internalID: -7654342744280917655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 63
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48743b30e60ca3b60800000000000000
+      internalID: 7726699689448523652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43b4168f38c5e60800000000000000
+      internalID: 7952376144836900025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbf05dacb558ed20800000000000000
+      internalID: 3307988195153607602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 54
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6821ee322effe2a90800000000000000
+      internalID: -7336645396209462650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 65
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c6ffeec0cf2caf0800000000000000
+      internalID: -377462286266176420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 41
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9bc7ace211e5d10800000000000000
+      internalID: 2116147767574051262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 48
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389eae64ba7e6bb40800000000000000
+      internalID: 5455802721421158787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 31
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7ad96bf2c808f0800000000000000
+      internalID: -573994567421231165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 31
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08f15bce489b9b0800000000000000
+      internalID: -5063870153815523124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 50
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78213bff5a95da2c0800000000000000
+      internalID: -4418777089886186873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 51
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d3919942f4bb8a0800000000000000
+      internalID: -6288345436086780560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 32
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b87311fa281bb80800000000000000
+      internalID: -8380773743140041825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_25
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 33
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1454c0eb65cff850800000000000000
+      internalID: 6413061461522011164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_26
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 51
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12f28300ca117ad0800000000000000
+      internalID: -2706352489078001121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_27
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 33
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb753eb55e4a24f0800000000000000
+      internalID: -852783049262924821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_28
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 35
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973d5711dd16b4d80800000000000000
+      internalID: -8265405088999812231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 35
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a2e61a467fba100800000000000000
+      internalID: 120461826632591950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_30
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 35
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931277a6412096810800000000000000
+      internalID: 1758939416173683001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_31
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 37
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd765027436a0e810800000000000000
+      internalID: 1792615395874924509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_32
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 37
+        width: 392
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdee3387c6d8340800000000000000
+      internalID: 4867666035780542416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 41
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c7b7a94b3f92b0800000000000000
+      internalID: -5575672626128894291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f1a81eb98610f00800000000000000
+      internalID: 1081260404258774847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 46
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4894be71cf17690800000000000000
+      internalID: -7606021115990145798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_36
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ef3c3eb2f8c5f0800000000000000
+      internalID: -736071640206548299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 32
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f624043c6e146de0800000000000000
+      internalID: -1340913338971576592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Mana_Potion_38
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 43
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2e2d2cbe0b86a60800000000000000
+      internalID: 7667572892230673080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c3a2862fdca66ed4392ecd101b9f14e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Mana_Potion_0: -8938600891239172756
+      VFX_Mana_Potion_1: 8098133416554299352
+      VFX_Mana_Potion_10: -6303392257263999155
+      VFX_Mana_Potion_11: 2447789376920185205
+      VFX_Mana_Potion_12: -7654342744280917655
+      VFX_Mana_Potion_13: 7726699689448523652
+      VFX_Mana_Potion_14: 7952376144836900025
+      VFX_Mana_Potion_15: 3307988195153607602
+      VFX_Mana_Potion_16: -7336645396209462650
+      VFX_Mana_Potion_17: -377462286266176420
+      VFX_Mana_Potion_18: 2116147767574051262
+      VFX_Mana_Potion_19: 5455802721421158787
+      VFX_Mana_Potion_2: -5043550322393644939
+      VFX_Mana_Potion_20: -573994567421231165
+      VFX_Mana_Potion_21: -5063870153815523124
+      VFX_Mana_Potion_22: -4418777089886186873
+      VFX_Mana_Potion_23: -6288345436086780560
+      VFX_Mana_Potion_24: -8380773743140041825
+      VFX_Mana_Potion_25: 6413061461522011164
+      VFX_Mana_Potion_26: -2706352489078001121
+      VFX_Mana_Potion_27: -852783049262924821
+      VFX_Mana_Potion_28: -8265405088999812231
+      VFX_Mana_Potion_29: 120461826632591950
+      VFX_Mana_Potion_3: 8395028690419240208
+      VFX_Mana_Potion_30: 1758939416173683001
+      VFX_Mana_Potion_31: 1792615395874924509
+      VFX_Mana_Potion_32: 4867666035780542416
+      VFX_Mana_Potion_33: -5575672626128894291
+      VFX_Mana_Potion_34: 1081260404258774847
+      VFX_Mana_Potion_35: -7606021115990145798
+      VFX_Mana_Potion_36: -736071640206548299
+      VFX_Mana_Potion_37: -1340913338971576592
+      VFX_Mana_Potion_38: 7667572892230673080
+      VFX_Mana_Potion_4: -5694535627267639576
+      VFX_Mana_Potion_5: -8544481141651853258
+      VFX_Mana_Potion_6: 4635336667660094614
+      VFX_Mana_Potion_7: 8700016233368727927
+      VFX_Mana_Potion_8: 6243717281993916160
+      VFX_Mana_Potion_9: 8028248978230711953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

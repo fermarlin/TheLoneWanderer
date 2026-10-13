@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 844efe8df06874d429c1c87343238963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3376088814886759470
+    second: Throwing_Stand_Fast_Up_0
+  - first:
+      213: 8548502596637045977
+    second: Throwing_Stand_Fast_Up_1
+  - first:
+      213: -4109479199751385547
+    second: Throwing_Stand_Fast_Up_2
+  - first:
+      213: -1924260314801314133
+    second: Throwing_Stand_Fast_Up_3
+  - first:
+      213: -2845159877522643708
+    second: Throwing_Stand_Fast_Up_4
+  - first:
+      213: 2963359652606367731
+    second: Throwing_Stand_Fast_Up_5
+  - first:
+      213: 7922300999190688446
+    second: Throwing_Stand_Fast_Up_6
+  - first:
+      213: -1196661910552689258
+    second: Throwing_Stand_Fast_Up_7
+  - first:
+      213: -5413366163250242915
+    second: Throwing_Stand_Fast_Up_8
+  - first:
+      213: 9197603277903514593
+    second: Throwing_Stand_Fast_Up_9
+  - first:
+      213: -4959654373345927660
+    second: Throwing_Stand_Fast_Up_10
+  - first:
+      213: 8861563448099429063
+    second: Throwing_Stand_Fast_Up_11
+  - first:
+      213: 7417823062024794374
+    second: Throwing_Stand_Fast_Up_12
+  - first:
+      213: -5740895241415696855
+    second: Throwing_Stand_Fast_Up_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cae7dc3e64ade20800000000000000
+      internalID: 3376088814886759470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43e0ad1d162a670800000000000000
+      internalID: 8548502596637045977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e46f6d07238f6c0800000000000000
+      internalID: -4109479199751385547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e2e85077ab45e0800000000000000
+      internalID: -1924260314801314133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a11b6a26f388d0800000000000000
+      internalID: -2845159877522643708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d35b47e7ff1920800000000000000
+      internalID: 2963359652606367731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2bb7cd8caa1fd60800000000000000
+      internalID: 7922300999190688446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954441255a946fe0800000000000000
+      internalID: -1196661910552689258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9950e72cdfd4b0800000000000000
+      internalID: -5413366163250242915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 26
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb4864437374af70800000000000000
+      internalID: 9197603277903514593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed004ff94cb2bb0800000000000000
+      internalID: -4959654373345927660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca5d8661099afa70800000000000000
+      internalID: 8861563448099429063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_12
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60130ba06c661f660800000000000000
+      internalID: 7417823062024794374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throwing_Stand_Fast_Up_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92edfaac13e3450b0800000000000000
+      internalID: -5740895241415696855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 08939bd479a43c74c8b90eb3284920ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Throwing_Stand_Fast_Up_0: 3376088814886759470
+      Throwing_Stand_Fast_Up_1: 8548502596637045977
+      Throwing_Stand_Fast_Up_10: -4959654373345927660
+      Throwing_Stand_Fast_Up_11: 8861563448099429063
+      Throwing_Stand_Fast_Up_12: 7417823062024794374
+      Throwing_Stand_Fast_Up_13: -5740895241415696855
+      Throwing_Stand_Fast_Up_2: -4109479199751385547
+      Throwing_Stand_Fast_Up_3: -1924260314801314133
+      Throwing_Stand_Fast_Up_4: -2845159877522643708
+      Throwing_Stand_Fast_Up_5: 2963359652606367731
+      Throwing_Stand_Fast_Up_6: 7922300999190688446
+      Throwing_Stand_Fast_Up_7: -1196661910552689258
+      Throwing_Stand_Fast_Up_8: -5413366163250242915
+      Throwing_Stand_Fast_Up_9: 9197603277903514593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

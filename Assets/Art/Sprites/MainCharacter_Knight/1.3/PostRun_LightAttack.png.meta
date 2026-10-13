@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 4d69e32f07af6d14b9e6515ad91bfbb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7223405612582792130
+    second: PostRun_LightAttack_0
+  - first:
+      213: -9156161971568484300
+    second: PostRun_LightAttack_1
+  - first:
+      213: -1306105984559436798
+    second: PostRun_LightAttack_2
+  - first:
+      213: -1443056879535824834
+    second: PostRun_LightAttack_3
+  - first:
+      213: -5003629877062584532
+    second: PostRun_LightAttack_4
+  - first:
+      213: -1273659928793762052
+    second: PostRun_LightAttack_5
+  - first:
+      213: 5772499919421589654
+    second: PostRun_LightAttack_6
+  - first:
+      213: 5793536932429085083
+    second: PostRun_LightAttack_7
+  - first:
+      213: 5526343639488288002
+    second: PostRun_LightAttack_8
+  - first:
+      213: 5175788611706461742
+    second: PostRun_LightAttack_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PostRun_LightAttack_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 53
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349079ddde41cb90800000000000000
+      internalID: -7223405612582792130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 32
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43068b2c237cee080800000000000000
+      internalID: -9156161971568484300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ca25fe687cfdde0800000000000000
+      internalID: -1306105984559436798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 32
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306598e96b39fbe0800000000000000
+      internalID: -1443056879535824834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 31
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27372e13298f8ab0800000000000000
+      internalID: -5003629877062584532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 31
+        width: 67
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6399bfa0d035ee0800000000000000
+      internalID: -1273659928793762052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 31
+        width: 96
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698481bb71a0c1050800000000000000
+      internalID: 5772499919421589654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 31
+        width: 65
+        height: 39
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ba820527c66050800000000000000
+      internalID: 5793536932429085083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 31
+        width: 66
+        height: 39
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2055072a24481bc40800000000000000
+      internalID: 5526343639488288002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostRun_LightAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 31
+        width: 66
+        height: 39
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e9641e15814d740800000000000000
+      internalID: 5175788611706461742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1a78d970327037468d2e201094aacce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PostRun_LightAttack_0: -7223405612582792130
+      PostRun_LightAttack_1: -9156161971568484300
+      PostRun_LightAttack_2: -1306105984559436798
+      PostRun_LightAttack_3: -1443056879535824834
+      PostRun_LightAttack_4: -5003629877062584532
+      PostRun_LightAttack_5: -1273659928793762052
+      PostRun_LightAttack_6: 5772499919421589654
+      PostRun_LightAttack_7: 5793536932429085083
+      PostRun_LightAttack_8: 5526343639488288002
+      PostRun_LightAttack_9: 5175788611706461742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

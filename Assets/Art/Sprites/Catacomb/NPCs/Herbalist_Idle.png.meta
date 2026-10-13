@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: c2020bf9b77cbae4da8e475591761d75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1452746025995064937
+    second: Herbalist_Idle_0
+  - first:
+      213: -7285892350419774273
+    second: Herbalist_Idle_1
+  - first:
+      213: -4792055591174056264
+    second: Herbalist_Idle_2
+  - first:
+      213: 3607282866942509792
+    second: Herbalist_Idle_3
+  - first:
+      213: 7161368123904870595
+    second: Herbalist_Idle_4
+  - first:
+      213: 3820293096846414680
+    second: Herbalist_Idle_5
+  - first:
+      213: 2130253614683825722
+    second: Herbalist_Idle_6
+  - first:
+      213: 2798268233330535251
+    second: Herbalist_Idle_7
+  - first:
+      213: 1823775323841031377
+    second: Herbalist_Idle_8
+  - first:
+      213: 3401827019632298634
+    second: Herbalist_Idle_9
+  - first:
+      213: -1685571308763000054
+    second: Herbalist_Idle_10
+  - first:
+      213: 3702895435485840208
+    second: Herbalist_Idle_11
+  - first:
+      213: -8264566527015485041
+    second: Herbalist_Idle_12
+  - first:
+      213: -8189933380897861141
+    second: Herbalist_Idle_13
+  - first:
+      213: 8446613811081645147
+    second: Herbalist_Idle_14
+  - first:
+      213: 644056219722099773
+    second: Herbalist_Idle_15
+  - first:
+      213: 3888770288236128561
+    second: Herbalist_Idle_16
+  - first:
+      213: 5139756947137389270
+    second: Herbalist_Idle_17
+  - first:
+      213: 8440382763641442632
+    second: Herbalist_Idle_18
+  - first:
+      213: 5013930644559121684
+    second: Herbalist_Idle_19
+  - first:
+      213: -3094013595939035554
+    second: Herbalist_Idle_20
+  - first:
+      213: 1144112872254765468
+    second: Herbalist_Idle_21
+  - first:
+      213: -4836174606404677169
+    second: Herbalist_Idle_22
+  - first:
+      213: 1189895079349513634
+    second: Herbalist_Idle_23
+  - first:
+      213: 6834198904362344750
+    second: Herbalist_Idle_24
+  - first:
+      213: -7332005669685266530
+    second: Herbalist_Idle_25
+  - first:
+      213: 4553718576595132807
+    second: Herbalist_Idle_26
+  - first:
+      213: -89591820260861077
+    second: Herbalist_Idle_27
+  - first:
+      213: 6671974147301448613
+    second: Herbalist_Idle_28
+  - first:
+      213: 8817559202797324347
+    second: Herbalist_Idle_29
+  - first:
+      213: -7030013321596240984
+    second: Herbalist_Idle_30
+  - first:
+      213: -5205308871804250350
+    second: Herbalist_Idle_31
+  - first:
+      213: -4315123395521544149
+    second: Herbalist_Idle_32
+  - first:
+      213: 1203476235934085013
+    second: Herbalist_Idle_33
+  - first:
+      213: 4580751730462243847
+    second: Herbalist_Idle_34
+  - first:
+      213: 2513047487830632855
+    second: Herbalist_Idle_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Herbalist_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966db4c40d0392410800000000000000
+      internalID: 1452746025995064937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45e75728f43ea90800000000000000
+      internalID: -7285892350419774273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6552844d23f7db0800000000000000
+      internalID: -4792055591174056264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20670c7a4af0230800000000000000
+      internalID: 3607282866942509792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c72bbd5a426360800000000000000
+      internalID: 7161368123904870595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853586fa458640530800000000000000
+      internalID: 3820293096846414680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a8b0406e209d10800000000000000
+      internalID: 2130253614683825722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b2de1e12275d620800000000000000
+      internalID: 2798268233330535251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dceaa78ef95f4910800000000000000
+      internalID: 1823775323841031377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a428496a7b53f20800000000000000
+      internalID: 3401827019632298634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03579143d5ab98e0800000000000000
+      internalID: -1685571308763000054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0538c80a7c3536330800000000000000
+      internalID: 3702895435485840208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8188aef78c5e4d80800000000000000
+      internalID: -8264566527015485041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 15
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be118717bf2875e80800000000000000
+      internalID: -8189933380897861141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0e645286683570800000000000000
+      internalID: 8446613811081645147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3caaef28b520f800800000000000000
+      internalID: 644056219722099773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 15
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139686b39ffa7f530800000000000000
+      internalID: 3888770288236128561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d268f936b5145740800000000000000
+      internalID: 5139756947137389270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419d2b8763422570800000000000000
+      internalID: 8440382763641442632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d44653b5f059540800000000000000
+      internalID: 5013930644559121684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5623dbf60bdf05d0800000000000000
+      internalID: -3094013595939035554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9972b57894b0ef00800000000000000
+      internalID: 1144112872254765468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11c7191d472ecb0800000000000000
+      internalID: -4836174606404677169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adec94354b538010800000000000000
+      internalID: 1189895079349513634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a1e2c1b3f7de50800000000000000
+      internalID: 6834198904362344750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977247a0bb7f3a90800000000000000
+      internalID: -7332005669685266530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781ec053bee023f30800000000000000
+      internalID: 4553718576595132807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b1292d6b4b1cef0800000000000000
+      internalID: -89591820260861077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab1e78232d979c50800000000000000
+      internalID: 6671974147301448613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3806b4a0634e5a70800000000000000
+      internalID: 8817559202797324347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfdff6120607e90800000000000000
+      internalID: -7030013321596240984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171be5f82703c7b0800000000000000
+      internalID: -5205308871804250350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2006ff522a9d14c0800000000000000
+      internalID: -4315123395521544149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 15
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa972a24b93b010800000000000000
+      internalID: 1203476235934085013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c3572dd69129f30800000000000000
+      internalID: 4580751730462243847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbalist_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 15
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79925df106320e220800000000000000
+      internalID: 2513047487830632855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Herbalist_Idle_0: 1452746025995064937
+      Herbalist_Idle_1: -7285892350419774273
+      Herbalist_Idle_10: -1685571308763000054
+      Herbalist_Idle_11: 3702895435485840208
+      Herbalist_Idle_12: -8264566527015485041
+      Herbalist_Idle_13: -8189933380897861141
+      Herbalist_Idle_14: 8446613811081645147
+      Herbalist_Idle_15: 644056219722099773
+      Herbalist_Idle_16: 3888770288236128561
+      Herbalist_Idle_17: 5139756947137389270
+      Herbalist_Idle_18: 8440382763641442632
+      Herbalist_Idle_19: 5013930644559121684
+      Herbalist_Idle_2: -4792055591174056264
+      Herbalist_Idle_20: -3094013595939035554
+      Herbalist_Idle_21: 1144112872254765468
+      Herbalist_Idle_22: -4836174606404677169
+      Herbalist_Idle_23: 1189895079349513634
+      Herbalist_Idle_24: 6834198904362344750
+      Herbalist_Idle_25: -7332005669685266530
+      Herbalist_Idle_26: 4553718576595132807
+      Herbalist_Idle_27: -89591820260861077
+      Herbalist_Idle_28: 6671974147301448613
+      Herbalist_Idle_29: 8817559202797324347
+      Herbalist_Idle_3: 3607282866942509792
+      Herbalist_Idle_30: -7030013321596240984
+      Herbalist_Idle_31: -5205308871804250350
+      Herbalist_Idle_32: -4315123395521544149
+      Herbalist_Idle_33: 1203476235934085013
+      Herbalist_Idle_34: 4580751730462243847
+      Herbalist_Idle_35: 2513047487830632855
+      Herbalist_Idle_4: 7161368123904870595
+      Herbalist_Idle_5: 3820293096846414680
+      Herbalist_Idle_6: 2130253614683825722
+      Herbalist_Idle_7: 2798268233330535251
+      Herbalist_Idle_8: 1823775323841031377
+      Herbalist_Idle_9: 3401827019632298634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

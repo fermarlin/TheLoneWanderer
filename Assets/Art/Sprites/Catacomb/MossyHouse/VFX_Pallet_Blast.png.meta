@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: edcd557220200064eac6c926151da134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1834354015397589325
+    second: VFX_Pallet_Blast_0
+  - first:
+      213: 2992228327541398810
+    second: VFX_Pallet_Blast_1
+  - first:
+      213: -6108152645082858916
+    second: VFX_Pallet_Blast_2
+  - first:
+      213: -2681759926851564380
+    second: VFX_Pallet_Blast_3
+  - first:
+      213: 7324290463349135658
+    second: VFX_Pallet_Blast_4
+  - first:
+      213: 7224061829341339603
+    second: VFX_Pallet_Blast_5
+  - first:
+      213: -4532318503801459023
+    second: VFX_Pallet_Blast_6
+  - first:
+      213: -5794126759786625609
+    second: VFX_Pallet_Blast_7
+  - first:
+      213: -4333778733699100210
+    second: VFX_Pallet_Blast_8
+  - first:
+      213: 7591979823359696223
+    second: VFX_Pallet_Blast_9
+  - first:
+      213: 1605709797342034015
+    second: VFX_Pallet_Blast_10
+  - first:
+      213: -4789076381176721901
+    second: VFX_Pallet_Blast_11
+  - first:
+      213: -4050486905922128744
+    second: VFX_Pallet_Blast_12
+  - first:
+      213: 3970702458630875541
+    second: VFX_Pallet_Blast_13
+  - first:
+      213: -5888828381445167075
+    second: VFX_Pallet_Blast_14
+  - first:
+      213: -2414073579347975681
+    second: VFX_Pallet_Blast_15
+  - first:
+      213: -5651787841053952918
+    second: VFX_Pallet_Blast_16
+  - first:
+      213: 317059638766091054
+    second: VFX_Pallet_Blast_17
+  - first:
+      213: -2995527665895114120
+    second: VFX_Pallet_Blast_18
+  - first:
+      213: -8573355361486322742
+    second: VFX_Pallet_Blast_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b518124fe47910800000000000000
+      internalID: 1834354015397589325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d57f57fc7868920800000000000000
+      internalID: 2992228327541398810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a39fb188b7b3ba0800000000000000
+      internalID: -6108152645082858916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 42
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac822b1e8978cad0800000000000000
+      internalID: -2681759926851564380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29d4b3ee5b15a560800000000000000
+      internalID: 7324290463349135658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df595585f5014460800000000000000
+      internalID: 7224061829341339603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beebf38558f911c0800000000000000
+      internalID: -4532318503801459023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5455b1960279fa0800000000000000
+      internalID: -5794126759786625609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec119baf3335bd3c0800000000000000
+      internalID: -4333778733699100210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9941ec612c5960800000000000000
+      internalID: 7591979823359696223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58bfe2ad80a84610800000000000000
+      internalID: 1605709797342034015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e8fb9a768c98db0800000000000000
+      internalID: -4789076381176721901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 46
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f3259e97c9c7c0800000000000000
+      internalID: -4050486905922128744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 39
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599a67339d4ca1730800000000000000
+      internalID: 3970702458630875541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 44
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18e8b499cda64ea0800000000000000
+      internalID: -5888828381445167075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ee41bedc7f7ed0800000000000000
+      internalID: -2414073579347975681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647b1c27e0d091b0800000000000000
+      internalID: -5651787841053952918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 53
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3445cf0c666400800000000000000
+      internalID: 317059638766091054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 36
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a7777757fbd66d0800000000000000
+      internalID: -2995527665895114120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Pallet_Blast_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 26
+        width: 631
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ca69e8b2550980800000000000000
+      internalID: -8573355361486322742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Pallet_Blast_0: 1834354015397589325
+      VFX_Pallet_Blast_1: 2992228327541398810
+      VFX_Pallet_Blast_10: 1605709797342034015
+      VFX_Pallet_Blast_11: -4789076381176721901
+      VFX_Pallet_Blast_12: -4050486905922128744
+      VFX_Pallet_Blast_13: 3970702458630875541
+      VFX_Pallet_Blast_14: -5888828381445167075
+      VFX_Pallet_Blast_15: -2414073579347975681
+      VFX_Pallet_Blast_16: -5651787841053952918
+      VFX_Pallet_Blast_17: 317059638766091054
+      VFX_Pallet_Blast_18: -2995527665895114120
+      VFX_Pallet_Blast_19: -8573355361486322742
+      VFX_Pallet_Blast_2: -6108152645082858916
+      VFX_Pallet_Blast_3: -2681759926851564380
+      VFX_Pallet_Blast_4: 7324290463349135658
+      VFX_Pallet_Blast_5: 7224061829341339603
+      VFX_Pallet_Blast_6: -4532318503801459023
+      VFX_Pallet_Blast_7: -5794126759786625609
+      VFX_Pallet_Blast_8: -4333778733699100210
+      VFX_Pallet_Blast_9: 7591979823359696223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: b6e61d5491c574c45afc7f9b740afe7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3395653193554357210
+    second: LightSpecialAttack_Kick_WithOutVFX_0
+  - first:
+      213: 8748301286397540936
+    second: LightSpecialAttack_Kick_WithOutVFX_1
+  - first:
+      213: 7780945857426241605
+    second: LightSpecialAttack_Kick_WithOutVFX_2
+  - first:
+      213: 109839851571900217
+    second: LightSpecialAttack_Kick_WithOutVFX_3
+  - first:
+      213: 4048366187388032106
+    second: LightSpecialAttack_Kick_WithOutVFX_4
+  - first:
+      213: 6859233428507722577
+    second: LightSpecialAttack_Kick_WithOutVFX_5
+  - first:
+      213: 414298064205250330
+    second: LightSpecialAttack_Kick_WithOutVFX_6
+  - first:
+      213: -3405796363501642060
+    second: LightSpecialAttack_Kick_WithOutVFX_7
+  - first:
+      213: 5603195308841337143
+    second: LightSpecialAttack_Kick_WithOutVFX_8
+  - first:
+      213: 1870368006160703384
+    second: LightSpecialAttack_Kick_WithOutVFX_9
+  - first:
+      213: -5189834777935169795
+    second: LightSpecialAttack_Kick_WithOutVFX_10
+  - first:
+      213: 3821668717840668976
+    second: LightSpecialAttack_Kick_WithOutVFX_11
+  - first:
+      213: -234985745895955404
+    second: LightSpecialAttack_Kick_WithOutVFX_12
+  - first:
+      213: 2793792272880567684
+    second: LightSpecialAttack_Kick_WithOutVFX_13
+  - first:
+      213: 273656273955484755
+    second: LightSpecialAttack_Kick_WithOutVFX_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62495c1596730e0d0800000000000000
+      internalID: -3395653193554357210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a71d36ba5386970800000000000000
+      internalID: 8748301286397540936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548307838097bfb60800000000000000
+      internalID: 7780945857426241605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fef1753ca368100800000000000000
+      internalID: 109839851571900217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6457f7299fae2830800000000000000
+      internalID: 4048366187388032106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 31
+        width: 42
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15300b12674e03f50800000000000000
+      internalID: 6859233428507722577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff514f4e1efb500800000000000000
+      internalID: 414298064205250330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beda28804e2cb0d0800000000000000
+      internalID: -3405796363501642060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7318f96427c82cd40800000000000000
+      internalID: 5603195308841337143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd67ebac1e4f910800000000000000
+      internalID: 1870368006160703384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_10
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b43234c00af7b0800000000000000
+      internalID: -5189834777935169795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_11
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399d18637b490530800000000000000
+      internalID: 3821668717840668976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_12
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434679885b92dbcf0800000000000000
+      internalID: -234985745895955404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_13
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850741254b85c620800000000000000
+      internalID: 2793792272880567684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_Kick_WithOutVFX_14
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3547ca76ee83cc300800000000000000
+      internalID: 273656273955484755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e11c0e416cd375345adcb2c689e9b60f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LightSpecialAttack_Kick_WithOutVFX_0: -3395653193554357210
+      LightSpecialAttack_Kick_WithOutVFX_1: 8748301286397540936
+      LightSpecialAttack_Kick_WithOutVFX_10: -5189834777935169795
+      LightSpecialAttack_Kick_WithOutVFX_11: 3821668717840668976
+      LightSpecialAttack_Kick_WithOutVFX_12: -234985745895955404
+      LightSpecialAttack_Kick_WithOutVFX_13: 2793792272880567684
+      LightSpecialAttack_Kick_WithOutVFX_14: 273656273955484755
+      LightSpecialAttack_Kick_WithOutVFX_2: 7780945857426241605
+      LightSpecialAttack_Kick_WithOutVFX_3: 109839851571900217
+      LightSpecialAttack_Kick_WithOutVFX_4: 4048366187388032106
+      LightSpecialAttack_Kick_WithOutVFX_5: 6859233428507722577
+      LightSpecialAttack_Kick_WithOutVFX_6: 414298064205250330
+      LightSpecialAttack_Kick_WithOutVFX_7: -3405796363501642060
+      LightSpecialAttack_Kick_WithOutVFX_8: 5603195308841337143
+      LightSpecialAttack_Kick_WithOutVFX_9: 1870368006160703384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

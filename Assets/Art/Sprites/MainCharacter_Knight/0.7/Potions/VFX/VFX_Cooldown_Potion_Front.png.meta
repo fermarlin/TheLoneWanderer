@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 26b5f86d8c1f01041923610bc0dac725
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5876221600949597743
+    second: VFX_Cooldown_Potion_Front_0
+  - first:
+      213: 3803204021286977667
+    second: VFX_Cooldown_Potion_Front_1
+  - first:
+      213: 1732684602382654751
+    second: VFX_Cooldown_Potion_Front_2
+  - first:
+      213: 4487950153598434471
+    second: VFX_Cooldown_Potion_Front_3
+  - first:
+      213: 1632132683456335002
+    second: VFX_Cooldown_Potion_Front_4
+  - first:
+      213: 7984988973622810646
+    second: VFX_Cooldown_Potion_Front_5
+  - first:
+      213: 8471068715600783502
+    second: VFX_Cooldown_Potion_Front_6
+  - first:
+      213: -2555301844259429891
+    second: VFX_Cooldown_Potion_Front_7
+  - first:
+      213: -4543138414880371738
+    second: VFX_Cooldown_Potion_Front_8
+  - first:
+      213: -1217770413327894590
+    second: VFX_Cooldown_Potion_Front_9
+  - first:
+      213: -6153999628410544082
+    second: VFX_Cooldown_Potion_Front_10
+  - first:
+      213: -3940367538734309216
+    second: VFX_Cooldown_Potion_Front_11
+  - first:
+      213: -4644085845982071870
+    second: VFX_Cooldown_Potion_Front_12
+  - first:
+      213: -6484705956374950265
+    second: VFX_Cooldown_Potion_Front_13
+  - first:
+      213: 8662659225031814020
+    second: VFX_Cooldown_Potion_Front_14
+  - first:
+      213: 1999654961129613076
+    second: VFX_Cooldown_Potion_Front_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f31a99688c8150800000000000000
+      internalID: 5876221600949597743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380c52938e1b7c430800000000000000
+      internalID: 3803204021286977667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 64
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9ec8377bbb0810800000000000000
+      internalID: 1732684602382654751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf4e2f2e6684e30800000000000000
+      internalID: 4487950153598434471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c48b7370086a610800000000000000
+      internalID: 1632132683456335002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 65
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618d23c4a2160de60800000000000000
+      internalID: 7984988973622810646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 66
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e882f4d7d184f8570800000000000000
+      internalID: 8471068715600783502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_7
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 66
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1240fd28eb98cd0800000000000000
+      internalID: -2555301844259429891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 207
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebcf97aea783f0c0800000000000000
+      internalID: -4543138414880371738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c73c97d24c991fe0800000000000000
+      internalID: -1217770413327894590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 31
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2024b871f9989aa0800000000000000
+      internalID: -6153999628410544082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 31
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e249b9900159c0800000000000000
+      internalID: -3940367538734309216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 31
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b1db4784ec8fb0800000000000000
+      internalID: -4644085845982071870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 31
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e49654a42b106a0800000000000000
+      internalID: -6484705956374950265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 30
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b284e1ba2f73870800000000000000
+      internalID: 8662659225031814020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Front_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 30
+        width: 984
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4176a7fa79330cb10800000000000000
+      internalID: 1999654961129613076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f764b69443cb134aa5f4e1fa7e9ec36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Cooldown_Potion_Front_0: 5876221600949597743
+      VFX_Cooldown_Potion_Front_1: 3803204021286977667
+      VFX_Cooldown_Potion_Front_10: -6153999628410544082
+      VFX_Cooldown_Potion_Front_11: -3940367538734309216
+      VFX_Cooldown_Potion_Front_12: -4644085845982071870
+      VFX_Cooldown_Potion_Front_13: -6484705956374950265
+      VFX_Cooldown_Potion_Front_14: 8662659225031814020
+      VFX_Cooldown_Potion_Front_15: 1999654961129613076
+      VFX_Cooldown_Potion_Front_2: 1732684602382654751
+      VFX_Cooldown_Potion_Front_3: 4487950153598434471
+      VFX_Cooldown_Potion_Front_4: 1632132683456335002
+      VFX_Cooldown_Potion_Front_5: 7984988973622810646
+      VFX_Cooldown_Potion_Front_6: 8471068715600783502
+      VFX_Cooldown_Potion_Front_7: -2555301844259429891
+      VFX_Cooldown_Potion_Front_8: -4543138414880371738
+      VFX_Cooldown_Potion_Front_9: -1217770413327894590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

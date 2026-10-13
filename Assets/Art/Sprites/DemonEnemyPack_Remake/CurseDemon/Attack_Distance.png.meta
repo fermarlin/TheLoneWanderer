@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 85774090a6cef5a4eb5c03868c272864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6133126394584269757
+    second: Attack_Distance_0
+  - first:
+      213: 5033302579575129606
+    second: Attack_Distance_1
+  - first:
+      213: -947857500697141146
+    second: Attack_Distance_2
+  - first:
+      213: 2933985577660853059
+    second: Attack_Distance_3
+  - first:
+      213: -5958658232771169594
+    second: Attack_Distance_4
+  - first:
+      213: -1483163889591030388
+    second: Attack_Distance_5
+  - first:
+      213: -3622089116111094100
+    second: Attack_Distance_6
+  - first:
+      213: 2711330505788190281
+    second: Attack_Distance_7
+  - first:
+      213: -8445611015541733982
+    second: Attack_Distance_8
+  - first:
+      213: 1522719770172379726
+    second: Attack_Distance_9
+  - first:
+      213: 1504962305972682695
+    second: Attack_Distance_10
+  - first:
+      213: -3276869728156249231
+    second: Attack_Distance_11
+  - first:
+      213: 8982611066960960860
+    second: Attack_Distance_12
+  - first:
+      213: 1305319690401944385
+    second: Attack_Distance_13
+  - first:
+      213: 8205270209957785929
+    second: Attack_Distance_14
+  - first:
+      213: 4073699073765010533
+    second: Attack_Distance_15
+  - first:
+      213: -2613220490041631410
+    second: Attack_Distance_16
+  - first:
+      213: 5009077300381455813
+    second: Attack_Distance_17
+  - first:
+      213: -4764515894193542517
+    second: Attack_Distance_18
+  - first:
+      213: -2878844586819449925
+    second: Attack_Distance_19
+  - first:
+      213: 8668558677490003588
+    second: Attack_Distance_20
+  - first:
+      213: 5766805069158005137
+    second: Attack_Distance_21
+  - first:
+      213: -7317102290826232706
+    second: Attack_Distance_22
+  - first:
+      213: -2528605807405213212
+    second: Attack_Distance_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Distance_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db384cf06fd3d1550800000000000000
+      internalID: 6133126394584269757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 15
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60602ae4702e9d540800000000000000
+      internalID: 5033302579575129606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 15
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e14500a888d2f0800000000000000
+      internalID: -947857500697141146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2894865c97b820800000000000000
+      internalID: 2933985577660853059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b7b958e79e4da0800000000000000
+      internalID: -5958658232771169594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_5
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6d31fc4eba6be0800000000000000
+      internalID: -1483163889591030388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb369b321cbbdc0800000000000000
+      internalID: -3622089116111094100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e6f22dab490a520800000000000000
+      internalID: 2711330505788190281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_8
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5428337892bca80800000000000000
+      internalID: -8445611015541733982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_9
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 15
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d6913099c12510800000000000000
+      internalID: 1522719770172379726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_10
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 15
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfbadf5e33b2e410800000000000000
+      internalID: 1504962305972682695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_11
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 15
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173140608583682d0800000000000000
+      internalID: -3276869728156249231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_12
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 15
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d53b96c25a8ac70800000000000000
+      internalID: 8982611066960960860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_13
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 15
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431bb0b75d6d1210800000000000000
+      internalID: 1305319690401944385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_14
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f0a658c9fed170800000000000000
+      internalID: 8205270209957785929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_15
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 15
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce99569bfa88830800000000000000
+      internalID: 4073699073765010533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_16
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 15
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ddb4b4fc9fbbbd0800000000000000
+      internalID: -2613220490041631410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_17
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 15
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c595b5f341d38540800000000000000
+      internalID: 5009077300381455813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_18
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a24e7a90a01edb0800000000000000
+      internalID: -4764515894193542517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_19
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 15
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb021fd91a4c08d0800000000000000
+      internalID: -2878844586819449925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_20
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 15
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eeb6e6038ec4870800000000000000
+      internalID: 8668558677490003588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_21
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 15
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199b51418aec70050800000000000000
+      internalID: 5766805069158005137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_22
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 15
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cfa12fb3e647a90800000000000000
+      internalID: -7317102290826232706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Distance_23
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e95f905a6698ecd0800000000000000
+      internalID: -2528605807405213212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Distance_0: 6133126394584269757
+      Attack_Distance_1: 5033302579575129606
+      Attack_Distance_10: 1504962305972682695
+      Attack_Distance_11: -3276869728156249231
+      Attack_Distance_12: 8982611066960960860
+      Attack_Distance_13: 1305319690401944385
+      Attack_Distance_14: 8205270209957785929
+      Attack_Distance_15: 4073699073765010533
+      Attack_Distance_16: -2613220490041631410
+      Attack_Distance_17: 5009077300381455813
+      Attack_Distance_18: -4764515894193542517
+      Attack_Distance_19: -2878844586819449925
+      Attack_Distance_2: -947857500697141146
+      Attack_Distance_20: 8668558677490003588
+      Attack_Distance_21: 5766805069158005137
+      Attack_Distance_22: -7317102290826232706
+      Attack_Distance_23: -2528605807405213212
+      Attack_Distance_3: 2933985577660853059
+      Attack_Distance_4: -5958658232771169594
+      Attack_Distance_5: -1483163889591030388
+      Attack_Distance_6: -3622089116111094100
+      Attack_Distance_7: 2711330505788190281
+      Attack_Distance_8: -8445611015541733982
+      Attack_Distance_9: 1522719770172379726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

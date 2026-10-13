@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: f1e5f1bc17f1f5e45b98d264a0a5256a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2413341836577844545
+    second: TraitorGoverner_Death_0
+  - first:
+      213: 7138216336531736511
+    second: TraitorGoverner_Death_1
+  - first:
+      213: 8475626954538010916
+    second: TraitorGoverner_Death_2
+  - first:
+      213: -4896616590291841138
+    second: TraitorGoverner_Death_3
+  - first:
+      213: -3456503989407765928
+    second: TraitorGoverner_Death_4
+  - first:
+      213: 1966571978334514672
+    second: TraitorGoverner_Death_5
+  - first:
+      213: -7557775041201891673
+    second: TraitorGoverner_Death_6
+  - first:
+      213: -6195381224807871100
+    second: TraitorGoverner_Death_7
+  - first:
+      213: -8675784963676538068
+    second: TraitorGoverner_Death_8
+  - first:
+      213: -2573418942740459761
+    second: TraitorGoverner_Death_9
+  - first:
+      213: 9174226796794784021
+    second: TraitorGoverner_Death_10
+  - first:
+      213: 3607510037097722521
+    second: TraitorGoverner_Death_11
+  - first:
+      213: -3243862659413235144
+    second: TraitorGoverner_Death_12
+  - first:
+      213: 466214103873132890
+    second: TraitorGoverner_Death_13
+  - first:
+      213: 5745061811484851716
+    second: TraitorGoverner_Death_14
+  - first:
+      213: -5533078929037902233
+    second: TraitorGoverner_Death_15
+  - first:
+      213: -7267367301591339808
+    second: TraitorGoverner_Death_16
+  - first:
+      213: -7776889567902929060
+    second: TraitorGoverner_Death_17
+  - first:
+      213: -6179942193147913061
+    second: TraitorGoverner_Death_18
+  - first:
+      213: 7294670206235033183
+    second: TraitorGoverner_Death_19
+  - first:
+      213: 4453964488236150202
+    second: TraitorGoverner_Death_20
+  - first:
+      213: 5022693019368683488
+    second: TraitorGoverner_Death_21
+  - first:
+      213: 5346419906315397649
+    second: TraitorGoverner_Death_22
+  - first:
+      213: -2075309732525794101
+    second: TraitorGoverner_Death_23
+  - first:
+      213: -7338646241612779470
+    second: TraitorGoverner_Death_24
+  - first:
+      213: -800589227541006542
+    second: TraitorGoverner_Death_25
+  - first:
+      213: 4067032202935872246
+    second: TraitorGoverner_Death_26
+  - first:
+      213: 1821410135032612039
+    second: TraitorGoverner_Death_27
+  - first:
+      213: -8336149277365300816
+    second: TraitorGoverner_Death_28
+  - first:
+      213: 6460951245570729584
+    second: TraitorGoverner_Death_29
+  - first:
+      213: -5715713374799904135
+    second: TraitorGoverner_Death_30
+  - first:
+      213: 448786536041203492
+    second: TraitorGoverner_Death_31
+  - first:
+      213: -2901299771418890175
+    second: TraitorGoverner_Death_32
+  - first:
+      213: 8883773597459678566
+    second: TraitorGoverner_Death_33
+  - first:
+      213: 8188949705081287232
+    second: TraitorGoverner_Death_34
+  - first:
+      213: -7329706151987417865
+    second: TraitorGoverner_Death_35
+  - first:
+      213: 9147286936387479120
+    second: TraitorGoverner_Death_36
+  - first:
+      213: -2112541356964674984
+    second: TraitorGoverner_Death_37
+  - first:
+      213: -5790351768732962410
+    second: TraitorGoverner_Death_38
+  - first:
+      213: -666789986328585388
+    second: TraitorGoverner_Death_39
+  - first:
+      213: -5652554673996097692
+    second: TraitorGoverner_Death_40
+  - first:
+      213: 8759790003907923365
+    second: TraitorGoverner_Death_41
+  - first:
+      213: -5285260184914127282
+    second: TraitorGoverner_Death_42
+  - first:
+      213: -529035416351962471
+    second: TraitorGoverner_Death_43
+  - first:
+      213: 3144354104938473670
+    second: TraitorGoverner_Death_44
+  - first:
+      213: 4720921694620277237
+    second: TraitorGoverner_Death_45
+  - first:
+      213: 3061076952075252176
+    second: TraitorGoverner_Death_46
+  - first:
+      213: -870261737970427113
+    second: TraitorGoverner_Death_47
+  - first:
+      213: 8744809835172036334
+    second: TraitorGoverner_Death_48
+  - first:
+      213: -6511290088320359092
+    second: TraitorGoverner_Death_49
+  - first:
+      213: 1949144934934566099
+    second: TraitorGoverner_Death_50
+  - first:
+      213: -7467346343163026271
+    second: TraitorGoverner_Death_51
+  - first:
+      213: -5164895178934697220
+    second: TraitorGoverner_Death_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dafca2d99ed7120800000000000000
+      internalID: 2413341836577844545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 99
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb74ddc20f9001360800000000000000
+      internalID: 7138216336531736511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 19
+        width: 94
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429c6f13fc97f9570800000000000000
+      internalID: 8475626954538010916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 36
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fce5e8729bb0cb0800000000000000
+      internalID: -4896616590291841138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 36
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a21aa5fe70800d0800000000000000
+      internalID: -3456503989407765928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 35
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdadd18bcaaa4b10800000000000000
+      internalID: 1966571978334514672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 34
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a619d094a36d1790800000000000000
+      internalID: -7557775041201891673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 20
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc33fb995950aa0800000000000000
+      internalID: -6195381224807871100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 31
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b7264ba8b699780800000000000000
+      internalID: -8675784963676538068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 47
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f81bb2b11694cd0800000000000000
+      internalID: -2573418942740459761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 30
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519a2df1aa6615f70800000000000000
+      internalID: 9174226796794784021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 57
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bddce343701230800000000000000
+      internalID: 3607510037097722521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 51
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a2585191c7bf2d0800000000000000
+      internalID: -3243862659413235144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 38
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5992a2e143587600800000000000000
+      internalID: 466214103873132890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 63
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e7736674f8abf40800000000000000
+      internalID: 5745061811484851716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 33
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3f70970e8633b0800000000000000
+      internalID: -5533078929037902233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_16
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 58
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eceb5081ff152b90800000000000000
+      internalID: -7267367301591339808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 31
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f64b74420f21490800000000000000
+      internalID: -7776889567902929060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 20
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c58fc615f6c3aa0800000000000000
+      internalID: -6179942193147913061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 40
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb34c57efdb3560800000000000000
+      internalID: 7294670206235033183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 35
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd258b9a19afcd30800000000000000
+      internalID: 4453964488236150202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_21
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 24
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7fd4390b034b540800000000000000
+      internalID: 5022693019368683488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 48
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa108049c423a40800000000000000
+      internalID: 5346419906315397649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_23
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 47
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc93e13bc40333e0800000000000000
+      internalID: -2075309732525794101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_24
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 32
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303a640024e72a90800000000000000
+      internalID: -7338646241612779470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_25
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 48
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f969d65cb3e4f0800000000000000
+      internalID: -800589227541006542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 31
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa21129d30017830800000000000000
+      internalID: 4067032202935872246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_27
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 23
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c44ae81ed2f64910800000000000000
+      internalID: 1821410135032612039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 23
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11308266c005c80800000000000000
+      internalID: -8336149277365300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 28
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0766c5f1de8e9a950800000000000000
+      internalID: 6460951245570729584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 26
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724a1108f4bda0b0800000000000000
+      internalID: -5715713374799904135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_31
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 23
+        width: 82
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c6bc0af86a3600800000000000000
+      internalID: 448786536041203492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 26
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b7a9ca338cb7d0800000000000000
+      internalID: -2901299771418890175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_33
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 47
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650495c401894b70800000000000000
+      internalID: 8883773597459678566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_34
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 23
+        width: 82
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f8eeae5ef4a170800000000000000
+      internalID: 8188949705081287232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_35
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 26
+        width: 78
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6bc6d617a74a90800000000000000
+      internalID: -7329706151987417865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_36
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 26
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05662f51101b1fe70800000000000000
+      internalID: 9147286936387479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_37
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 7
+        width: 99
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528ccc14debea2e0800000000000000
+      internalID: -2112541356964674984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_38
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 7
+        width: 99
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fd14beb984afa0800000000000000
+      internalID: -5790351768732962410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_39
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 18
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bd81d4a061fb6f0800000000000000
+      internalID: -666789986328585388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_40
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 7
+        width: 99
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671df6f8771e81b0800000000000000
+      internalID: -5652554673996097692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_41
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 21
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad03f1e896019970800000000000000
+      internalID: 8759790003907923365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_42
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 7
+        width: 99
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e469da44ddbf6a6b0800000000000000
+      internalID: -5285260184914127282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_43
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 7
+        width: 99
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8dbe771d78a8f0800000000000000
+      internalID: -529035416351962471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_44
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 7
+        width: 99
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c826e0266df2ab20800000000000000
+      internalID: 3144354104938473670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_45
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 7
+        width: 99
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d64cc445148140800000000000000
+      internalID: 4720921694620277237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_46
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 7
+        width: 99
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b49605412b7a20800000000000000
+      internalID: 3061076952075252176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b98a66f853ce3f0800000000000000
+      internalID: -870261737970427113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_48
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee75cd863ecb5970800000000000000
+      internalID: 8744809835172036334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_49
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45a428b92043a5a0800000000000000
+      internalID: -6511290088320359092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_50
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d686cdf0cc0b10800000000000000
+      internalID: 1949144934934566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_51
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4a4f88018ae5890800000000000000
+      internalID: -7467346343163026271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TraitorGoverner_Death_52
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 7
+        width: 99
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24875133b9258b0800000000000000
+      internalID: -5164895178934697220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1a1bbdd6b48bbc40adb4d23797117b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TraitorGoverner_Death_0: 2413341836577844545
+      TraitorGoverner_Death_1: 7138216336531736511
+      TraitorGoverner_Death_10: 9174226796794784021
+      TraitorGoverner_Death_11: 3607510037097722521
+      TraitorGoverner_Death_12: -3243862659413235144
+      TraitorGoverner_Death_13: 466214103873132890
+      TraitorGoverner_Death_14: 5745061811484851716
+      TraitorGoverner_Death_15: -5533078929037902233
+      TraitorGoverner_Death_16: -7267367301591339808
+      TraitorGoverner_Death_17: -7776889567902929060
+      TraitorGoverner_Death_18: -6179942193147913061
+      TraitorGoverner_Death_19: 7294670206235033183
+      TraitorGoverner_Death_2: 8475626954538010916
+      TraitorGoverner_Death_20: 4453964488236150202
+      TraitorGoverner_Death_21: 5022693019368683488
+      TraitorGoverner_Death_22: 5346419906315397649
+      TraitorGoverner_Death_23: -2075309732525794101
+      TraitorGoverner_Death_24: -7338646241612779470
+      TraitorGoverner_Death_25: -800589227541006542
+      TraitorGoverner_Death_26: 4067032202935872246
+      TraitorGoverner_Death_27: 1821410135032612039
+      TraitorGoverner_Death_28: -8336149277365300816
+      TraitorGoverner_Death_29: 6460951245570729584
+      TraitorGoverner_Death_3: -4896616590291841138
+      TraitorGoverner_Death_30: -5715713374799904135
+      TraitorGoverner_Death_31: 448786536041203492
+      TraitorGoverner_Death_32: -2901299771418890175
+      TraitorGoverner_Death_33: 8883773597459678566
+      TraitorGoverner_Death_34: 8188949705081287232
+      TraitorGoverner_Death_35: -7329706151987417865
+      TraitorGoverner_Death_36: 9147286936387479120
+      TraitorGoverner_Death_37: -2112541356964674984
+      TraitorGoverner_Death_38: -5790351768732962410
+      TraitorGoverner_Death_39: -666789986328585388
+      TraitorGoverner_Death_4: -3456503989407765928
+      TraitorGoverner_Death_40: -5652554673996097692
+      TraitorGoverner_Death_41: 8759790003907923365
+      TraitorGoverner_Death_42: -5285260184914127282
+      TraitorGoverner_Death_43: -529035416351962471
+      TraitorGoverner_Death_44: 3144354104938473670
+      TraitorGoverner_Death_45: 4720921694620277237
+      TraitorGoverner_Death_46: 3061076952075252176
+      TraitorGoverner_Death_47: -870261737970427113
+      TraitorGoverner_Death_48: 8744809835172036334
+      TraitorGoverner_Death_49: -6511290088320359092
+      TraitorGoverner_Death_5: 1966571978334514672
+      TraitorGoverner_Death_50: 1949144934934566099
+      TraitorGoverner_Death_51: -7467346343163026271
+      TraitorGoverner_Death_52: -5164895178934697220
+      TraitorGoverner_Death_6: -7557775041201891673
+      TraitorGoverner_Death_7: -6195381224807871100
+      TraitorGoverner_Death_8: -8675784963676538068
+      TraitorGoverner_Death_9: -2573418942740459761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

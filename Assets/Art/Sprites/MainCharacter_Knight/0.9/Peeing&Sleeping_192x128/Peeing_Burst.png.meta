@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: db01f3f791e4485419e9cef04a6a400d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5980193892320726021
+    second: Peeing_Burst_0
+  - first:
+      213: 6195053433528604184
+    second: Peeing_Burst_1
+  - first:
+      213: 5525341433722131831
+    second: Peeing_Burst_2
+  - first:
+      213: -1481635803450629670
+    second: Peeing_Burst_3
+  - first:
+      213: 2789351855957080491
+    second: Peeing_Burst_4
+  - first:
+      213: 9211602442329621808
+    second: Peeing_Burst_5
+  - first:
+      213: 5240528795740597076
+    second: Peeing_Burst_6
+  - first:
+      213: -6302914601861990410
+    second: Peeing_Burst_7
+  - first:
+      213: 5719522324473084083
+    second: Peeing_Burst_8
+  - first:
+      213: -4654691190607166113
+    second: Peeing_Burst_9
+  - first:
+      213: -3871588603251529445
+    second: Peeing_Burst_10
+  - first:
+      213: 6648434288135429510
+    second: Peeing_Burst_11
+  - first:
+      213: 4125821242727346552
+    second: Peeing_Burst_12
+  - first:
+      213: -8978444393854848448
+    second: Peeing_Burst_13
+  - first:
+      213: -9052294540687369412
+    second: Peeing_Burst_14
+  - first:
+      213: 7353722576105471975
+    second: Peeing_Burst_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peeing_Burst_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 31
+        width: 23
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cccbf19aaedf250800000000000000
+      internalID: 5980193892320726021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165906664049f550800000000000000
+      internalID: 6195053433528604184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 28
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77551cb62c4fdac40800000000000000
+      internalID: 5525341433722131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 31
+        width: 32
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad123d8361c207be0800000000000000
+      internalID: -1481635803450629670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 31
+        width: 51
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f5effbb4c5b620800000000000000
+      internalID: 2789351855957080491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 31
+        width: 61
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358d2bbd9f26df70800000000000000
+      internalID: 9211602442329621808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 31
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be2599c291ab840800000000000000
+      internalID: 5240528795740597076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 31
+        width: 63
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b46a509c8788a0800000000000000
+      internalID: -6302914601861990410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_8
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 31
+        width: 68
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b872233043df5f40800000000000000
+      internalID: 5719522324473084083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_9
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 31
+        width: 82
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5548b41607376fb0800000000000000
+      internalID: -4654691190607166113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_10
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 31
+        width: 72
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19edba8daa554ac0800000000000000
+      internalID: -3871588603251529445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_11
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 31
+        width: 71
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd6d892cbf34c50800000000000000
+      internalID: 6648434288135429510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_12
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 71
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871368b8f8cd14930800000000000000
+      internalID: 4125821242727346552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_13
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 31
+        width: 71
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0423fa4c468266380800000000000000
+      internalID: -8978444393854848448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_14
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 31
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1f1c831acf5280800000000000000
+      internalID: -9052294540687369412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peeing_Burst_15
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 31
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7985a8bbad0660800000000000000
+      internalID: 7353722576105471975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7992a0cb53dc9345a79d462ca23d2fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Peeing_Burst_0: 5980193892320726021
+      Peeing_Burst_1: 6195053433528604184
+      Peeing_Burst_10: -3871588603251529445
+      Peeing_Burst_11: 6648434288135429510
+      Peeing_Burst_12: 4125821242727346552
+      Peeing_Burst_13: -8978444393854848448
+      Peeing_Burst_14: -9052294540687369412
+      Peeing_Burst_15: 7353722576105471975
+      Peeing_Burst_2: 5525341433722131831
+      Peeing_Burst_3: -1481635803450629670
+      Peeing_Burst_4: 2789351855957080491
+      Peeing_Burst_5: 9211602442329621808
+      Peeing_Burst_6: 5240528795740597076
+      Peeing_Burst_7: -6302914601861990410
+      Peeing_Burst_8: 5719522324473084083
+      Peeing_Burst_9: -4654691190607166113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

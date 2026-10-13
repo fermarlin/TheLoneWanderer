@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9602875c3304e344855c2f0d73ab3d8, type: 3}
+  m_Name: ComboConfig
+  m_EditorClassIdentifier: 
+  golpes:
+  - duracion: 0.3
+    momentoImpacto: 0.3
+    danio: 1
+  - duracion: 0.2
+    momentoImpacto: 0.1
+    danio: 1
+  - duracion: 0.3
+    momentoImpacto: 0.2
+    danio: 1
+  golpesCorriendo:
+  - duracion: 0.28
+    momentoImpacto: 0.28
+    danio: 1
+  - duracion: 0.36
+    momentoImpacto: 0.3
+    danio: 1
+  ataqueAereoArriba:
+    duracion: 0.45
+    momentoImpacto: 0.13
+    danio: 1
+  ataqueAereoAbajo:
+    duracion: 0.6
+    momentoImpacto: 0.15
+    danio: 1
+  fuerzaPogo: 10
+  golpesAereosLaterales:
+  - duracion: 0.3
+    momentoImpacto: 0.12
+    danio: 1
+  - duracion: 0.38
+    momentoImpacto: 0.15
+    danio: 1
+  umbralMovimientoParaCorrer: 0.65
+  umbralApuntadoVertical: 0.55
+  ventanaEntreGolpes: 0.2
+  anticipacionEntrada: 0.18
+  capasEnemigas:
+    serializedVersion: 2
+    m_Bits: 128
+  tamanoHitbox: {x: 4, y: 4}
+  desplazamientoHitbox: {x: 1.5, y: 0}
+  tamanoHitboxAereoLateral: {x: 4, y: 4}
+  desplazamientoHitboxAereoLateral: {x: 1.5, y: 0}
+  tamanoHitboxAereoArriba: {x: 4, y: 4}
+  desplazamientoHitboxAereoArriba: {x: 0, y: 0.85}
+  tamanoHitboxAereoAbajo: {x: 4, y: 4}
+  desplazamientoHitboxAereoAbajo: {x: 0, y: -0.85}

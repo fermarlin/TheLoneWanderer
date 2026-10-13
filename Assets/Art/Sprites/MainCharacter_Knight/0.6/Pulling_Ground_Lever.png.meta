@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 023b858a7ba3fd647b4825acccc54564
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3003828415845750675
+    second: Pulling_Ground_Lever_0
+  - first:
+      213: 8544315925576179958
+    second: Pulling_Ground_Lever_1
+  - first:
+      213: 2705942659111453506
+    second: Pulling_Ground_Lever_2
+  - first:
+      213: 1045750376322583626
+    second: Pulling_Ground_Lever_3
+  - first:
+      213: -2828361307139027912
+    second: Pulling_Ground_Lever_4
+  - first:
+      213: 3905545640904782652
+    second: Pulling_Ground_Lever_5
+  - first:
+      213: 709176543568295648
+    second: Pulling_Ground_Lever_6
+  - first:
+      213: 6940151096678792305
+    second: Pulling_Ground_Lever_7
+  - first:
+      213: 5796132806845533245
+    second: Pulling_Ground_Lever_8
+  - first:
+      213: -6902606212638707020
+    second: Pulling_Ground_Lever_9
+  - first:
+      213: -1595021147147100522
+    second: Pulling_Ground_Lever_10
+  - first:
+      213: -8485697062392482928
+    second: Pulling_Ground_Lever_11
+  - first:
+      213: 1514312101290485951
+    second: Pulling_Ground_Lever_12
+  - first:
+      213: -340621868272998065
+    second: Pulling_Ground_Lever_13
+  - first:
+      213: -5124756879085954677
+    second: Pulling_Ground_Lever_14
+  - first:
+      213: -1907315073631845384
+    second: Pulling_Ground_Lever_15
+  - first:
+      213: 670373008111889320
+    second: Pulling_Ground_Lever_16
+  - first:
+      213: -3140896847553714762
+    second: Pulling_Ground_Lever_17
+  - first:
+      213: 2211209539595711082
+    second: Pulling_Ground_Lever_18
+  - first:
+      213: -6422371861300930693
+    second: Pulling_Ground_Lever_19
+  - first:
+      213: 3395338157839361754
+    second: Pulling_Ground_Lever_20
+  - first:
+      213: 3358072997029619576
+    second: Pulling_Ground_Lever_21
+  - first:
+      213: 2434615114978267165
+    second: Pulling_Ground_Lever_22
+  - first:
+      213: -5449062559874469662
+    second: Pulling_Ground_Lever_23
+  - first:
+      213: -183201402526633755
+    second: Pulling_Ground_Lever_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682a4388f14056d0800000000000000
+      internalID: -3003828415845750675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06ea88012839670800000000000000
+      internalID: 8544315925576179958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430ae203807d8520800000000000000
+      internalID: 2705942659111453506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 31
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c40783d60438e00800000000000000
+      internalID: 1045750376322583626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc48f5064afb8d0800000000000000
+      internalID: -2828361307139027912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 31
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3374346119433630800000000000000
+      internalID: 3905545640904782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 31
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67d6a1f4087d900800000000000000
+      internalID: 709176543568295648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 31
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb315e6ae505060800000000000000
+      internalID: 6940151096678792305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_8
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 31
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c040f1410007050800000000000000
+      internalID: 5796132806845533245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_9
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 31
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f34f98340530a0800000000000000
+      internalID: -6902606212638707020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_10
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 31
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9f0ba7b85dd9e0800000000000000
+      internalID: -1595021147147100522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_11
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 31
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093358c1b7fbc3a80800000000000000
+      internalID: -8485697062392482928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_12
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 31
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8ae7c35dae30510800000000000000
+      internalID: 1514312101290485951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_13
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 31
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49abda273ed54bf0800000000000000
+      internalID: -340621868272998065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_14
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 31
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8997d545c431e8b0800000000000000
+      internalID: -5124756879085954677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_15
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 31
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f30d61cb0bd785e0800000000000000
+      internalID: -1907315073631845384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_16
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 31
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe487f2b4ad4900800000000000000
+      internalID: 670373008111889320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_17
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 31
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5aa6555fa4964d0800000000000000
+      internalID: -3140896847553714762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_18
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 31
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62be8b5c5bcfae10800000000000000
+      internalID: 2211209539595711082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_19
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 31
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7791bfb1d62fd6a0800000000000000
+      internalID: -6422371861300930693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_20
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 31
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62856b01aae1f20800000000000000
+      internalID: 3395338157839361754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_21
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 31
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87728c559954a9e20800000000000000
+      internalID: 3358072997029619576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_22
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1093154c8d79c120800000000000000
+      internalID: 2434615114978267165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_23
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03dcfd87a0164b0800000000000000
+      internalID: -5449062559874469662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulling_Ground_Lever_24
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0fb088b43257df0800000000000000
+      internalID: -183201402526633755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5748a1547dff3e4eb6077ae1048ca83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pulling_Ground_Lever_0: -3003828415845750675
+      Pulling_Ground_Lever_1: 8544315925576179958
+      Pulling_Ground_Lever_10: -1595021147147100522
+      Pulling_Ground_Lever_11: -8485697062392482928
+      Pulling_Ground_Lever_12: 1514312101290485951
+      Pulling_Ground_Lever_13: -340621868272998065
+      Pulling_Ground_Lever_14: -5124756879085954677
+      Pulling_Ground_Lever_15: -1907315073631845384
+      Pulling_Ground_Lever_16: 670373008111889320
+      Pulling_Ground_Lever_17: -3140896847553714762
+      Pulling_Ground_Lever_18: 2211209539595711082
+      Pulling_Ground_Lever_19: -6422371861300930693
+      Pulling_Ground_Lever_2: 2705942659111453506
+      Pulling_Ground_Lever_20: 3395338157839361754
+      Pulling_Ground_Lever_21: 3358072997029619576
+      Pulling_Ground_Lever_22: 2434615114978267165
+      Pulling_Ground_Lever_23: -5449062559874469662
+      Pulling_Ground_Lever_24: -183201402526633755
+      Pulling_Ground_Lever_3: 1045750376322583626
+      Pulling_Ground_Lever_4: -2828361307139027912
+      Pulling_Ground_Lever_5: 3905545640904782652
+      Pulling_Ground_Lever_6: 709176543568295648
+      Pulling_Ground_Lever_7: 6940151096678792305
+      Pulling_Ground_Lever_8: 5796132806845533245
+      Pulling_Ground_Lever_9: -6902606212638707020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

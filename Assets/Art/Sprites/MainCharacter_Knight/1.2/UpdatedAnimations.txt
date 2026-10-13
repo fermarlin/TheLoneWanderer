@@ -1,0 +1,12 @@
+In the 1.2 update, many animations were updated and new animations were added
+
+UPDATED ANIMATIONS
+
+0.1 All Jump Animations
+0.2 All Crouch Animations, Slide, Roll, Walk
+0.3 All Wall Slide Animations
+0.4 Parry
+0.5 All Aerial Attack Animations, Shield Dash
+
+
+The other animations in this file are newly added animations.

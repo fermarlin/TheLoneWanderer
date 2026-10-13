@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: df911a8ff4e52b84da774f3e6f9bc75c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8132501680428637021
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_0
+  - first:
+      213: 3261285373824018940
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_1
+  - first:
+      213: 8932811525525845740
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_2
+  - first:
+      213: 8524409949496193301
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_3
+  - first:
+      213: 4758229906632827148
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_4
+  - first:
+      213: 5523861305186218594
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_5
+  - first:
+      213: -6988675769255294282
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_6
+  - first:
+      213: -4612703176324458303
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_7
+  - first:
+      213: -5730819270534511420
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_8
+  - first:
+      213: -7453282688259809905
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_9
+  - first:
+      213: -2705469550358886119
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_10
+  - first:
+      213: 8552664276652343647
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_11
+  - first:
+      213: -234259861887481763
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_12
+  - first:
+      213: -1792109722172347660
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_13
+  - first:
+      213: -8278470792860520231
+    second: LightSpecialAttack_UpwardThrust_WithOutVFX_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a8ca3fcc832f80800000000000000
+      internalID: -8132501680428637021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 31
+        width: 44
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf925f9b4c9624d20800000000000000
+      internalID: 3261285373824018940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 44
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6bb7021c8b7fb70800000000000000
+      internalID: 8932811525525845740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 31
+        width: 45
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b68f4fa9cc4670800000000000000
+      internalID: 8524409949496193301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_4
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 31
+        width: 45
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016d70d3e0a80240800000000000000
+      internalID: 4758229906632827148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 31
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26276242792b8ac40800000000000000
+      internalID: 5523861305186218594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 31
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba882b5a6c330f90800000000000000
+      internalID: -6988675769255294282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 31
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85dd876e26cffb0800000000000000
+      internalID: -4612703176324458303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 31
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c3d39c3a0870b0800000000000000
+      internalID: -5730819270534511420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 31
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d94bb52ee909890800000000000000
+      internalID: -7453282688259809905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 31
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919093437cd347ad0800000000000000
+      internalID: -2705469550358886119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_11
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 31
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51490d78da21b670800000000000000
+      internalID: 8552664276652343647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_12
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 31
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58801395edbfbcf0800000000000000
+      internalID: -234259861887481763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 31
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa463e3b52127e0800000000000000
+      internalID: -1792109722172347660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSpecialAttack_UpwardThrust_WithOutVFX_14
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03a14dca6fc1d80800000000000000
+      internalID: -8278470792860520231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6e9ac40af76fc84d99b2c21d10262d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LightSpecialAttack_UpwardThrust_WithOutVFX_0: -8132501680428637021
+      LightSpecialAttack_UpwardThrust_WithOutVFX_1: 3261285373824018940
+      LightSpecialAttack_UpwardThrust_WithOutVFX_10: -2705469550358886119
+      LightSpecialAttack_UpwardThrust_WithOutVFX_11: 8552664276652343647
+      LightSpecialAttack_UpwardThrust_WithOutVFX_12: -234259861887481763
+      LightSpecialAttack_UpwardThrust_WithOutVFX_13: -1792109722172347660
+      LightSpecialAttack_UpwardThrust_WithOutVFX_14: -8278470792860520231
+      LightSpecialAttack_UpwardThrust_WithOutVFX_2: 8932811525525845740
+      LightSpecialAttack_UpwardThrust_WithOutVFX_3: 8524409949496193301
+      LightSpecialAttack_UpwardThrust_WithOutVFX_4: 4758229906632827148
+      LightSpecialAttack_UpwardThrust_WithOutVFX_5: 5523861305186218594
+      LightSpecialAttack_UpwardThrust_WithOutVFX_6: -6988675769255294282
+      LightSpecialAttack_UpwardThrust_WithOutVFX_7: -4612703176324458303
+      LightSpecialAttack_UpwardThrust_WithOutVFX_8: -5730819270534511420
+      LightSpecialAttack_UpwardThrust_WithOutVFX_9: -7453282688259809905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

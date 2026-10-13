@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: e6ecce3086b761843abe1dd8ad15de84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5217786247230003051
+    second: VFX_Dive_Strike_Action_Front_0
+  - first:
+      213: -6793582525463773379
+    second: VFX_Dive_Strike_Action_Front_1
+  - first:
+      213: 5085058813744990062
+    second: VFX_Dive_Strike_Action_Front_2
+  - first:
+      213: 6510111592053759395
+    second: VFX_Dive_Strike_Action_Front_3
+  - first:
+      213: 8516611395898220184
+    second: VFX_Dive_Strike_Action_Front_4
+  - first:
+      213: -6206970914328782618
+    second: VFX_Dive_Strike_Action_Front_5
+  - first:
+      213: 2102119855974435452
+    second: VFX_Dive_Strike_Action_Front_6
+  - first:
+      213: 4395453760377589793
+    second: VFX_Dive_Strike_Action_Front_7
+  - first:
+      213: 7406535288823218822
+    second: VFX_Dive_Strike_Action_Front_8
+  - first:
+      213: 2623295535401150342
+    second: VFX_Dive_Strike_Action_Front_9
+  - first:
+      213: 3834852643094753769
+    second: VFX_Dive_Strike_Action_Front_10
+  - first:
+      213: 3228747720367705305
+    second: VFX_Dive_Strike_Action_Front_11
+  - first:
+      213: -3252051707208536734
+    second: VFX_Dive_Strike_Action_Front_12
+  - first:
+      213: -919858128465493501
+    second: VFX_Dive_Strike_Action_Front_13
+  - first:
+      213: 8005816684895609406
+    second: VFX_Dive_Strike_Action_Front_14
+  - first:
+      213: -5099259763147547232
+    second: VFX_Dive_Strike_Action_Front_15
+  - first:
+      213: -7860788443750245820
+    second: VFX_Dive_Strike_Action_Front_16
+  - first:
+      213: -5996856187143460938
+    second: VFX_Dive_Strike_Action_Front_17
+  - first:
+      213: -5369256991465571118
+    second: VFX_Dive_Strike_Action_Front_18
+  - first:
+      213: -7319292159663959476
+    second: VFX_Dive_Strike_Action_Front_19
+  - first:
+      213: 6775518193118372380
+    second: VFX_Dive_Strike_Action_Front_20
+  - first:
+      213: -1321725049304296130
+    second: VFX_Dive_Strike_Action_Front_21
+  - first:
+      213: -8116918646662408133
+    second: VFX_Dive_Strike_Action_Front_22
+  - first:
+      213: -9177455150098902620
+    second: VFX_Dive_Strike_Action_Front_23
+  - first:
+      213: -2790855409451026462
+    second: VFX_Dive_Strike_Action_Front_24
+  - first:
+      213: -8036388850526834827
+    second: VFX_Dive_Strike_Action_Front_25
+  - first:
+      213: -5399102884867233623
+    second: VFX_Dive_Strike_Action_Front_26
+  - first:
+      213: 5814380410742925140
+    second: VFX_Dive_Strike_Action_Front_27
+  - first:
+      213: -4991551589920006581
+    second: VFX_Dive_Strike_Action_Front_28
+  - first:
+      213: 4131601085846445775
+    second: VFX_Dive_Strike_Action_Front_29
+  - first:
+      213: 154811377578238920
+    second: VFX_Dive_Strike_Action_Front_30
+  - first:
+      213: 3212703865081835785
+    second: VFX_Dive_Strike_Action_Front_31
+  - first:
+      213: -1660514818643648925
+    second: VFX_Dive_Strike_Action_Front_32
+  - first:
+      213: -3991862016709421594
+    second: VFX_Dive_Strike_Action_Front_33
+  - first:
+      213: -2285919765104583539
+    second: VFX_Dive_Strike_Action_Front_34
+  - first:
+      213: -6418985828394693479
+    second: VFX_Dive_Strike_Action_Front_35
+  - first:
+      213: -6612040768852506688
+    second: VFX_Dive_Strike_Action_Front_36
+  - first:
+      213: -8192054058965423010
+    second: VFX_Dive_Strike_Action_Front_37
+  - first:
+      213: 2817406410932607505
+    second: VFX_Dive_Strike_Action_Front_38
+  - first:
+      213: 3420746490041518765
+    second: VFX_Dive_Strike_Action_Front_39
+  - first:
+      213: 6005590806937140759
+    second: VFX_Dive_Strike_Action_Front_40
+  - first:
+      213: 3085334492615935163
+    second: VFX_Dive_Strike_Action_Front_41
+  - first:
+      213: 3578043415306205981
+    second: VFX_Dive_Strike_Action_Front_42
+  - first:
+      213: 98669138167279828
+    second: VFX_Dive_Strike_Action_Front_43
+  - first:
+      213: 2017876542814170539
+    second: VFX_Dive_Strike_Action_Front_44
+  - first:
+      213: -1500657342677370099
+    second: VFX_Dive_Strike_Action_Front_45
+  - first:
+      213: -1440559677791606698
+    second: VFX_Dive_Strike_Action_Front_46
+  - first:
+      213: 6317820071258965922
+    second: VFX_Dive_Strike_Action_Front_47
+  - first:
+      213: -2182789766084084945
+    second: VFX_Dive_Strike_Action_Front_48
+  - first:
+      213: -2637746531522575448
+    second: VFX_Dive_Strike_Action_Front_49
+  - first:
+      213: -4085813100823708351
+    second: VFX_Dive_Strike_Action_Front_50
+  - first:
+      213: -7180767165714405008
+    second: VFX_Dive_Strike_Action_Front_51
+  - first:
+      213: 2333305143276242853
+    second: VFX_Dive_Strike_Action_Front_52
+  - first:
+      213: 8694768758397791297
+    second: VFX_Dive_Strike_Action_Front_53
+  - first:
+      213: -8511637391343005083
+    second: VFX_Dive_Strike_Action_Front_54
+  - first:
+      213: 421023945049100426
+    second: VFX_Dive_Strike_Action_Front_55
+  - first:
+      213: 5036466614367197393
+    second: VFX_Dive_Strike_Action_Front_56
+  - first:
+      213: 179311434577493243
+    second: VFX_Dive_Strike_Action_Front_57
+  - first:
+      213: 2660716739149217914
+    second: VFX_Dive_Strike_Action_Front_58
+  - first:
+      213: 2207713747008143633
+    second: VFX_Dive_Strike_Action_Front_59
+  - first:
+      213: 6041337477175034500
+    second: VFX_Dive_Strike_Action_Front_60
+  - first:
+      213: 2855405207563422265
+    second: VFX_Dive_Strike_Action_Front_61
+  - first:
+      213: -2661993036461115973
+    second: VFX_Dive_Strike_Action_Front_62
+  - first:
+      213: 3957188166019613989
+    second: VFX_Dive_Strike_Action_Front_63
+  - first:
+      213: -1736290875891383369
+    second: VFX_Dive_Strike_Action_Front_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 60
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67101462fc496840800000000000000
+      internalID: 5217786247230003051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3e61efa858b1a0800000000000000
+      internalID: -6793582525463773379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 31
+        width: 115
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e674d3f9c02c19640800000000000000
+      internalID: 5085058813744990062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 31
+        width: 104
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad548c3000985a50800000000000000
+      internalID: 6510111592053759395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_4
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 31
+        width: 71
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9e8e01f4113670800000000000000
+      internalID: 8516611395898220184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 265
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85040e6d86cd9a0800000000000000
+      internalID: -6206970914328782618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 99
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac6aa1fda3c2d10800000000000000
+      internalID: 2102119855974435452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 74
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12016fd28e9cffc30800000000000000
+      internalID: 4395453760377589793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 62
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68204ba8a9c49c660800000000000000
+      internalID: 7406535288823218822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 62
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68724700461d76420800000000000000
+      internalID: 2623295535401150342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 57
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e171a53922283530800000000000000
+      internalID: 3834852643094753769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 31
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc8edde1f0decc20800000000000000
+      internalID: 3228747720367705305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 62
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de1a0d3346ed2d0800000000000000
+      internalID: -3252051707208536734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 31
+        width: 51
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020f01e7e10c33f0800000000000000
+      internalID: -919858128465493501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_14
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 62
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e322918bbdf5a1f60800000000000000
+      internalID: 8005816684895609406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 39
+        width: 45
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add520334acb39b0800000000000000
+      internalID: -5099259763147547232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_16
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 55
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a55c30f8ed8e290800000000000000
+      internalID: -7860788443750245820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_17
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 55
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e53c0213e6cca0800000000000000
+      internalID: -5996856187143460938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc79ebb6319c75b0800000000000000
+      internalID: -5369256991465571118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 31
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429def5f86ac6a90800000000000000
+      internalID: -7319292159663959476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 49
+        width: 17
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12640ef5e9770e50800000000000000
+      internalID: 6775518193118372380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 52
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e355b79021a48ade0800000000000000
+      internalID: -1321725049304296130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 48
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3851f20f79ea5f80800000000000000
+      internalID: -8116918646662408133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_23
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 31
+        width: 46
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1964c4a2123a080800000000000000
+      internalID: -9177455150098902620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 45
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b13caac3e449d0800000000000000
+      internalID: -2790855409451026462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_25
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 31
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f20774be2097090800000000000000
+      internalID: -8036388850526834827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 31
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a3b928888215b0800000000000000
+      internalID: -5399102884867233623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 31
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457625b7d24d0b050800000000000000
+      internalID: 5814380410742925140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_28
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e18cc76427abab0800000000000000
+      internalID: -4991551589920006581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 31
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcede732c45665930800000000000000
+      internalID: 4131601085846445775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36dbfa020062200800000000000000
+      internalID: 154811377578238920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_31
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013ab6c421d59c20800000000000000
+      internalID: 3212703865081835785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_32
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e197af19aa4f8e0800000000000000
+      internalID: -1660514818643648925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_33
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e519a545ae0a98c0800000000000000
+      internalID: -3991862016709421594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_34
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 31
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c95efb518c640e0800000000000000
+      internalID: -2285919765104583539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_35
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8448f56e2be6a0800000000000000
+      internalID: -6418985828394693479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_36
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 31
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7452ce3ff4d34a0800000000000000
+      internalID: -6612040768852506688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_37
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 31
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca19a9c3aff4e80800000000000000
+      internalID: -8192054058965423010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_38
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 31
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11adb871430791720800000000000000
+      internalID: 2817406410932607505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_39
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daac69d0fcee87f20800000000000000
+      internalID: 3420746490041518765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_40
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 31
+        width: 53
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef6d91505285350800000000000000
+      internalID: 6005590806937140759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_41
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 31
+        width: 26
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb402adcf5f41da20800000000000000
+      internalID: 3085334492615935163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_42
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b70486783c7a130800000000000000
+      internalID: 3578043415306205981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_43
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d031c2fe0b8e5100800000000000000
+      internalID: 98669138167279828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_44
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 31
+        width: 56
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad28074600f00c10800000000000000
+      internalID: 2017876542814170539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_45
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 31
+        width: 27
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b322009189c2be0800000000000000
+      internalID: -1500657342677370099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_46
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ea7ffa9a120ce0800000000000000
+      internalID: -1440559677791606698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_47
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7493ea1e76da750800000000000000
+      internalID: 6317820071258965922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_48
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 31
+        width: 57
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b333dc54c25b1e0800000000000000
+      internalID: -2182789766084084945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_49
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 31
+        width: 28
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a304154187d46bd0800000000000000
+      internalID: -2637746531522575448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_50
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df3c2e1a64c47c0800000000000000
+      internalID: -4085813100823708351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_51
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079edc0ee4ac85c90800000000000000
+      internalID: -7180767165714405008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_52
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 31
+        width: 59
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a782995aa0916020800000000000000
+      internalID: 2333305143276242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_53
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 31
+        width: 29
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce6707e160aa870800000000000000
+      internalID: 8694768758397791297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_54
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625110a3e690e980800000000000000
+      internalID: -8511637391343005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_55
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d59e1c07c7d500800000000000000
+      internalID: 421023945049100426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_56
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 31
+        width: 60
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8987093bf15e540800000000000000
+      internalID: 5036466614367197393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_57
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 31
+        width: 30
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc382abcca0d7200800000000000000
+      internalID: 179311434577493243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_58
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cce4f6c3cce420800000000000000
+      internalID: 2660716739149217914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_59
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ca28b4ff53ae10800000000000000
+      internalID: 2207713747008143633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_60
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 31
+        width: 61
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c5475d6427d350800000000000000
+      internalID: 6041337477175034500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_61
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 31
+        width: 30
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a4e9e58ef60a720800000000000000
+      internalID: 2855405207563422265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_62
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 31
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5fb2bef63be0bd0800000000000000
+      internalID: -2661993036461115973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_63
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 31
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258af0cba1cae630800000000000000
+      internalID: 3957188166019613989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Dive_Strike_Action_Front_64
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 31
+        width: 637
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30ebbc5a477e7e0800000000000000
+      internalID: -1736290875891383369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab99c93569378964bad323c601e9f765
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Dive_Strike_Action_Front_0: 5217786247230003051
+      VFX_Dive_Strike_Action_Front_1: -6793582525463773379
+      VFX_Dive_Strike_Action_Front_10: 3834852643094753769
+      VFX_Dive_Strike_Action_Front_11: 3228747720367705305
+      VFX_Dive_Strike_Action_Front_12: -3252051707208536734
+      VFX_Dive_Strike_Action_Front_13: -919858128465493501
+      VFX_Dive_Strike_Action_Front_14: 8005816684895609406
+      VFX_Dive_Strike_Action_Front_15: -5099259763147547232
+      VFX_Dive_Strike_Action_Front_16: -7860788443750245820
+      VFX_Dive_Strike_Action_Front_17: -5996856187143460938
+      VFX_Dive_Strike_Action_Front_18: -5369256991465571118
+      VFX_Dive_Strike_Action_Front_19: -7319292159663959476
+      VFX_Dive_Strike_Action_Front_2: 5085058813744990062
+      VFX_Dive_Strike_Action_Front_20: 6775518193118372380
+      VFX_Dive_Strike_Action_Front_21: -1321725049304296130
+      VFX_Dive_Strike_Action_Front_22: -8116918646662408133
+      VFX_Dive_Strike_Action_Front_23: -9177455150098902620
+      VFX_Dive_Strike_Action_Front_24: -2790855409451026462
+      VFX_Dive_Strike_Action_Front_25: -8036388850526834827
+      VFX_Dive_Strike_Action_Front_26: -5399102884867233623
+      VFX_Dive_Strike_Action_Front_27: 5814380410742925140
+      VFX_Dive_Strike_Action_Front_28: -4991551589920006581
+      VFX_Dive_Strike_Action_Front_29: 4131601085846445775
+      VFX_Dive_Strike_Action_Front_3: 6510111592053759395
+      VFX_Dive_Strike_Action_Front_30: 154811377578238920
+      VFX_Dive_Strike_Action_Front_31: 3212703865081835785
+      VFX_Dive_Strike_Action_Front_32: -1660514818643648925
+      VFX_Dive_Strike_Action_Front_33: -3991862016709421594
+      VFX_Dive_Strike_Action_Front_34: -2285919765104583539
+      VFX_Dive_Strike_Action_Front_35: -6418985828394693479
+      VFX_Dive_Strike_Action_Front_36: -6612040768852506688
+      VFX_Dive_Strike_Action_Front_37: -8192054058965423010
+      VFX_Dive_Strike_Action_Front_38: 2817406410932607505
+      VFX_Dive_Strike_Action_Front_39: 3420746490041518765
+      VFX_Dive_Strike_Action_Front_4: 8516611395898220184
+      VFX_Dive_Strike_Action_Front_40: 6005590806937140759
+      VFX_Dive_Strike_Action_Front_41: 3085334492615935163
+      VFX_Dive_Strike_Action_Front_42: 3578043415306205981
+      VFX_Dive_Strike_Action_Front_43: 98669138167279828
+      VFX_Dive_Strike_Action_Front_44: 2017876542814170539
+      VFX_Dive_Strike_Action_Front_45: -1500657342677370099
+      VFX_Dive_Strike_Action_Front_46: -1440559677791606698
+      VFX_Dive_Strike_Action_Front_47: 6317820071258965922
+      VFX_Dive_Strike_Action_Front_48: -2182789766084084945
+      VFX_Dive_Strike_Action_Front_49: -2637746531522575448
+      VFX_Dive_Strike_Action_Front_5: -6206970914328782618
+      VFX_Dive_Strike_Action_Front_50: -4085813100823708351
+      VFX_Dive_Strike_Action_Front_51: -7180767165714405008
+      VFX_Dive_Strike_Action_Front_52: 2333305143276242853
+      VFX_Dive_Strike_Action_Front_53: 8694768758397791297
+      VFX_Dive_Strike_Action_Front_54: -8511637391343005083
+      VFX_Dive_Strike_Action_Front_55: 421023945049100426
+      VFX_Dive_Strike_Action_Front_56: 5036466614367197393
+      VFX_Dive_Strike_Action_Front_57: 179311434577493243
+      VFX_Dive_Strike_Action_Front_58: 2660716739149217914
+      VFX_Dive_Strike_Action_Front_59: 2207713747008143633
+      VFX_Dive_Strike_Action_Front_6: 2102119855974435452
+      VFX_Dive_Strike_Action_Front_60: 6041337477175034500
+      VFX_Dive_Strike_Action_Front_61: 2855405207563422265
+      VFX_Dive_Strike_Action_Front_62: -2661993036461115973
+      VFX_Dive_Strike_Action_Front_63: 3957188166019613989
+      VFX_Dive_Strike_Action_Front_64: -1736290875891383369
+      VFX_Dive_Strike_Action_Front_7: 4395453760377589793
+      VFX_Dive_Strike_Action_Front_8: 7406535288823218822
+      VFX_Dive_Strike_Action_Front_9: 2623295535401150342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f799a24bebac953438d5179fcfa4c389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7632815738856030707
+    second: SpecialAttack_Heavy_AirSpin_0
+  - first:
+      213: -3725009728999978500
+    second: SpecialAttack_Heavy_AirSpin_1
+  - first:
+      213: -4168751626771067616
+    second: SpecialAttack_Heavy_AirSpin_2
+  - first:
+      213: 5780412011587533074
+    second: SpecialAttack_Heavy_AirSpin_3
+  - first:
+      213: -1568851885006100847
+    second: SpecialAttack_Heavy_AirSpin_4
+  - first:
+      213: -6805270969856891937
+    second: SpecialAttack_Heavy_AirSpin_5
+  - first:
+      213: -267171304734828238
+    second: SpecialAttack_Heavy_AirSpin_6
+  - first:
+      213: -2605033413217726577
+    second: SpecialAttack_Heavy_AirSpin_7
+  - first:
+      213: -3046821385384490231
+    second: SpecialAttack_Heavy_AirSpin_8
+  - first:
+      213: -7792616560694009992
+    second: SpecialAttack_Heavy_AirSpin_9
+  - first:
+      213: -8554646997148286118
+    second: SpecialAttack_Heavy_AirSpin_10
+  - first:
+      213: -3574802784629949465
+    second: SpecialAttack_Heavy_AirSpin_11
+  - first:
+      213: 3285935324415677711
+    second: SpecialAttack_Heavy_AirSpin_12
+  - first:
+      213: 1468675936104770157
+    second: SpecialAttack_Heavy_AirSpin_13
+  - first:
+      213: -5800860281667866489
+    second: SpecialAttack_Heavy_AirSpin_14
+  - first:
+      213: 8174020863458698567
+    second: SpecialAttack_Heavy_AirSpin_15
+  - first:
+      213: 5322724481868889398
+    second: SpecialAttack_Heavy_AirSpin_16
+  - first:
+      213: -4783919654202362358
+    second: SpecialAttack_Heavy_AirSpin_17
+  - first:
+      213: -472999739726163557
+    second: SpecialAttack_Heavy_AirSpin_18
+  - first:
+      213: -7807862335611924765
+    second: SpecialAttack_Heavy_AirSpin_19
+  - first:
+      213: -5646747708094982597
+    second: SpecialAttack_Heavy_AirSpin_20
+  - first:
+      213: 6726854364355212972
+    second: SpecialAttack_Heavy_AirSpin_21
+  - first:
+      213: 3817559272550245441
+    second: SpecialAttack_Heavy_AirSpin_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eb971a68ac21690800000000000000
+      internalID: -7632815738856030707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 31
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9051e236b1e4cc0800000000000000
+      internalID: -3725009728999978500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 31
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8a718b7e9526c0800000000000000
+      internalID: -4168751626771067616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 31
+        width: 51
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219731e3916283050800000000000000
+      internalID: 5780412011587533074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_4
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 31
+        width: 52
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966201d5815a3ae0800000000000000
+      internalID: -1568851885006100847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 31
+        width: 52
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e669db12de81a0800000000000000
+      internalID: -6805270969856891937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 38
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395a172d11da4cf0800000000000000
+      internalID: -267171304734828238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_7
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 50
+        width: 60
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4229a9ef09dbd0800000000000000
+      internalID: -2605033413217726577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_8
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 60
+        width: 46
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b081eb71487b5d0800000000000000
+      internalID: -3046821385384490231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_9
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 61
+        width: 44
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd10d66801bd390800000000000000
+      internalID: -7792616560694009992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_10
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 62
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534d1c61e9c74980800000000000000
+      internalID: -8554646997148286118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_11
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 44
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebfd08becfb36ec0800000000000000
+      internalID: -3574802784629949465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_12
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 31
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0554b694ccf99d20800000000000000
+      internalID: 3285935324415677711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_13
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 31
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a60b58bf8c16410800000000000000
+      internalID: 1468675936104770157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_14
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 31
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b38fde443f7fa0800000000000000
+      internalID: -5800860281667866489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_15
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 31
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456611eaa4ff6170800000000000000
+      internalID: 8174020863458698567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_16
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 31
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df11b17bd1ed940800000000000000
+      internalID: 5322724481868889398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_17
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a063249bb6a1c9db0800000000000000
+      internalID: -4783919654202362358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_18
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 31
+        width: 59
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9115c62e319f69f0800000000000000
+      internalID: -472999739726163557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_19
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 31
+        width: 58
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee03b6d296e4a390800000000000000
+      internalID: -7807862335611924765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_20
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 31
+        width: 58
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b365fb290e8b2a1b0800000000000000
+      internalID: -5646747708094982597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_21
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 31
+        width: 56
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6bd2b67669a5d50800000000000000
+      internalID: 6726854364355212972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_AirSpin_22
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 31
+        width: 55
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442b5d9ee1baf430800000000000000
+      internalID: 3817559272550245441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b984cd9e26a6cf4e956de6201b1284c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpecialAttack_Heavy_AirSpin_0: -7632815738856030707
+      SpecialAttack_Heavy_AirSpin_1: -3725009728999978500
+      SpecialAttack_Heavy_AirSpin_10: -8554646997148286118
+      SpecialAttack_Heavy_AirSpin_11: -3574802784629949465
+      SpecialAttack_Heavy_AirSpin_12: 3285935324415677711
+      SpecialAttack_Heavy_AirSpin_13: 1468675936104770157
+      SpecialAttack_Heavy_AirSpin_14: -5800860281667866489
+      SpecialAttack_Heavy_AirSpin_15: 8174020863458698567
+      SpecialAttack_Heavy_AirSpin_16: 5322724481868889398
+      SpecialAttack_Heavy_AirSpin_17: -4783919654202362358
+      SpecialAttack_Heavy_AirSpin_18: -472999739726163557
+      SpecialAttack_Heavy_AirSpin_19: -7807862335611924765
+      SpecialAttack_Heavy_AirSpin_2: -4168751626771067616
+      SpecialAttack_Heavy_AirSpin_20: -5646747708094982597
+      SpecialAttack_Heavy_AirSpin_21: 6726854364355212972
+      SpecialAttack_Heavy_AirSpin_22: 3817559272550245441
+      SpecialAttack_Heavy_AirSpin_3: 5780412011587533074
+      SpecialAttack_Heavy_AirSpin_4: -1568851885006100847
+      SpecialAttack_Heavy_AirSpin_5: -6805270969856891937
+      SpecialAttack_Heavy_AirSpin_6: -267171304734828238
+      SpecialAttack_Heavy_AirSpin_7: -2605033413217726577
+      SpecialAttack_Heavy_AirSpin_8: -3046821385384490231
+      SpecialAttack_Heavy_AirSpin_9: -7792616560694009992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

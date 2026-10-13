@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 15a8398c92fd83b439769f6c7c9a3015
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6450024297968541819
+    second: Death_Landing_0
+  - first:
+      213: -3033196453638163686
+    second: Death_Landing_1
+  - first:
+      213: -5442456285870210271
+    second: Death_Landing_2
+  - first:
+      213: -1808266490742361916
+    second: Death_Landing_3
+  - first:
+      213: 7488435046103598319
+    second: Death_Landing_4
+  - first:
+      213: 90162721483598877
+    second: Death_Landing_5
+  - first:
+      213: -4853188900542238805
+    second: Death_Landing_6
+  - first:
+      213: -1213190303307320950
+    second: Death_Landing_7
+  - first:
+      213: -8960327853005250520
+    second: Death_Landing_8
+  - first:
+      213: 3902482790638394286
+    second: Death_Landing_9
+  - first:
+      213: -887399472766527111
+    second: Death_Landing_10
+  - first:
+      213: -5990612887273377462
+    second: Death_Landing_11
+  - first:
+      213: 3128710194811016964
+    second: Death_Landing_12
+  - first:
+      213: -7817749135451983275
+    second: Death_Landing_13
+  - first:
+      213: 6427957701905176548
+    second: Death_Landing_14
+  - first:
+      213: 3481818799851911959
+    second: Death_Landing_15
+  - first:
+      213: 8519931045015317693
+    second: Death_Landing_16
+  - first:
+      213: 5770914232994375105
+    second: Death_Landing_17
+  - first:
+      213: 3534633249908353988
+    second: Death_Landing_18
+  - first:
+      213: -7246680002525930044
+    second: Death_Landing_19
+  - first:
+      213: 4415200006199772106
+    second: Death_Landing_20
+  - first:
+      213: 9076061519819560874
+    second: Death_Landing_21
+  - first:
+      213: 1158357372129061544
+    second: Death_Landing_22
+  - first:
+      213: 2419828393676232909
+    second: Death_Landing_23
+  - first:
+      213: 1415837743430933700
+    second: Death_Landing_24
+  - first:
+      213: -1483370660956127042
+    second: Death_Landing_25
+  - first:
+      213: -4498043731235635808
+    second: Death_Landing_26
+  - first:
+      213: 2908915141934314926
+    second: Death_Landing_27
+  - first:
+      213: 634060922355424781
+    second: Death_Landing_28
+  - first:
+      213: 7705766426378487447
+    second: Death_Landing_29
+  - first:
+      213: 2062299204657401944
+    second: Death_Landing_30
+  - first:
+      213: 874516837777581627
+    second: Death_Landing_31
+  - first:
+      213: -6340046370046061575
+    second: Death_Landing_32
+  - first:
+      213: 4870146489074480169
+    second: Death_Landing_33
+  - first:
+      213: 6855506740330359129
+    second: Death_Landing_34
+  - first:
+      213: -895920967854973400
+    second: Death_Landing_35
+  - first:
+      213: 8300506329538010196
+    second: Death_Landing_36
+  - first:
+      213: -3680123374281065273
+    second: Death_Landing_37
+  - first:
+      213: -7709555787184332914
+    second: Death_Landing_38
+  - first:
+      213: -1589538825601801164
+    second: Death_Landing_39
+  - first:
+      213: -771461146164306276
+    second: Death_Landing_40
+  - first:
+      213: -1706391429743752174
+    second: Death_Landing_41
+  - first:
+      213: 6226854227751801257
+    second: Death_Landing_42
+  - first:
+      213: -1285004220813163183
+    second: Death_Landing_43
+  - first:
+      213: 4558944897454647114
+    second: Death_Landing_44
+  - first:
+      213: 4118293991537112604
+    second: Death_Landing_45
+  - first:
+      213: -8178694025610950662
+    second: Death_Landing_46
+  - first:
+      213: -1892953674066289250
+    second: Death_Landing_47
+  - first:
+      213: -2991379193518513643
+    second: Death_Landing_48
+  - first:
+      213: -9002248748057497963
+    second: Death_Landing_49
+  - first:
+      213: 8744663662485361364
+    second: Death_Landing_50
+  - first:
+      213: 4348544912789206192
+    second: Death_Landing_51
+  - first:
+      213: -2309797671188236281
+    second: Death_Landing_52
+  - first:
+      213: 8462884977402482045
+    second: Death_Landing_53
+  - first:
+      213: 2716687469173460377
+    second: Death_Landing_54
+  - first:
+      213: 7874495124726017746
+    second: Death_Landing_55
+  - first:
+      213: 6121435525088682452
+    second: Death_Landing_56
+  - first:
+      213: 8250508627617207613
+    second: Death_Landing_57
+  - first:
+      213: 113770752278416688
+    second: Death_Landing_58
+  - first:
+      213: -4029094758022963962
+    second: Death_Landing_59
+  - first:
+      213: -4550261870625645056
+    second: Death_Landing_60
+  - first:
+      213: -8319054568031106028
+    second: Death_Landing_61
+  - first:
+      213: 2440455224302947441
+    second: Death_Landing_62
+  - first:
+      213: -5929936784660648740
+    second: Death_Landing_63
+  - first:
+      213: -3281316037924299905
+    second: Death_Landing_64
+  - first:
+      213: -1730925588219518155
+    second: Death_Landing_65
+  - first:
+      213: -4540704473802560481
+    second: Death_Landing_66
+  - first:
+      213: 5212041395754085779
+    second: Death_Landing_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Landing_0
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 15
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f52fe1319ec76a0800000000000000
+      internalID: -6450024297968541819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_1
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 15
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133cee55ebe7e5d0800000000000000
+      internalID: -3033196453638163686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_2
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 15
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1234d17e7d28874b0800000000000000
+      internalID: -5442456285870210271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_3
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 15
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c03f00153fb7e6e0800000000000000
+      internalID: -1808266490742361916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_4
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4479ebff34ce760800000000000000
+      internalID: 7488435046103598319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_5
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 69
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c230a7482504100800000000000000
+      internalID: 90162721483598877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_6
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 40
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafaf43886206acb0800000000000000
+      internalID: -4853188900542238805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_7
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 19
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813b6ec8d1e92fe0800000000000000
+      internalID: -1213190303307320950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_8
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 19
+        width: 383
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206592aa4586a380800000000000000
+      internalID: -8960327853005250520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_9
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab931efb67682630800000000000000
+      internalID: 3902482790638394286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_10
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d1e391e25fa3f0800000000000000
+      internalID: -887399472766527111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_11
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 41
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41713391511ddca0800000000000000
+      internalID: -5990612887273377462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_12
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 25
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079ad678596b6b20800000000000000
+      internalID: 3128710194811016964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_13
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 61
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552744ed496c18390800000000000000
+      internalID: -7817749135451983275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_14
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75b4d1971b43950800000000000000
+      internalID: 6427957701905176548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_15
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b337140c7e15030800000000000000
+      internalID: 3481818799851911959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_16
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce5f81520ec3670800000000000000
+      internalID: 8519931045015317693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_17
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 59
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c520e65be7661050800000000000000
+      internalID: 5770914232994375105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_18
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6218a63a8d0130800000000000000
+      internalID: 3534633249908353988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_19
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd388aeee9e6b90800000000000000
+      internalID: -7246680002525930044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_20
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 53
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac307dd4301f54d30800000000000000
+      internalID: 4415200006199772106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_21
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 61
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7df608dd5a4fd70800000000000000
+      internalID: 9076061519819560874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa25b884ef431010800000000000000
+      internalID: 1158357372129061544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_23
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 15
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d97e6a15f49120800000000000000
+      internalID: 2419828393676232909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_24
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 48
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc9acc1de016a310800000000000000
+      internalID: 1415837743430933700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_25
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0497b3e320a6be0800000000000000
+      internalID: -1483370660956127042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_26
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf68fde0db391c0800000000000000
+      internalID: -4498043731235635808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_27
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ffb4d8ea8e5820800000000000000
+      internalID: 2908915141934314926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_28
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e93faac03acc800800000000000000
+      internalID: 634060922355424781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 15
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796cb66ecb160fa60800000000000000
+      internalID: 7705766426378487447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 15
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850dc2a3332ce9c10800000000000000
+      internalID: 2062299204657401944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_31
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a4d93e68e22c00800000000000000
+      internalID: 874516837777581627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_32
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f356edda61a308a0800000000000000
+      internalID: -6340046370046061575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 78
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924766dbd6c369340800000000000000
+      internalID: 4870146489074480169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 15
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959efacee07a32f50800000000000000
+      internalID: 6855506740330359129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_35
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1e2460ac0193f0800000000000000
+      internalID: -895920967854973400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_36
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 30
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9efb5782513370800000000000000
+      internalID: 8300506329538010196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_37
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 29
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7d5a0a439decc0800000000000000
+      internalID: -3680123374281065273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_38
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f12d8cbd7220590800000000000000
+      internalID: -7709555787184332914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 22
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434205f1cd2d0f9e0800000000000000
+      internalID: -1589538825601801164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5cd8cc283b45f0800000000000000
+      internalID: -771461146164306276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c4a56190ea158e0800000000000000
+      internalID: -1706391429743752174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11949cdea3a6650800000000000000
+      internalID: 6226854227751801257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155cd8b287fba2ee0800000000000000
+      internalID: -1285004220813163183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a472d5bda30a44f30800000000000000
+      internalID: 4558944897454647114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_45
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f13ec09e172930800000000000000
+      internalID: 4118293991537112604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_46
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af789d4cd117f7e80800000000000000
+      internalID: -8178694025610950662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1209a9a0eab5e0800000000000000
+      internalID: -1892953674066289250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_48
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512a5d5f87c7c76d0800000000000000
+      internalID: -2991379193518513643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_49
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 15
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee358a576911380800000000000000
+      internalID: -9002248748057497963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_50
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 15
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d4b215494b5970800000000000000
+      internalID: 8744663662485361364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_51
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 16
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f1a00f82295c30800000000000000
+      internalID: 4348544912789206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_52
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708fcc18143f1ffd0800000000000000
+      internalID: -2309797671188236281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_53
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 17
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d80157c05327570800000000000000
+      internalID: 8462884977402482045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_54
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 16
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dc6dd0cdc93b520800000000000000
+      internalID: 2716687469173460377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_55
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 18
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee6d65893d74d60800000000000000
+      internalID: 7874495124726017746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_56
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d12e546d25b3f450800000000000000
+      internalID: 6121435525088682452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_57
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 18
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d355b6d32e1bf7270800000000000000
+      internalID: 8250508627617207613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_58
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 17
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d426b75e1349100800000000000000
+      internalID: 113770752278416688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_59
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d17a52aa7c518c0800000000000000
+      internalID: -4029094758022963962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_60
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 19
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9a5edfe83ad0c0800000000000000
+      internalID: -4550261870625645056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_61
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4a6552f7cc8c80800000000000000
+      internalID: -8319054568031106028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_62
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc2dea81d3ed120800000000000000
+      internalID: 2440455224302947441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdca7c999e1a4bda0800000000000000
+      internalID: -5929936784660648740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 15
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdabbd27c6672d0800000000000000
+      internalID: -3281316037924299905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_65
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 15
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533aa8d29548af7e0800000000000000
+      internalID: -1730925588219518155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_66
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 16
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ca8f8b65d2cf0c0800000000000000
+      internalID: -4540704473802560481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Landing_67
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 16
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dad8ce804e45840800000000000000
+      internalID: 5212041395754085779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Death_Landing_0: -6450024297968541819
+      Death_Landing_1: -3033196453638163686
+      Death_Landing_10: -887399472766527111
+      Death_Landing_11: -5990612887273377462
+      Death_Landing_12: 3128710194811016964
+      Death_Landing_13: -7817749135451983275
+      Death_Landing_14: 6427957701905176548
+      Death_Landing_15: 3481818799851911959
+      Death_Landing_16: 8519931045015317693
+      Death_Landing_17: 5770914232994375105
+      Death_Landing_18: 3534633249908353988
+      Death_Landing_19: -7246680002525930044
+      Death_Landing_2: -5442456285870210271
+      Death_Landing_20: 4415200006199772106
+      Death_Landing_21: 9076061519819560874
+      Death_Landing_22: 1158357372129061544
+      Death_Landing_23: 2419828393676232909
+      Death_Landing_24: 1415837743430933700
+      Death_Landing_25: -1483370660956127042
+      Death_Landing_26: -4498043731235635808
+      Death_Landing_27: 2908915141934314926
+      Death_Landing_28: 634060922355424781
+      Death_Landing_29: 7705766426378487447
+      Death_Landing_3: -1808266490742361916
+      Death_Landing_30: 2062299204657401944
+      Death_Landing_31: 874516837777581627
+      Death_Landing_32: -6340046370046061575
+      Death_Landing_33: 4870146489074480169
+      Death_Landing_34: 6855506740330359129
+      Death_Landing_35: -895920967854973400
+      Death_Landing_36: 8300506329538010196
+      Death_Landing_37: -3680123374281065273
+      Death_Landing_38: -7709555787184332914
+      Death_Landing_39: -1589538825601801164
+      Death_Landing_4: 7488435046103598319
+      Death_Landing_40: -771461146164306276
+      Death_Landing_41: -1706391429743752174
+      Death_Landing_42: 6226854227751801257
+      Death_Landing_43: -1285004220813163183
+      Death_Landing_44: 4558944897454647114
+      Death_Landing_45: 4118293991537112604
+      Death_Landing_46: -8178694025610950662
+      Death_Landing_47: -1892953674066289250
+      Death_Landing_48: -2991379193518513643
+      Death_Landing_49: -9002248748057497963
+      Death_Landing_5: 90162721483598877
+      Death_Landing_50: 8744663662485361364
+      Death_Landing_51: 4348544912789206192
+      Death_Landing_52: -2309797671188236281
+      Death_Landing_53: 8462884977402482045
+      Death_Landing_54: 2716687469173460377
+      Death_Landing_55: 7874495124726017746
+      Death_Landing_56: 6121435525088682452
+      Death_Landing_57: 8250508627617207613
+      Death_Landing_58: 113770752278416688
+      Death_Landing_59: -4029094758022963962
+      Death_Landing_6: -4853188900542238805
+      Death_Landing_60: -4550261870625645056
+      Death_Landing_61: -8319054568031106028
+      Death_Landing_62: 2440455224302947441
+      Death_Landing_63: -5929936784660648740
+      Death_Landing_64: -3281316037924299905
+      Death_Landing_65: -1730925588219518155
+      Death_Landing_66: -4540704473802560481
+      Death_Landing_67: 5212041395754085779
+      Death_Landing_7: -1213190303307320950
+      Death_Landing_8: -8960327853005250520
+      Death_Landing_9: 3902482790638394286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: e5193bcc10d779640bf2c22214840905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2947384278713909369
+    second: Buffs_Icons_0
+  - first:
+      213: 5623553872852683152
+    second: Buffs_Icons_1
+  - first:
+      213: -3740208354575136817
+    second: Buffs_Icons_2
+  - first:
+      213: 2593265599233096888
+    second: Buffs_Icons_3
+  - first:
+      213: 5621660910969780306
+    second: Buffs_Icons_4
+  - first:
+      213: -2274079699431469926
+    second: Buffs_Icons_5
+  - first:
+      213: 4481301764878487401
+    second: Buffs_Icons_6
+  - first:
+      213: -8190477376446860453
+    second: Buffs_Icons_7
+  - first:
+      213: 6087500879799611067
+    second: Buffs_Icons_8
+  - first:
+      213: 6623222371891871940
+    second: Buffs_Icons_9
+  - first:
+      213: -4695399212946080881
+    second: Buffs_Icons_10
+  - first:
+      213: 3350182995281476348
+    second: Buffs_Icons_11
+  - first:
+      213: 3965993636524071782
+    second: Buffs_Icons_12
+  - first:
+      213: -3091780280855875138
+    second: Buffs_Icons_13
+  - first:
+      213: 4184950218513002079
+    second: Buffs_Icons_14
+  - first:
+      213: 2643874874755482163
+    second: Buffs_Icons_15
+  - first:
+      213: -1473862505452884195
+    second: Buffs_Icons_16
+  - first:
+      213: -3178639318464158771
+    second: Buffs_Icons_17
+  - first:
+      213: 8134910864570358308
+    second: Buffs_Icons_18
+  - first:
+      213: -4222637643364756349
+    second: Buffs_Icons_19
+  - first:
+      213: 419515480563576136
+    second: Buffs_Icons_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buffs_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbfaa4d99c817d0800000000000000
+      internalID: -2947384278713909369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09908a6d370ea0e40800000000000000
+      internalID: 5623553872852683152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c997615c181cc0800000000000000
+      internalID: -3740208354575136817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc7782a2512df320800000000000000
+      internalID: 2593265599233096888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587d0e40d6240e40800000000000000
+      internalID: 5621660910969780306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cc57cdf88d070e0800000000000000
+      internalID: -2274079699431469926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fc9e25638c03e30800000000000000
+      internalID: 4481301764878487401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f20c9834955e80800000000000000
+      internalID: -8190477376446860453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe65561cc52b7450800000000000000
+      internalID: 6087500879799611067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c00909e7a96aeb50800000000000000
+      internalID: 6623222371891871940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b33b90b4796deb0800000000000000
+      internalID: -4695399212946080881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7e462fad3e7e20800000000000000
+      internalID: 3350182995281476348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b1a7e133a0a0730800000000000000
+      internalID: 3965993636524071782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1370c273ac715d0800000000000000
+      internalID: -3091780280855875138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e29290d0ee31a30800000000000000
+      internalID: 4184950218513002079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 12
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328164d03ee0b420800000000000000
+      internalID: 2643874874755482163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 44
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa6b23cd9cb8be0800000000000000
+      internalID: -1473862505452884195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 12
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3aad9816433e3d0800000000000000
+      internalID: -3178639318464158771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 12
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a9e2aa45205e070800000000000000
+      internalID: 8134910864570358308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_19
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841d049f6d2665c0800000000000000
+      internalID: -4222637643364756349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffs_Icons_20
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 14
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de4cc5b1b62d500800000000000000
+      internalID: 419515480563576136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d86139683bdd81948930eaced4a1f776
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buffs_Icons_0: -2947384278713909369
+      Buffs_Icons_1: 5623553872852683152
+      Buffs_Icons_10: -4695399212946080881
+      Buffs_Icons_11: 3350182995281476348
+      Buffs_Icons_12: 3965993636524071782
+      Buffs_Icons_13: -3091780280855875138
+      Buffs_Icons_14: 4184950218513002079
+      Buffs_Icons_15: 2643874874755482163
+      Buffs_Icons_16: -1473862505452884195
+      Buffs_Icons_17: -3178639318464158771
+      Buffs_Icons_18: 8134910864570358308
+      Buffs_Icons_19: -4222637643364756349
+      Buffs_Icons_2: -3740208354575136817
+      Buffs_Icons_20: 419515480563576136
+      Buffs_Icons_3: 2593265599233096888
+      Buffs_Icons_4: 5621660910969780306
+      Buffs_Icons_5: -2274079699431469926
+      Buffs_Icons_6: 4481301764878487401
+      Buffs_Icons_7: -8190477376446860453
+      Buffs_Icons_8: 6087500879799611067
+      Buffs_Icons_9: 6623222371891871940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

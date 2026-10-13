@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 9bf5b7d83c743f74b81c51af24ef75ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7407563712730760053
+    second: VFX_Roar_Loop_Front_0
+  - first:
+      213: -2856078761124883767
+    second: VFX_Roar_Loop_Front_1
+  - first:
+      213: -3934493462931416703
+    second: VFX_Roar_Loop_Front_2
+  - first:
+      213: 2436514184207390821
+    second: VFX_Roar_Loop_Front_3
+  - first:
+      213: -4204970394393092053
+    second: VFX_Roar_Loop_Front_4
+  - first:
+      213: -6817117025580409796
+    second: VFX_Roar_Loop_Front_5
+  - first:
+      213: -2727659392045907971
+    second: VFX_Roar_Loop_Front_6
+  - first:
+      213: 3493170477027920554
+    second: VFX_Roar_Loop_Front_7
+  - first:
+      213: 2798315094951128587
+    second: VFX_Roar_Loop_Front_8
+  - first:
+      213: -7627952815287770685
+    second: VFX_Roar_Loop_Front_9
+  - first:
+      213: 8184074025048092594
+    second: VFX_Roar_Loop_Front_10
+  - first:
+      213: -1951873377017786792
+    second: VFX_Roar_Loop_Front_11
+  - first:
+      213: 7233807891852796974
+    second: VFX_Roar_Loop_Front_12
+  - first:
+      213: 958914442399131014
+    second: VFX_Roar_Loop_Front_13
+  - first:
+      213: -6090902514091409163
+    second: VFX_Roar_Loop_Front_14
+  - first:
+      213: -9111072459621017192
+    second: VFX_Roar_Loop_Front_15
+  - first:
+      213: 4082475721306669080
+    second: VFX_Roar_Loop_Front_16
+  - first:
+      213: 8363715466980577449
+    second: VFX_Roar_Loop_Front_17
+  - first:
+      213: 2406906360624058870
+    second: VFX_Roar_Loop_Front_18
+  - first:
+      213: -7721722684801555273
+    second: VFX_Roar_Loop_Front_19
+  - first:
+      213: -3383873829871440118
+    second: VFX_Roar_Loop_Front_20
+  - first:
+      213: 4249986936592294529
+    second: VFX_Roar_Loop_Front_21
+  - first:
+      213: -9090154630646575509
+    second: VFX_Roar_Loop_Front_22
+  - first:
+      213: -7027558115966545848
+    second: VFX_Roar_Loop_Front_23
+  - first:
+      213: -5994957147960030540
+    second: VFX_Roar_Loop_Front_24
+  - first:
+      213: 2415341642394451709
+    second: VFX_Roar_Loop_Front_25
+  - first:
+      213: -3443205266466143645
+    second: VFX_Roar_Loop_Front_26
+  - first:
+      213: -196083118358167416
+    second: VFX_Roar_Loop_Front_27
+  - first:
+      213: -2418587444853789666
+    second: VFX_Roar_Loop_Front_28
+  - first:
+      213: -1960968920980528970
+    second: VFX_Roar_Loop_Front_29
+  - first:
+      213: 115032383233581090
+    second: VFX_Roar_Loop_Front_30
+  - first:
+      213: -6850924016924338618
+    second: VFX_Roar_Loop_Front_31
+  - first:
+      213: 7062525741339504725
+    second: VFX_Roar_Loop_Front_32
+  - first:
+      213: -5634124529814654029
+    second: VFX_Roar_Loop_Front_33
+  - first:
+      213: -7914831856124249002
+    second: VFX_Roar_Loop_Front_34
+  - first:
+      213: 4278812346897067537
+    second: VFX_Roar_Loop_Front_35
+  - first:
+      213: -4156862551812190774
+    second: VFX_Roar_Loop_Front_36
+  - first:
+      213: -1991238094127367136
+    second: VFX_Roar_Loop_Front_37
+  - first:
+      213: 8381368135094544300
+    second: VFX_Roar_Loop_Front_38
+  - first:
+      213: -2837106700433771071
+    second: VFX_Roar_Loop_Front_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 150
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573046423f3fcc660800000000000000
+      internalID: 7407563712730760053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 26
+        width: 178
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c21d98bf7b2d58d0800000000000000
+      internalID: -2856078761124883767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 25
+        width: 67
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18950e29a0fd569c0800000000000000
+      internalID: -3934493462931416703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 42
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d1e7cdbc30d120800000000000000
+      internalID: 2436514184207390821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 75
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206a2784b1f4a5c0800000000000000
+      internalID: -4204970394393092053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 82
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c13021f2cb461a0800000000000000
+      internalID: -6817117025580409796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 54
+        width: 54
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff78d41c38652ad0800000000000000
+      internalID: -2727659392045907971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_7
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 74
+        width: 54
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa812f8a0c3a7030800000000000000
+      internalID: 3493170477027920554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 59
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eec24b0cc95d620800000000000000
+      internalID: 2798315094951128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 31
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1e4514451142690800000000000000
+      internalID: -7627952815287770685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 31
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf2e76f6fba39170800000000000000
+      internalID: 8184074025048092594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 33
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e005c418d89e4e0800000000000000
+      internalID: -1951873377017786792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_12
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 71
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24ad4783f5a36460800000000000000
+      internalID: 7233807891852796974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 27
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852135da9fbe4d00800000000000000
+      internalID: 958914442399131014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_14
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 33
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f04c063f64c87ba0800000000000000
+      internalID: -6090902514091409163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_15
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 71
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899d179ded7fe8180800000000000000
+      internalID: -9111072459621017192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_16
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 36
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81004a4e90ed7a830800000000000000
+      internalID: 4082475721306669080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_17
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 36
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a051d387e2e11470800000000000000
+      internalID: 8363715466980577449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 38
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f110a8259c076120800000000000000
+      internalID: 2406906360624058870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 35
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e35e212ee6d490800000000000000
+      internalID: -7721722684801555273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 36
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fa5c52ea01a01d0800000000000000
+      internalID: -3383873829871440118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_21
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 38
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18262a7f99cfafa30800000000000000
+      internalID: 4249986936592294529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_22
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 39
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e40fe668849d180800000000000000
+      internalID: -9090154630646575509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 39
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840966b8029197e90800000000000000
+      internalID: -7027558115966545848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_24
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 34
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba47209c32adcca0800000000000000
+      internalID: -5994957147960030540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_25
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 44
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe312e3d64058120800000000000000
+      internalID: 2415341642394451709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 39
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36208839d074730d0800000000000000
+      internalID: -3443205266466143645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_27
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 39
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8808fc7517f574df0800000000000000
+      internalID: -196083118358167416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_28
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 40
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c254b78837f6ed0800000000000000
+      internalID: -2418587444853789666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_29
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 40
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0ef51f72d39c4e0800000000000000
+      internalID: -1960968920980528970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 26
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220ed44d75da89100800000000000000
+      internalID: 115032383233581090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_31
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 34
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646580487e0ace0a0800000000000000
+      internalID: -6850924016924338618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_32
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 40
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f79d2eb1230260800000000000000
+      internalID: 7062525741339504725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_33
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 40
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3351c47919fc1b0800000000000000
+      internalID: -5634124529814654029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_34
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 31
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cb4c68c5ed82290800000000000000
+      internalID: -7914831856124249002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_35
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 24
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eea5dc825616b30800000000000000
+      internalID: 4278812346897067537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_36
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 31
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd4c1b788bdf46c0800000000000000
+      internalID: -4156862551812190774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 31
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cff40e083bd54e0800000000000000
+      internalID: -1991238094127367136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_38
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 23
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a61899e9905470800000000000000
+      internalID: 8381368135094544300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Roar_Loop_Front_39
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 31
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b3c2dc7290a8d0800000000000000
+      internalID: -2837106700433771071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be8eed3e61ffba04185a45f499c487fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Roar_Loop_Front_0: 7407563712730760053
+      VFX_Roar_Loop_Front_1: -2856078761124883767
+      VFX_Roar_Loop_Front_10: 8184074025048092594
+      VFX_Roar_Loop_Front_11: -1951873377017786792
+      VFX_Roar_Loop_Front_12: 7233807891852796974
+      VFX_Roar_Loop_Front_13: 958914442399131014
+      VFX_Roar_Loop_Front_14: -6090902514091409163
+      VFX_Roar_Loop_Front_15: -9111072459621017192
+      VFX_Roar_Loop_Front_16: 4082475721306669080
+      VFX_Roar_Loop_Front_17: 8363715466980577449
+      VFX_Roar_Loop_Front_18: 2406906360624058870
+      VFX_Roar_Loop_Front_19: -7721722684801555273
+      VFX_Roar_Loop_Front_2: -3934493462931416703
+      VFX_Roar_Loop_Front_20: -3383873829871440118
+      VFX_Roar_Loop_Front_21: 4249986936592294529
+      VFX_Roar_Loop_Front_22: -9090154630646575509
+      VFX_Roar_Loop_Front_23: -7027558115966545848
+      VFX_Roar_Loop_Front_24: -5994957147960030540
+      VFX_Roar_Loop_Front_25: 2415341642394451709
+      VFX_Roar_Loop_Front_26: -3443205266466143645
+      VFX_Roar_Loop_Front_27: -196083118358167416
+      VFX_Roar_Loop_Front_28: -2418587444853789666
+      VFX_Roar_Loop_Front_29: -1960968920980528970
+      VFX_Roar_Loop_Front_3: 2436514184207390821
+      VFX_Roar_Loop_Front_30: 115032383233581090
+      VFX_Roar_Loop_Front_31: -6850924016924338618
+      VFX_Roar_Loop_Front_32: 7062525741339504725
+      VFX_Roar_Loop_Front_33: -5634124529814654029
+      VFX_Roar_Loop_Front_34: -7914831856124249002
+      VFX_Roar_Loop_Front_35: 4278812346897067537
+      VFX_Roar_Loop_Front_36: -4156862551812190774
+      VFX_Roar_Loop_Front_37: -1991238094127367136
+      VFX_Roar_Loop_Front_38: 8381368135094544300
+      VFX_Roar_Loop_Front_39: -2837106700433771071
+      VFX_Roar_Loop_Front_4: -4204970394393092053
+      VFX_Roar_Loop_Front_5: -6817117025580409796
+      VFX_Roar_Loop_Front_6: -2727659392045907971
+      VFX_Roar_Loop_Front_7: 3493170477027920554
+      VFX_Roar_Loop_Front_8: 2798315094951128587
+      VFX_Roar_Loop_Front_9: -7627952815287770685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

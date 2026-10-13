@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 980a882a49d16bb429713c729a2a51ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1169684601882590468
+    second: SpecialAttack_Heavy_ShieldSlam_End_0
+  - first:
+      213: 2574873697150266265
+    second: SpecialAttack_Heavy_ShieldSlam_End_1
+  - first:
+      213: -5351136965385493547
+    second: SpecialAttack_Heavy_ShieldSlam_End_2
+  - first:
+      213: 7989641646344981353
+    second: SpecialAttack_Heavy_ShieldSlam_End_3
+  - first:
+      213: 5399311622811037959
+    second: SpecialAttack_Heavy_ShieldSlam_End_4
+  - first:
+      213: 4840022818930241464
+    second: SpecialAttack_Heavy_ShieldSlam_End_5
+  - first:
+      213: 3997268845053763932
+    second: SpecialAttack_Heavy_ShieldSlam_End_6
+  - first:
+      213: -7043458237216143000
+    second: SpecialAttack_Heavy_ShieldSlam_End_7
+  - first:
+      213: -2935711709987353222
+    second: SpecialAttack_Heavy_ShieldSlam_End_8
+  - first:
+      213: -5503521094277469313
+    second: SpecialAttack_Heavy_ShieldSlam_End_9
+  - first:
+      213: -6643244885601235760
+    second: SpecialAttack_Heavy_ShieldSlam_End_10
+  - first:
+      213: 4071484449044020466
+    second: SpecialAttack_Heavy_ShieldSlam_End_11
+  - first:
+      213: -1146562632648528013
+    second: SpecialAttack_Heavy_ShieldSlam_End_12
+  - first:
+      213: -3013777928412043114
+    second: SpecialAttack_Heavy_ShieldSlam_End_13
+  - first:
+      213: -3617198535361640103
+    second: SpecialAttack_Heavy_ShieldSlam_End_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 51
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24b854d0274cfe0800000000000000
+      internalID: -1169684601882590468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 31
+        width: 51
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b632c3cf9cbb320800000000000000
+      internalID: 2574873697150266265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 31
+        width: 50
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d36cb11841fcb5b0800000000000000
+      internalID: -5351136965385493547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 31
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4f051fb8e0ee60800000000000000
+      internalID: 7989641646344981353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 31
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013a4d60553eea40800000000000000
+      internalID: 5399311622811037959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 31
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2f1b3c173b2340800000000000000
+      internalID: 4840022818930241464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 31
+        width: 51
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516a2d06d6297730800000000000000
+      internalID: 3997268845053763932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_7
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 31
+        width: 51
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ce641d0c904e90800000000000000
+      internalID: -7043458237216143000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_8
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 31
+        width: 50
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dcf3bf0c14247d0800000000000000
+      internalID: -2935711709987353222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_9
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 31
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be8b149b09f93b0800000000000000
+      internalID: -5503521094277469313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_10
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 31
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dccec559f37ec3a0800000000000000
+      internalID: -6643244885601235760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_11
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 31
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcbbc5e881d08830800000000000000
+      internalID: 4071484449044020466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_12
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 31
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f6f304c579610f0800000000000000
+      internalID: -1146562632648528013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_13
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 31
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698661911f8ec26d0800000000000000
+      internalID: -3013777928412043114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialAttack_Heavy_ShieldSlam_End_14
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959c4b9c8112dcdc0800000000000000
+      internalID: -3617198535361640103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2abec7588a4cc7429d8fc383b001889
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpecialAttack_Heavy_ShieldSlam_End_0: -1169684601882590468
+      SpecialAttack_Heavy_ShieldSlam_End_1: 2574873697150266265
+      SpecialAttack_Heavy_ShieldSlam_End_10: -6643244885601235760
+      SpecialAttack_Heavy_ShieldSlam_End_11: 4071484449044020466
+      SpecialAttack_Heavy_ShieldSlam_End_12: -1146562632648528013
+      SpecialAttack_Heavy_ShieldSlam_End_13: -3013777928412043114
+      SpecialAttack_Heavy_ShieldSlam_End_14: -3617198535361640103
+      SpecialAttack_Heavy_ShieldSlam_End_2: -5351136965385493547
+      SpecialAttack_Heavy_ShieldSlam_End_3: 7989641646344981353
+      SpecialAttack_Heavy_ShieldSlam_End_4: 5399311622811037959
+      SpecialAttack_Heavy_ShieldSlam_End_5: 4840022818930241464
+      SpecialAttack_Heavy_ShieldSlam_End_6: 3997268845053763932
+      SpecialAttack_Heavy_ShieldSlam_End_7: -7043458237216143000
+      SpecialAttack_Heavy_ShieldSlam_End_8: -2935711709987353222
+      SpecialAttack_Heavy_ShieldSlam_End_9: -5503521094277469313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

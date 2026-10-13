@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: dc1c413e5e8f12c498856c4e5d115d16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2897550511174750280
+    second: Strength_Buff_WithOutVFX_0
+  - first:
+      213: -5736649315346624808
+    second: Strength_Buff_WithOutVFX_1
+  - first:
+      213: -8953715589826073215
+    second: Strength_Buff_WithOutVFX_2
+  - first:
+      213: -1299423290042722329
+    second: Strength_Buff_WithOutVFX_3
+  - first:
+      213: 7491356533114906576
+    second: Strength_Buff_WithOutVFX_4
+  - first:
+      213: -8933509120582958473
+    second: Strength_Buff_WithOutVFX_5
+  - first:
+      213: 1594889900615413876
+    second: Strength_Buff_WithOutVFX_6
+  - first:
+      213: -904618294461998726
+    second: Strength_Buff_WithOutVFX_7
+  - first:
+      213: 7956854192920967884
+    second: Strength_Buff_WithOutVFX_8
+  - first:
+      213: 3041865540574372918
+    second: Strength_Buff_WithOutVFX_9
+  - first:
+      213: -756151675414271128
+    second: Strength_Buff_WithOutVFX_10
+  - first:
+      213: -1195588064654392839
+    second: Strength_Buff_WithOutVFX_11
+  - first:
+      213: 907612489884230934
+    second: Strength_Buff_WithOutVFX_12
+  - first:
+      213: -5218377925908957368
+    second: Strength_Buff_WithOutVFX_13
+  - first:
+      213: -112501158402785985
+    second: Strength_Buff_WithOutVFX_14
+  - first:
+      213: 9080411263784274528
+    second: Strength_Buff_WithOutVFX_15
+  - first:
+      213: -2867768344914903760
+    second: Strength_Buff_WithOutVFX_16
+  - first:
+      213: 2253932232822576309
+    second: Strength_Buff_WithOutVFX_17
+  - first:
+      213: 7828111194410561908
+    second: Strength_Buff_WithOutVFX_18
+  - first:
+      213: -3509626153267230415
+    second: Strength_Buff_WithOutVFX_19
+  - first:
+      213: -8058248653208347756
+    second: Strength_Buff_WithOutVFX_20
+  - first:
+      213: -475141352090441091
+    second: Strength_Buff_WithOutVFX_21
+  - first:
+      213: -7744607864631509412
+    second: Strength_Buff_WithOutVFX_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6da67925d9c7d0800000000000000
+      internalID: -2897550511174750280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec6cd77d35360b0800000000000000
+      internalID: -5736649315346624808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d2a802c130eb380800000000000000
+      internalID: -8953715589826073215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e75220076587fde0800000000000000
+      internalID: -1299423290042722329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ad127315a6f760800000000000000
+      internalID: 7491356533114906576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 31
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772c0fd59ccc50480800000000000000
+      internalID: -8933509120582958473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 31
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703a0e1aef222610800000000000000
+      internalID: 1594889900615413876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 31
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d54d34762273f0800000000000000
+      internalID: -904618294461998726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 31
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab1a23bbc6c6e60800000000000000
+      internalID: 7956854192920967884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ef68b790e63a20800000000000000
+      internalID: 3041865540574372918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_10
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bad96be0c9185f0800000000000000
+      internalID: -756151675414271128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_11
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1049c5dfa686fe0800000000000000
+      internalID: -1195588064654392839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_12
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615e14530cc789c00800000000000000
+      internalID: 907612489884230934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_13
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f47eace89497b0800000000000000
+      internalID: -5218377925908957368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_14
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df490eac0507ef0800000000000000
+      internalID: -112501158402785985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_15
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a41503fe9140e70800000000000000
+      internalID: 9080411263784274528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_16
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dbc3762e3a338d0800000000000000
+      internalID: -2867768344914903760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_17
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b451358c63974f10800000000000000
+      internalID: 2253932232822576309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_18
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 31
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b91df7a903ac60800000000000000
+      internalID: 7828111194410561908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_19
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 31
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390610cb9d4b4fc0800000000000000
+      internalID: -3509626153267230415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_20
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 31
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b1fb95b895b2090800000000000000
+      internalID: -8058248653208347756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_21
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aec8a2575f769f0800000000000000
+      internalID: -475141352090441091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strength_Buff_WithOutVFX_22
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e31f70e20a58490800000000000000
+      internalID: -7744607864631509412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36b0fcbd95bdebb4e9a6ba5ab4897dde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Strength_Buff_WithOutVFX_0: -2897550511174750280
+      Strength_Buff_WithOutVFX_1: -5736649315346624808
+      Strength_Buff_WithOutVFX_10: -756151675414271128
+      Strength_Buff_WithOutVFX_11: -1195588064654392839
+      Strength_Buff_WithOutVFX_12: 907612489884230934
+      Strength_Buff_WithOutVFX_13: -5218377925908957368
+      Strength_Buff_WithOutVFX_14: -112501158402785985
+      Strength_Buff_WithOutVFX_15: 9080411263784274528
+      Strength_Buff_WithOutVFX_16: -2867768344914903760
+      Strength_Buff_WithOutVFX_17: 2253932232822576309
+      Strength_Buff_WithOutVFX_18: 7828111194410561908
+      Strength_Buff_WithOutVFX_19: -3509626153267230415
+      Strength_Buff_WithOutVFX_2: -8953715589826073215
+      Strength_Buff_WithOutVFX_20: -8058248653208347756
+      Strength_Buff_WithOutVFX_21: -475141352090441091
+      Strength_Buff_WithOutVFX_22: -7744607864631509412
+      Strength_Buff_WithOutVFX_3: -1299423290042722329
+      Strength_Buff_WithOutVFX_4: 7491356533114906576
+      Strength_Buff_WithOutVFX_5: -8933509120582958473
+      Strength_Buff_WithOutVFX_6: 1594889900615413876
+      Strength_Buff_WithOutVFX_7: -904618294461998726
+      Strength_Buff_WithOutVFX_8: 7956854192920967884
+      Strength_Buff_WithOutVFX_9: 3041865540574372918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 83aa3fc851a75624b9dfae2b5f0bc762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7006928975933258853
+    second: Attack_Melee_0
+  - first:
+      213: 4558122597472510993
+    second: Attack_Melee_1
+  - first:
+      213: -1407160949336516413
+    second: Attack_Melee_2
+  - first:
+      213: 5586980850032651500
+    second: Attack_Melee_3
+  - first:
+      213: 8659865069784081966
+    second: Attack_Melee_4
+  - first:
+      213: 3924439925360475979
+    second: Attack_Melee_5
+  - first:
+      213: -2549316637776317213
+    second: Attack_Melee_6
+  - first:
+      213: -7440258205620596957
+    second: Attack_Melee_7
+  - first:
+      213: -8307781022758575522
+    second: Attack_Melee_8
+  - first:
+      213: -3147226878077025325
+    second: Attack_Melee_9
+  - first:
+      213: 4724323815026156737
+    second: Attack_Melee_10
+  - first:
+      213: -3998056104874810065
+    second: Attack_Melee_11
+  - first:
+      213: 983055416066499018
+    second: Attack_Melee_12
+  - first:
+      213: -4232023652772508796
+    second: Attack_Melee_13
+  - first:
+      213: 6571890681627858941
+    second: Attack_Melee_14
+  - first:
+      213: -389936757588210048
+    second: Attack_Melee_15
+  - first:
+      213: -9180282033429474526
+    second: Attack_Melee_16
+  - first:
+      213: -6066847517590002443
+    second: Attack_Melee_17
+  - first:
+      213: 194085843503888786
+    second: Attack_Melee_18
+  - first:
+      213: -3719433873914214955
+    second: Attack_Melee_19
+  - first:
+      213: -4346230372084766322
+    second: Attack_Melee_20
+  - first:
+      213: -1651029520656859801
+    second: Attack_Melee_21
+  - first:
+      213: 6944692030339068801
+    second: Attack_Melee_22
+  - first:
+      213: 7778593752900553694
+    second: Attack_Melee_23
+  - first:
+      213: 5016803135662803869
+    second: Attack_Melee_24
+  - first:
+      213: -5290369001133509670
+    second: Attack_Melee_25
+  - first:
+      213: 1892158056353929953
+    second: Attack_Melee_26
+  - first:
+      213: 7602336564884916511
+    second: Attack_Melee_27
+  - first:
+      213: 3588032573249062273
+    second: Attack_Melee_28
+  - first:
+      213: 7215571925961748167
+    second: Attack_Melee_29
+  - first:
+      213: 4062042873213113548
+    second: Attack_Melee_30
+  - first:
+      213: -5279003394614088157
+    second: Attack_Melee_31
+  - first:
+      213: 4031284295172224819
+    second: Attack_Melee_32
+  - first:
+      213: -524569021325996215
+    second: Attack_Melee_33
+  - first:
+      213: 5028315146897746193
+    second: Attack_Melee_34
+  - first:
+      213: 634429415751143457
+    second: Attack_Melee_35
+  - first:
+      213: -899567366650026382
+    second: Attack_Melee_36
+  - first:
+      213: -4721759885050995992
+    second: Attack_Melee_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Melee_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934b1f783362ce90800000000000000
+      internalID: -7006928975933258853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a7093a54b14f30800000000000000
+      internalID: 4558122597472510993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 15
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8def07292c87ce0800000000000000
+      internalID: -1407160949336516413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 15
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec2b156b71f88d40800000000000000
+      internalID: 5586980850032651500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 15
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262b4726650e2870800000000000000
+      internalID: 8659865069784081966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 15
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fb87dc159667630800000000000000
+      internalID: 3924439925360475979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_6
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 15
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4795956020f9cd0800000000000000
+      internalID: -2549316637776317213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_7
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 15
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f8cc80594eeb890800000000000000
+      internalID: -7440258205620596957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 50
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526eb22d25d4bc80800000000000000
+      internalID: -8307781022758575522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 15
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d348a044ddc254d0800000000000000
+      internalID: -3147226878077025325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_10
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 22
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46d8eaa7b209140800000000000000
+      internalID: 4724323815026156737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 15
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25eadcb72d0488c0800000000000000
+      internalID: -3998056104874810065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_12
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 15
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ea2541b384ad00800000000000000
+      internalID: 983055416066499018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 15
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b8177f8e4d445c0800000000000000
+      internalID: -4232023652772508796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_14
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 15
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7d02d61cb043b50800000000000000
+      internalID: 6571890681627858941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_15
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 15
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e461fb59aa69af0800000000000000
+      internalID: -389936757588210048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_16
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 15
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223198b3126199080800000000000000
+      internalID: -9180282033429474526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_17
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 14
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46697835a3ecba0800000000000000
+      internalID: -6066847517590002443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_18
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 15
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993bfddb0881b200800000000000000
+      internalID: 194085843503888786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_19
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 15
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c9cb199ae16cc0800000000000000
+      internalID: -3719433873914214955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_20
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 15
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89afdff0861fa3c0800000000000000
+      internalID: -4346230372084766322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_21
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 15
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7093066d5619e0800000000000000
+      internalID: -1651029520656859801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_22
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 15
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b8d66b90806060800000000000000
+      internalID: 6944692030339068801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_23
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 15
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbc5b53ecd13fb60800000000000000
+      internalID: 7778593752900553694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_24
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 15
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b4f392fd34f9540800000000000000
+      internalID: 5016803135662803869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_25
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 15
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f2bc4c65d496b0800000000000000
+      internalID: -5290369001133509670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_26
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 15
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea9ed72abb424a10800000000000000
+      internalID: 1892158056353929953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_27
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 15
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19cdeca3dce08960800000000000000
+      internalID: 7602336564884916511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_28
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 15
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858a0b7d904bc130800000000000000
+      internalID: 3588032573249062273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_29
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 15
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce2b3adf6cd22460800000000000000
+      internalID: 7215571925961748167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_30
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 16
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45648b8764f5830800000000000000
+      internalID: 4062042873213113548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_31
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 15
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e22f7c1663db6b0800000000000000
+      internalID: -5279003394614088157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_32
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 27
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f95235bff1f730800000000000000
+      internalID: 4031284295172224819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_33
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 27
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f80bf114b58b8f0800000000000000
+      internalID: -524569021325996215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_34
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 29
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1196e852cf928c540800000000000000
+      internalID: 5028315146897746193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_35
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d7e83132fdc800800000000000000
+      internalID: 634429415751143457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_36
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276aa430f381483f0800000000000000
+      internalID: -899567366650026382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Melee_37
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea98d8c660f87eb0800000000000000
+      internalID: -4721759885050995992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Melee_0: -7006928975933258853
+      Attack_Melee_1: 4558122597472510993
+      Attack_Melee_10: 4724323815026156737
+      Attack_Melee_11: -3998056104874810065
+      Attack_Melee_12: 983055416066499018
+      Attack_Melee_13: -4232023652772508796
+      Attack_Melee_14: 6571890681627858941
+      Attack_Melee_15: -389936757588210048
+      Attack_Melee_16: -9180282033429474526
+      Attack_Melee_17: -6066847517590002443
+      Attack_Melee_18: 194085843503888786
+      Attack_Melee_19: -3719433873914214955
+      Attack_Melee_2: -1407160949336516413
+      Attack_Melee_20: -4346230372084766322
+      Attack_Melee_21: -1651029520656859801
+      Attack_Melee_22: 6944692030339068801
+      Attack_Melee_23: 7778593752900553694
+      Attack_Melee_24: 5016803135662803869
+      Attack_Melee_25: -5290369001133509670
+      Attack_Melee_26: 1892158056353929953
+      Attack_Melee_27: 7602336564884916511
+      Attack_Melee_28: 3588032573249062273
+      Attack_Melee_29: 7215571925961748167
+      Attack_Melee_3: 5586980850032651500
+      Attack_Melee_30: 4062042873213113548
+      Attack_Melee_31: -5279003394614088157
+      Attack_Melee_32: 4031284295172224819
+      Attack_Melee_33: -524569021325996215
+      Attack_Melee_34: 5028315146897746193
+      Attack_Melee_35: 634429415751143457
+      Attack_Melee_36: -899567366650026382
+      Attack_Melee_37: -4721759885050995992
+      Attack_Melee_4: 8659865069784081966
+      Attack_Melee_5: 3924439925360475979
+      Attack_Melee_6: -2549316637776317213
+      Attack_Melee_7: -7440258205620596957
+      Attack_Melee_8: -8307781022758575522
+      Attack_Melee_9: -3147226878077025325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

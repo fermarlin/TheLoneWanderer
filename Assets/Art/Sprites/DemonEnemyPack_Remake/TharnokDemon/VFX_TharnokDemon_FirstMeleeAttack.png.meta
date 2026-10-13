@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f810b68769515c74db6f0441cdb15198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1840083364158809441
+    second: VFX_TharnokDemon_FirstMeleeAttack_0
+  - first:
+      213: -1467664301035662967
+    second: VFX_TharnokDemon_FirstMeleeAttack_1
+  - first:
+      213: 8921823788883196980
+    second: VFX_TharnokDemon_FirstMeleeAttack_2
+  - first:
+      213: 6052979463531697874
+    second: VFX_TharnokDemon_FirstMeleeAttack_3
+  - first:
+      213: 7092018872432237725
+    second: VFX_TharnokDemon_FirstMeleeAttack_4
+  - first:
+      213: 8301233126025806066
+    second: VFX_TharnokDemon_FirstMeleeAttack_5
+  - first:
+      213: -9112589496421272917
+    second: VFX_TharnokDemon_FirstMeleeAttack_6
+  - first:
+      213: 7869211467872591439
+    second: VFX_TharnokDemon_FirstMeleeAttack_7
+  - first:
+      213: 5037485462933488698
+    second: VFX_TharnokDemon_FirstMeleeAttack_8
+  - first:
+      213: -7522297257943222505
+    second: VFX_TharnokDemon_FirstMeleeAttack_9
+  - first:
+      213: -3971549780404029107
+    second: VFX_TharnokDemon_FirstMeleeAttack_10
+  - first:
+      213: -1745741393489393563
+    second: VFX_TharnokDemon_FirstMeleeAttack_11
+  - first:
+      213: -6713130965148389097
+    second: VFX_TharnokDemon_FirstMeleeAttack_12
+  - first:
+      213: 1677036584653757846
+    second: VFX_TharnokDemon_FirstMeleeAttack_13
+  - first:
+      213: -8911109510773861155
+    second: VFX_TharnokDemon_FirstMeleeAttack_14
+  - first:
+      213: -1314595346383400702
+    second: VFX_TharnokDemon_FirstMeleeAttack_15
+  - first:
+      213: 5860968989524249755
+    second: VFX_TharnokDemon_FirstMeleeAttack_16
+  - first:
+      213: 5662936477048578300
+    second: VFX_TharnokDemon_FirstMeleeAttack_17
+  - first:
+      213: -1522582829221788821
+    second: VFX_TharnokDemon_FirstMeleeAttack_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5532fde5b676e0800000000000000
+      internalID: -1840083364158809441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9815f3f181fc1abe0800000000000000
+      internalID: -1467664301035662967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3305577fa0db70800000000000000
+      internalID: 8921823788883196980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d69a8480c0800450800000000000000
+      internalID: 6052979463531697874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c90bfd699eb6260800000000000000
+      internalID: 7092018872432237725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 17
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0497adb87e33370800000000000000
+      internalID: 8301233126025806066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2bad13224998180800000000000000
+      internalID: -9112589496421272917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed9fc132e053d60800000000000000
+      internalID: 7869211467872591439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34485bb65eb8e540800000000000000
+      internalID: 5037485462933488698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717366daf7e6b9790800000000000000
+      internalID: -7522297257943222505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49bc33548832e8c0800000000000000
+      internalID: -3971549780404029107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688e53b371e5c7e0800000000000000
+      internalID: -1745741393489393563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711b7a374fa26d2a0800000000000000
+      internalID: -6713130965148389097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d1f9f63e7064710800000000000000
+      internalID: 1677036584653757846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 36
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd418bfec11655480800000000000000
+      internalID: -8911109510773861155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 25
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2019f6b5f7e91cde0800000000000000
+      internalID: -1314595346383400702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4c244e38565150800000000000000
+      internalID: 5860968989524249755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0251ce8bac69e40800000000000000
+      internalID: 5662936477048578300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TharnokDemon_FirstMeleeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 494
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63402bdbf2bedae0800000000000000
+      internalID: -1522582829221788821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_TharnokDemon_FirstMeleeAttack_0: -1840083364158809441
+      VFX_TharnokDemon_FirstMeleeAttack_1: -1467664301035662967
+      VFX_TharnokDemon_FirstMeleeAttack_10: -3971549780404029107
+      VFX_TharnokDemon_FirstMeleeAttack_11: -1745741393489393563
+      VFX_TharnokDemon_FirstMeleeAttack_12: -6713130965148389097
+      VFX_TharnokDemon_FirstMeleeAttack_13: 1677036584653757846
+      VFX_TharnokDemon_FirstMeleeAttack_14: -8911109510773861155
+      VFX_TharnokDemon_FirstMeleeAttack_15: -1314595346383400702
+      VFX_TharnokDemon_FirstMeleeAttack_16: 5860968989524249755
+      VFX_TharnokDemon_FirstMeleeAttack_17: 5662936477048578300
+      VFX_TharnokDemon_FirstMeleeAttack_18: -1522582829221788821
+      VFX_TharnokDemon_FirstMeleeAttack_2: 8921823788883196980
+      VFX_TharnokDemon_FirstMeleeAttack_3: 6052979463531697874
+      VFX_TharnokDemon_FirstMeleeAttack_4: 7092018872432237725
+      VFX_TharnokDemon_FirstMeleeAttack_5: 8301233126025806066
+      VFX_TharnokDemon_FirstMeleeAttack_6: -9112589496421272917
+      VFX_TharnokDemon_FirstMeleeAttack_7: 7869211467872591439
+      VFX_TharnokDemon_FirstMeleeAttack_8: 5037485462933488698
+      VFX_TharnokDemon_FirstMeleeAttack_9: -7522297257943222505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

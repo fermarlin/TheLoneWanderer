@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 4974e8767ba8f3145ba93a4b38a902d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7337887319478710984
+    second: VFX_Purifying_Potion_0
+  - first:
+      213: -7714130599849189730
+    second: VFX_Purifying_Potion_1
+  - first:
+      213: 4504452123158585956
+    second: VFX_Purifying_Potion_2
+  - first:
+      213: 2857366879039985697
+    second: VFX_Purifying_Potion_3
+  - first:
+      213: -5418618390871983138
+    second: VFX_Purifying_Potion_4
+  - first:
+      213: -5016341968356061352
+    second: VFX_Purifying_Potion_5
+  - first:
+      213: -6793935123937052722
+    second: VFX_Purifying_Potion_6
+  - first:
+      213: 5903229664520128317
+    second: VFX_Purifying_Potion_7
+  - first:
+      213: 2212438728448025094
+    second: VFX_Purifying_Potion_8
+  - first:
+      213: 2465670556220677492
+    second: VFX_Purifying_Potion_9
+  - first:
+      213: 1092393904464945194
+    second: VFX_Purifying_Potion_10
+  - first:
+      213: 3738514263217868883
+    second: VFX_Purifying_Potion_11
+  - first:
+      213: -2386191263313933515
+    second: VFX_Purifying_Potion_12
+  - first:
+      213: 1216607822184670560
+    second: VFX_Purifying_Potion_13
+  - first:
+      213: 8419867091372011199
+    second: VFX_Purifying_Potion_14
+  - first:
+      213: 4639798767674531944
+    second: VFX_Purifying_Potion_15
+  - first:
+      213: 8139019732690943848
+    second: VFX_Purifying_Potion_16
+  - first:
+      213: 4631035483238156897
+    second: VFX_Purifying_Potion_17
+  - first:
+      213: -5036926802694989408
+    second: VFX_Purifying_Potion_18
+  - first:
+      213: -5718911185261679342
+    second: VFX_Purifying_Potion_19
+  - first:
+      213: -1864770174371382819
+    second: VFX_Purifying_Potion_20
+  - first:
+      213: -8300855130600790578
+    second: VFX_Purifying_Potion_21
+  - first:
+      213: -1990153041334238312
+    second: VFX_Purifying_Potion_22
+  - first:
+      213: -4962126143231730198
+    second: VFX_Purifying_Potion_23
+  - first:
+      213: 8090651977383263074
+    second: VFX_Purifying_Potion_24
+  - first:
+      213: -4990334245777837430
+    second: VFX_Purifying_Potion_25
+  - first:
+      213: -7570003093250414152
+    second: VFX_Purifying_Potion_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c23f57a3a965d560800000000000000
+      internalID: 7337887319478710984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e94053717e1f490800000000000000
+      internalID: -7714130599849189730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4622f942757038e30800000000000000
+      internalID: 4504452123158585956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 63
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128152a990867a720800000000000000
+      internalID: 2857366879039985697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 31
+        width: 18
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3da658433dc4b0800000000000000
+      internalID: -5418618390871983138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 59
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc048be8f526ab0800000000000000
+      internalID: -5016341968356061352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 64
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7bea6200817b1a0800000000000000
+      internalID: -6793935123937052722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 58
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37454d6a1c7ce150800000000000000
+      internalID: 5903229664520128317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 60
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60226703d4924be10800000000000000
+      internalID: 2212438728448025094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 65
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5ca4ae42d73220800000000000000
+      internalID: 2465670556220677492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 31
+        width: 1359
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206f66e776f82f00800000000000000
+      internalID: 1092393904464945194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 60
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35015d63aeed1e330800000000000000
+      internalID: 3738514263217868883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 58
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b480840bb82eed0800000000000000
+      internalID: -2386191263313933515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 58
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06567405e5242e010800000000000000
+      internalID: 1216607822184670560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 59
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeea3d528069d470800000000000000
+      internalID: 8419867091372011199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 60
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86029808560e36040800000000000000
+      internalID: 4639798767674531944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 31
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f30f2135b93f070800000000000000
+      internalID: 8139019732690943848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 48
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac3a85c3eb44040800000000000000
+      internalID: 4631035483238156897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 37
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a998bd72cd391ab0800000000000000
+      internalID: -5036926802694989408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 31
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d287cb39852a0b0800000000000000
+      internalID: -5718911185261679342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 48
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b9d808610f16e0800000000000000
+      internalID: -1864770174371382819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 36
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5af801d307dcc80800000000000000
+      internalID: -8300855130600790578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 31
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8930c9a6a5e8164e0800000000000000
+      internalID: -1990153041334238312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 31
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5efd209cf22bb0800000000000000
+      internalID: -4962126143231730198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 48
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bbd397b15c74070800000000000000
+      internalID: 8090651977383263074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 37
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f1f18175cebab0800000000000000
+      internalID: -4990334245777837430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Purifying_Potion_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 35
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b963365b42f1f690800000000000000
+      internalID: -7570003093250414152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a444a5da5c8c3484ca44c17fa21d0cfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Purifying_Potion_0: 7337887319478710984
+      VFX_Purifying_Potion_1: -7714130599849189730
+      VFX_Purifying_Potion_10: 1092393904464945194
+      VFX_Purifying_Potion_11: 3738514263217868883
+      VFX_Purifying_Potion_12: -2386191263313933515
+      VFX_Purifying_Potion_13: 1216607822184670560
+      VFX_Purifying_Potion_14: 8419867091372011199
+      VFX_Purifying_Potion_15: 4639798767674531944
+      VFX_Purifying_Potion_16: 8139019732690943848
+      VFX_Purifying_Potion_17: 4631035483238156897
+      VFX_Purifying_Potion_18: -5036926802694989408
+      VFX_Purifying_Potion_19: -5718911185261679342
+      VFX_Purifying_Potion_2: 4504452123158585956
+      VFX_Purifying_Potion_20: -1864770174371382819
+      VFX_Purifying_Potion_21: -8300855130600790578
+      VFX_Purifying_Potion_22: -1990153041334238312
+      VFX_Purifying_Potion_23: -4962126143231730198
+      VFX_Purifying_Potion_24: 8090651977383263074
+      VFX_Purifying_Potion_25: -4990334245777837430
+      VFX_Purifying_Potion_26: -7570003093250414152
+      VFX_Purifying_Potion_3: 2857366879039985697
+      VFX_Purifying_Potion_4: -5418618390871983138
+      VFX_Purifying_Potion_5: -5016341968356061352
+      VFX_Purifying_Potion_6: -6793935123937052722
+      VFX_Purifying_Potion_7: 5903229664520128317
+      VFX_Purifying_Potion_8: 2212438728448025094
+      VFX_Purifying_Potion_9: 2465670556220677492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

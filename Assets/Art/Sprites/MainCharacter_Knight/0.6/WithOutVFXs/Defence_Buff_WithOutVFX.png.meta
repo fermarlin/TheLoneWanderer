@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f571584cfb2469d4d924a0fb8fa875ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6087995742465001571
+    second: Defence_Buff_WithOutVFX_0
+  - first:
+      213: 8859911121359169820
+    second: Defence_Buff_WithOutVFX_1
+  - first:
+      213: 171696477988340002
+    second: Defence_Buff_WithOutVFX_2
+  - first:
+      213: -1152641609216811408
+    second: Defence_Buff_WithOutVFX_3
+  - first:
+      213: 4863220056645691215
+    second: Defence_Buff_WithOutVFX_4
+  - first:
+      213: 187634560660673561
+    second: Defence_Buff_WithOutVFX_5
+  - first:
+      213: 2805909904594550597
+    second: Defence_Buff_WithOutVFX_6
+  - first:
+      213: -8786123581078725719
+    second: Defence_Buff_WithOutVFX_7
+  - first:
+      213: 6491013415244582900
+    second: Defence_Buff_WithOutVFX_8
+  - first:
+      213: -5672530951432706791
+    second: Defence_Buff_WithOutVFX_9
+  - first:
+      213: -9016596455958776357
+    second: Defence_Buff_WithOutVFX_10
+  - first:
+      213: -4956500148489664542
+    second: Defence_Buff_WithOutVFX_11
+  - first:
+      213: -7698471471824977059
+    second: Defence_Buff_WithOutVFX_12
+  - first:
+      213: -6349240924496503612
+    second: Defence_Buff_WithOutVFX_13
+  - first:
+      213: -4541485235093877494
+    second: Defence_Buff_WithOutVFX_14
+  - first:
+      213: -7383311813696934242
+    second: Defence_Buff_WithOutVFX_15
+  - first:
+      213: -9016847128075273140
+    second: Defence_Buff_WithOutVFX_16
+  - first:
+      213: 4447620523901184776
+    second: Defence_Buff_WithOutVFX_17
+  - first:
+      213: -8667578823441713732
+    second: Defence_Buff_WithOutVFX_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36887b74fd7ec7450800000000000000
+      internalID: 6087995742465001571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19652a193ab4fa70800000000000000
+      internalID: 8859911121359169820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 31
+        width: 42
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2214eab790df16200800000000000000
+      internalID: 171696477988340002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 31
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e1c49309ef000f0800000000000000
+      internalID: -1152641609216811408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 31
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ebe400e0ad7340800000000000000
+      internalID: 4863220056645691215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91414c783ac9a9200800000000000000
+      internalID: 187634560660673561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_6
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fbb1f113890f620800000000000000
+      internalID: 2805909904594550597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 31
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab9e15672b611680800000000000000
+      internalID: -8786123581078725719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc2ff6f46b41a50800000000000000
+      internalID: 6491013415244582900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_9
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e17e672f1741b0800000000000000
+      internalID: -5672530951432706791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_10
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f7879b4d9ed280800000000000000
+      internalID: -9016596455958776357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_11
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74a182069f63bb0800000000000000
+      internalID: -4956500148489664542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_12
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53c4601cf8892590800000000000000
+      internalID: -7698471471824977059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_13
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 31
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5306d407f2e7a0800000000000000
+      internalID: -6349240924496503612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_14
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 31
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4c819d3769f0c0800000000000000
+      internalID: -4541485235093877494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_15
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 31
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e26ae1605398990800000000000000
+      internalID: -7383311813696934242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_16
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 31
+        width: 42
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c72117f49bdd280800000000000000
+      internalID: -9016847128075273140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_17
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bedde4d4f19bd30800000000000000
+      internalID: 4447620523901184776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defence_Buff_WithOutVFX_18
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5fe0e9bf296b780800000000000000
+      internalID: -8667578823441713732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 121738638a751de499b7a208324eda59
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Defence_Buff_WithOutVFX_0: 6087995742465001571
+      Defence_Buff_WithOutVFX_1: 8859911121359169820
+      Defence_Buff_WithOutVFX_10: -9016596455958776357
+      Defence_Buff_WithOutVFX_11: -4956500148489664542
+      Defence_Buff_WithOutVFX_12: -7698471471824977059
+      Defence_Buff_WithOutVFX_13: -6349240924496503612
+      Defence_Buff_WithOutVFX_14: -4541485235093877494
+      Defence_Buff_WithOutVFX_15: -7383311813696934242
+      Defence_Buff_WithOutVFX_16: -9016847128075273140
+      Defence_Buff_WithOutVFX_17: 4447620523901184776
+      Defence_Buff_WithOutVFX_18: -8667578823441713732
+      Defence_Buff_WithOutVFX_2: 171696477988340002
+      Defence_Buff_WithOutVFX_3: -1152641609216811408
+      Defence_Buff_WithOutVFX_4: 4863220056645691215
+      Defence_Buff_WithOutVFX_5: 187634560660673561
+      Defence_Buff_WithOutVFX_6: 2805909904594550597
+      Defence_Buff_WithOutVFX_7: -8786123581078725719
+      Defence_Buff_WithOutVFX_8: 6491013415244582900
+      Defence_Buff_WithOutVFX_9: -5672530951432706791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

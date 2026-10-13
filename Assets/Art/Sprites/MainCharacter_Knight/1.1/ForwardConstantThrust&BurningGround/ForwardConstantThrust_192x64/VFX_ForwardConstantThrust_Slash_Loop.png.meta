@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: cf555b6fa45d9174090a65899791628c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7120334623330421593
+    second: VFX_ForwardConstantThrust_Slash_Loop_0
+  - first:
+      213: -3646828769837626897
+    second: VFX_ForwardConstantThrust_Slash_Loop_1
+  - first:
+      213: 2968492446124179729
+    second: VFX_ForwardConstantThrust_Slash_Loop_2
+  - first:
+      213: 1650025863799815301
+    second: VFX_ForwardConstantThrust_Slash_Loop_3
+  - first:
+      213: 6189155428835261147
+    second: VFX_ForwardConstantThrust_Slash_Loop_4
+  - first:
+      213: 6870478876205941363
+    second: VFX_ForwardConstantThrust_Slash_Loop_5
+  - first:
+      213: -5560762708653888255
+    second: VFX_ForwardConstantThrust_Slash_Loop_6
+  - first:
+      213: 8038922515032814090
+    second: VFX_ForwardConstantThrust_Slash_Loop_7
+  - first:
+      213: 6724751875245990357
+    second: VFX_ForwardConstantThrust_Slash_Loop_8
+  - first:
+      213: 5146383595205141184
+    second: VFX_ForwardConstantThrust_Slash_Loop_9
+  - first:
+      213: -5684608713840019105
+    second: VFX_ForwardConstantThrust_Slash_Loop_10
+  - first:
+      213: -3177390227331841800
+    second: VFX_ForwardConstantThrust_Slash_Loop_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 84
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b46816d9280d260800000000000000
+      internalID: 7120334623330421593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 20
+        width: 99
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe947293e8cd36dc0800000000000000
+      internalID: -3646828769837626897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 14
+        width: 254
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11189a9e624323920800000000000000
+      internalID: 2968492446124179729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 98
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cbef9e7c116e610800000000000000
+      internalID: 1650025863799815301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_4
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6
+        width: 82
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaf76b221c44e550800000000000000
+      internalID: 6189155428835261147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_5
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 13
+        width: 96
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3728415f228d85f50800000000000000
+      internalID: 6870478876205941363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_6
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 23
+        width: 26
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d227657c334d2b0800000000000000
+      internalID: -5560762708653888255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_7
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 30
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02bb657f6dff8f60800000000000000
+      internalID: 8038922515032814090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 22
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1eda6833e135d50800000000000000
+      internalID: 6724751875245990357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 16
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a916fc90ab6740800000000000000
+      internalID: 5146383595205141184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_10
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 18
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b97c3e763c11b0800000000000000
+      internalID: -5684608713840019105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_ForwardConstantThrust_Slash_Loop_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 13
+        width: 17
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0861b3c64a7e3d0800000000000000
+      internalID: -3177390227331841800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6ad7a22628c20542911689ed279a321
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_ForwardConstantThrust_Slash_Loop_0: 7120334623330421593
+      VFX_ForwardConstantThrust_Slash_Loop_1: -3646828769837626897
+      VFX_ForwardConstantThrust_Slash_Loop_10: -5684608713840019105
+      VFX_ForwardConstantThrust_Slash_Loop_11: -3177390227331841800
+      VFX_ForwardConstantThrust_Slash_Loop_2: 2968492446124179729
+      VFX_ForwardConstantThrust_Slash_Loop_3: 1650025863799815301
+      VFX_ForwardConstantThrust_Slash_Loop_4: 6189155428835261147
+      VFX_ForwardConstantThrust_Slash_Loop_5: 6870478876205941363
+      VFX_ForwardConstantThrust_Slash_Loop_6: -5560762708653888255
+      VFX_ForwardConstantThrust_Slash_Loop_7: 8038922515032814090
+      VFX_ForwardConstantThrust_Slash_Loop_8: 6724751875245990357
+      VFX_ForwardConstantThrust_Slash_Loop_9: 5146383595205141184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

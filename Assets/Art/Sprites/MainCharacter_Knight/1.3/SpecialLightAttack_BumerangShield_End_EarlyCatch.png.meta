@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 34f6f5a136a2277488069b547f43447e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6987365200825171690
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_0
+  - first:
+      213: -5636397040111445045
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_1
+  - first:
+      213: 8658599754398143813
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_2
+  - first:
+      213: 4197541575384041150
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_3
+  - first:
+      213: -4381625227817110414
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_4
+  - first:
+      213: 3058628409466150010
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_5
+  - first:
+      213: 1209696579998373917
+    second: SpecialLightAttack_BumerangShield_End_EarlyCatch_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 57
+        height: 41
+      alignment: 9
+      pivot: {x: 0.36, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c3e8de54e70f90800000000000000
+      internalID: -6987365200825171690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 31
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb181341ce77c1b0800000000000000
+      internalID: -5636397040111445045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 31
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5459f25f996892870800000000000000
+      internalID: 8658599754398143813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 31
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb603b2c2d9a04a30800000000000000
+      internalID: 4197541575384041150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 31
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2743215f1175133c0800000000000000
+      internalID: -4381625227817110414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cd526455e627a20800000000000000
+      internalID: 3058628409466150010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialLightAttack_BumerangShield_End_EarlyCatch_6
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18dec851a4b9c010800000000000000
+      internalID: 1209696579998373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9de783c6d876e8458cf44db67682413
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_0: -6987365200825171690
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_1: -5636397040111445045
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_2: 8658599754398143813
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_3: 4197541575384041150
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_4: -4381625227817110414
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_5: 3058628409466150010
+      SpecialLightAttack_BumerangShield_End_EarlyCatch_6: 1209696579998373917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

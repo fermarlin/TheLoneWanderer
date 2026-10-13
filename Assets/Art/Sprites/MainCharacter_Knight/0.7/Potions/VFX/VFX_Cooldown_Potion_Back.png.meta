@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 1097f2fac67c9e14b9c53bb584e57bba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2528899662661757345
+    second: VFX_Cooldown_Potion_Back_0
+  - first:
+      213: 1304749775877599062
+    second: VFX_Cooldown_Potion_Back_1
+  - first:
+      213: 1979948393589772470
+    second: VFX_Cooldown_Potion_Back_2
+  - first:
+      213: 27165834993358153
+    second: VFX_Cooldown_Potion_Back_3
+  - first:
+      213: -5567758251198160154
+    second: VFX_Cooldown_Potion_Back_4
+  - first:
+      213: -4330295620586897715
+    second: VFX_Cooldown_Potion_Back_5
+  - first:
+      213: -158137328221038720
+    second: VFX_Cooldown_Potion_Back_6
+  - first:
+      213: -8245197436068997732
+    second: VFX_Cooldown_Potion_Back_7
+  - first:
+      213: -1021978538666855012
+    second: VFX_Cooldown_Potion_Back_8
+  - first:
+      213: 8997878088950145435
+    second: VFX_Cooldown_Potion_Back_9
+  - first:
+      213: -4934268814141227941
+    second: VFX_Cooldown_Potion_Back_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d07ec72b87ecd0800000000000000
+      internalID: -2528899662661757345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f64ff12076b1210800000000000000
+      internalID: 1304749775877599062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01681e2903a7b10800000000000000
+      internalID: 1979948393589772470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455ec8de23806000800000000000000
+      internalID: 27165834993358153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_4
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2651aae595bb2b0800000000000000
+      internalID: -5567758251198160154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcefc727313b7e3c0800000000000000
+      internalID: -4330295620586897715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_6
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d7a510fe2ecdf0800000000000000
+      internalID: -158137328221038720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_7
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955528ed9c239d80800000000000000
+      internalID: -8245197436068997732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_8
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9570ba0fe331d1f0800000000000000
+      internalID: -1021978538666855012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_9
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91e428f272eedc70800000000000000
+      internalID: 8997878088950145435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Cooldown_Potion_Back_10
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 34
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cf2da08a4f58bb0800000000000000
+      internalID: -4934268814141227941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be18d5cad16fa7b42b75bc84d3bf5cce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Cooldown_Potion_Back_0: -2528899662661757345
+      VFX_Cooldown_Potion_Back_1: 1304749775877599062
+      VFX_Cooldown_Potion_Back_10: -4934268814141227941
+      VFX_Cooldown_Potion_Back_2: 1979948393589772470
+      VFX_Cooldown_Potion_Back_3: 27165834993358153
+      VFX_Cooldown_Potion_Back_4: -5567758251198160154
+      VFX_Cooldown_Potion_Back_5: -4330295620586897715
+      VFX_Cooldown_Potion_Back_6: -158137328221038720
+      VFX_Cooldown_Potion_Back_7: -8245197436068997732
+      VFX_Cooldown_Potion_Back_8: -1021978538666855012
+      VFX_Cooldown_Potion_Back_9: 8997878088950145435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

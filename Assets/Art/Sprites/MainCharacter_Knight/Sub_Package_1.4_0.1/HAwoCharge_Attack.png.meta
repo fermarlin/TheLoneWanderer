@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 4a8f481f51686114f9edff0041c9b438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2343917335640158052
+    second: HAwoCharge_Attack_0
+  - first:
+      213: -2816756495505877659
+    second: HAwoCharge_Attack_1
+  - first:
+      213: -442927799938391584
+    second: HAwoCharge_Attack_2
+  - first:
+      213: 8352845886985549810
+    second: HAwoCharge_Attack_3
+  - first:
+      213: -3834979124244219830
+    second: HAwoCharge_Attack_4
+  - first:
+      213: -827144470994550441
+    second: HAwoCharge_Attack_5
+  - first:
+      213: -737698250010231078
+    second: HAwoCharge_Attack_6
+  - first:
+      213: 1333326529598953780
+    second: HAwoCharge_Attack_7
+  - first:
+      213: 2880741208810194684
+    second: HAwoCharge_Attack_8
+  - first:
+      213: 301221299822094158
+    second: HAwoCharge_Attack_9
+  - first:
+      213: 811100246013702428
+    second: HAwoCharge_Attack_10
+  - first:
+      213: 277204764681874636
+    second: HAwoCharge_Attack_11
+  - first:
+      213: 3514965416569545505
+    second: HAwoCharge_Attack_12
+  - first:
+      213: -8114648572136725241
+    second: HAwoCharge_Attack_13
+  - first:
+      213: 1001253714215835891
+    second: HAwoCharge_Attack_14
+  - first:
+      213: 8461413977421522109
+    second: HAwoCharge_Attack_15
+  - first:
+      213: 3567234237057663920
+    second: HAwoCharge_Attack_16
+  - first:
+      213: 7892197294490477639
+    second: HAwoCharge_Attack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f26bde564478020800000000000000
+      internalID: 2343917335640158052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565199224eed8e8d0800000000000000
+      internalID: -2816756495505877659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 31
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.66, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e68f33876ad9f0800000000000000
+      internalID: -442927799938391584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 31
+        width: 77
+        height: 59
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73b5534154be370800000000000000
+      internalID: 8352845886985549810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 31
+        width: 69
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48726a1eca67cac0800000000000000
+      internalID: -3834979124244219830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 31
+        width: 69
+        height: 34
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751017c6c746584f0800000000000000
+      internalID: -827144470994550441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 31
+        width: 68
+        height: 35
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade76b0a95b23c5f0800000000000000
+      internalID: -737698250010231078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 31
+        width: 68
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43999561a6de08210800000000000000
+      internalID: 1333326529598953780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 31
+        width: 68
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf606f8ddd27af720800000000000000
+      internalID: 2880741208810194684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 31
+        width: 68
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e476dae1d272e2400800000000000000
+      internalID: 301221299822094158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 31
+        width: 67
+        height: 34
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f0e8506b914b00800000000000000
+      internalID: 811100246013702428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 31
+        width: 63
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca8e8c344d8d300800000000000000
+      internalID: 277204764681874636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 31
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123296c5c6aa7c030800000000000000
+      internalID: 3514965416569545505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 31
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705e8aced1af26f80800000000000000
+      internalID: -8114648572136725241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 31
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f810edb2fa25ed00800000000000000
+      internalID: 1001253714215835891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42cb59e2bfc6570800000000000000
+      internalID: 8461413977421522109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b30f6a73ac518130800000000000000
+      internalID: 3567234237057663920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAwoCharge_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 31
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744676bef97b68d60800000000000000
+      internalID: 7892197294490477639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ebee9e9b67bad7479476cfe519b0b15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HAwoCharge_Attack_0: 2343917335640158052
+      HAwoCharge_Attack_1: -2816756495505877659
+      HAwoCharge_Attack_10: 811100246013702428
+      HAwoCharge_Attack_11: 277204764681874636
+      HAwoCharge_Attack_12: 3514965416569545505
+      HAwoCharge_Attack_13: -8114648572136725241
+      HAwoCharge_Attack_14: 1001253714215835891
+      HAwoCharge_Attack_15: 8461413977421522109
+      HAwoCharge_Attack_16: 3567234237057663920
+      HAwoCharge_Attack_17: 7892197294490477639
+      HAwoCharge_Attack_2: -442927799938391584
+      HAwoCharge_Attack_3: 8352845886985549810
+      HAwoCharge_Attack_4: -3834979124244219830
+      HAwoCharge_Attack_5: -827144470994550441
+      HAwoCharge_Attack_6: -737698250010231078
+      HAwoCharge_Attack_7: 1333326529598953780
+      HAwoCharge_Attack_8: 2880741208810194684
+      HAwoCharge_Attack_9: 301221299822094158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: c4e2a7b5eb7e1ff4b93bf1a37e0586b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2005710440685930057
+    second: VFX_AlkaraDemon_Flying_0
+  - first:
+      213: -540323646010230195
+    second: VFX_AlkaraDemon_Flying_1
+  - first:
+      213: -3437904847319847918
+    second: VFX_AlkaraDemon_Flying_2
+  - first:
+      213: 4713486385532377152
+    second: VFX_AlkaraDemon_Flying_3
+  - first:
+      213: -8000182841905098865
+    second: VFX_AlkaraDemon_Flying_4
+  - first:
+      213: 4281656141290736714
+    second: VFX_AlkaraDemon_Flying_5
+  - first:
+      213: 4515065256028307050
+    second: VFX_AlkaraDemon_Flying_6
+  - first:
+      213: -3465400447509510398
+    second: VFX_AlkaraDemon_Flying_7
+  - first:
+      213: -456859551951202441
+    second: VFX_AlkaraDemon_Flying_8
+  - first:
+      213: 4272795535204471604
+    second: VFX_AlkaraDemon_Flying_9
+  - first:
+      213: -8059779989313267369
+    second: VFX_AlkaraDemon_Flying_10
+  - first:
+      213: 8577832423059062389
+    second: VFX_AlkaraDemon_Flying_11
+  - first:
+      213: 2054866184311700156
+    second: VFX_AlkaraDemon_Flying_12
+  - first:
+      213: 7075171255628596306
+    second: VFX_AlkaraDemon_Flying_13
+  - first:
+      213: 1791688114149360180
+    second: VFX_AlkaraDemon_Flying_14
+  - first:
+      213: 3879178886194440090
+    second: VFX_AlkaraDemon_Flying_15
+  - first:
+      213: 6821008169808001046
+    second: VFX_AlkaraDemon_Flying_16
+  - first:
+      213: -756140214758452833
+    second: VFX_AlkaraDemon_Flying_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468063e407b5db10800000000000000
+      internalID: 2005710440685930057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af0d7b1826088f0800000000000000
+      internalID: -540323646010230195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c28e391cb1a40d0800000000000000
+      internalID: -3437904847319847918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481c4ff4eaa96140800000000000000
+      internalID: 4713486385532377152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f42129714a9f090800000000000000
+      internalID: -8000182841905098865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0108439f7b6b30800000000000000
+      internalID: 4281656141290736714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7643bdebb8ae30800000000000000
+      internalID: 4515065256028307050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20747b947ac68efc0800000000000000
+      internalID: -3465400447509510398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77754b578a8e8a9f0800000000000000
+      internalID: -456859551951202441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433dcb9a6e40c4b30800000000000000
+      internalID: 4272795535204471604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595e216dc8e52090800000000000000
+      internalID: -8059779989313267369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e734734259a0770800000000000000
+      internalID: 8577832423059062389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba7cd058e9548c10800000000000000
+      internalID: 2054866184311700156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2540cc865ce003260800000000000000
+      internalID: 7075171255628596306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4328928d8da5dd810800000000000000
+      internalID: 1791688114149360180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a0dbe4ac95d530800000000000000
+      internalID: 3879178886194440090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618717b8ac619ae50800000000000000
+      internalID: 6821008169808001046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_AlkaraDemon_Flying_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 398
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f915fea1b76a185f0800000000000000
+      internalID: -756140214758452833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_AlkaraDemon_Flying_0: 2005710440685930057
+      VFX_AlkaraDemon_Flying_1: -540323646010230195
+      VFX_AlkaraDemon_Flying_10: -8059779989313267369
+      VFX_AlkaraDemon_Flying_11: 8577832423059062389
+      VFX_AlkaraDemon_Flying_12: 2054866184311700156
+      VFX_AlkaraDemon_Flying_13: 7075171255628596306
+      VFX_AlkaraDemon_Flying_14: 1791688114149360180
+      VFX_AlkaraDemon_Flying_15: 3879178886194440090
+      VFX_AlkaraDemon_Flying_16: 6821008169808001046
+      VFX_AlkaraDemon_Flying_17: -756140214758452833
+      VFX_AlkaraDemon_Flying_2: -3437904847319847918
+      VFX_AlkaraDemon_Flying_3: 4713486385532377152
+      VFX_AlkaraDemon_Flying_4: -8000182841905098865
+      VFX_AlkaraDemon_Flying_5: 4281656141290736714
+      VFX_AlkaraDemon_Flying_6: 4515065256028307050
+      VFX_AlkaraDemon_Flying_7: -3465400447509510398
+      VFX_AlkaraDemon_Flying_8: -456859551951202441
+      VFX_AlkaraDemon_Flying_9: 4272795535204471604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

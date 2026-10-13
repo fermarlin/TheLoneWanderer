@@ -1,0 +1,1 @@
+All animations in this file, except for the VFXs, have a canvas size of 192x128.

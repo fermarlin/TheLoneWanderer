@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: ef64b75dd2c0703448664ac5400c4565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5351260098332458097
+    second: Focus_Potion_0
+  - first:
+      213: 5195587619670841981
+    second: Focus_Potion_1
+  - first:
+      213: 7837148165108543724
+    second: Focus_Potion_2
+  - first:
+      213: -837134680261531669
+    second: Focus_Potion_3
+  - first:
+      213: 3213915721149292673
+    second: Focus_Potion_4
+  - first:
+      213: -6158667310582727885
+    second: Focus_Potion_5
+  - first:
+      213: -2138558911525152018
+    second: Focus_Potion_6
+  - first:
+      213: 802610997812330338
+    second: Focus_Potion_7
+  - first:
+      213: -9168870291568839271
+    second: Focus_Potion_8
+  - first:
+      213: 165626836086587623
+    second: Focus_Potion_9
+  - first:
+      213: -6908767694221733398
+    second: Focus_Potion_10
+  - first:
+      213: -3273844713900398334
+    second: Focus_Potion_11
+  - first:
+      213: -2102116556631934892
+    second: Focus_Potion_12
+  - first:
+      213: 6842522824156439622
+    second: Focus_Potion_13
+  - first:
+      213: 574057241817121562
+    second: Focus_Potion_14
+  - first:
+      213: -2001590374784669135
+    second: Focus_Potion_15
+  - first:
+      213: -3821400867463518790
+    second: Focus_Potion_16
+  - first:
+      213: 134301134935102990
+    second: Focus_Potion_17
+  - first:
+      213: -752368526628514664
+    second: Focus_Potion_18
+  - first:
+      213: 5462710123307880235
+    second: Focus_Potion_19
+  - first:
+      213: 2490231167219307384
+    second: Focus_Potion_20
+  - first:
+      213: -6225699162642162165
+    second: Focus_Potion_21
+  - first:
+      213: -6525641027594653120
+    second: Focus_Potion_22
+  - first:
+      213: -8666629642327864330
+    second: Focus_Potion_23
+  - first:
+      213: 1086545994041104982
+    second: Focus_Potion_24
+  - first:
+      213: 7113759444684956919
+    second: Focus_Potion_25
+  - first:
+      213: 1365683339584124722
+    second: Focus_Potion_26
+  - first:
+      213: -4506698396593562843
+    second: Focus_Potion_27
+  - first:
+      213: -4976878032341657532
+    second: Focus_Potion_28
+  - first:
+      213: -7964334807683994668
+    second: Focus_Potion_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Focus_Potion_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf3dd05be734a40800000000000000
+      internalID: 5351260098332458097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad5e5a96f6a1840800000000000000
+      internalID: 5195587619670841981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03661bbb423cc60800000000000000
+      internalID: 7837148165108543724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e9d19176e164f0800000000000000
+      internalID: -837134680261531669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a521025f1a9c20800000000000000
+      internalID: 3213915721149292673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf7e606b4088aa0800000000000000
+      internalID: -6158667310582727885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 31
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1c4320005252e0800000000000000
+      internalID: -2138558911525152018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 31
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ffc693372732b00800000000000000
+      internalID: 802610997812330338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_8
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 31
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995386f6c01a1c080800000000000000
+      internalID: -9168870291568839271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 31
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0863adabc6c4200800000000000000
+      internalID: 165626836086587623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_10
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 31
+        width: 69
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11836e2602f10a0800000000000000
+      internalID: -6908767694221733398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_11
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 63
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092d2a0497f092d0800000000000000
+      internalID: -3273844713900398334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_12
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 31
+        width: 58
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587c751128c3d2e0800000000000000
+      internalID: -2102116556631934892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_13
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 31
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644e85d514685fe50800000000000000
+      internalID: 6842522824156439622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_14
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 31
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13004b150677f700800000000000000
+      internalID: 574057241817121562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_15
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 31
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a6e15b82ce834e0800000000000000
+      internalID: -2001590374784669135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_16
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 31
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5a77e5828a7fac0800000000000000
+      internalID: -3821400867463518790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_17
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 31
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e061db0bb222dd100800000000000000
+      internalID: 134301134935102990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_18
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 31
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8949f1eafcc0f85f0800000000000000
+      internalID: -752368526628514664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_19
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 68
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f42ba1ae17fcb40800000000000000
+      internalID: 5462710123307880235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_20
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 31
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87396b28d041f8220800000000000000
+      internalID: 2490231167219307384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_21
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 71
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5444c89fd999a0800000000000000
+      internalID: -6225699162642162165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_22
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 31
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042718a4f044075a0800000000000000
+      internalID: -6525641027594653120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_23
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 31
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb4d211242f9b780800000000000000
+      internalID: -8666629642327864330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_24
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 31
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a91f623df241f00800000000000000
+      internalID: 1086545994041104982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_25
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 58
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e60e468629b260800000000000000
+      internalID: 7113759444684956919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_26
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 57
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237b49bf2c1e3f210800000000000000
+      internalID: 1365683339584124722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_27
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 60
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bd7319fadf471c0800000000000000
+      internalID: -4506698396593562843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_28
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 60
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44894d75cc39eeab0800000000000000
+      internalID: -4976878032341657532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Focus_Potion_29
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 42
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db67b370bff87190800000000000000
+      internalID: -7964334807683994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae80c57dbf51ea84d8ede579f0875956
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Focus_Potion_0: 5351260098332458097
+      Focus_Potion_1: 5195587619670841981
+      Focus_Potion_10: -6908767694221733398
+      Focus_Potion_11: -3273844713900398334
+      Focus_Potion_12: -2102116556631934892
+      Focus_Potion_13: 6842522824156439622
+      Focus_Potion_14: 574057241817121562
+      Focus_Potion_15: -2001590374784669135
+      Focus_Potion_16: -3821400867463518790
+      Focus_Potion_17: 134301134935102990
+      Focus_Potion_18: -752368526628514664
+      Focus_Potion_19: 5462710123307880235
+      Focus_Potion_2: 7837148165108543724
+      Focus_Potion_20: 2490231167219307384
+      Focus_Potion_21: -6225699162642162165
+      Focus_Potion_22: -6525641027594653120
+      Focus_Potion_23: -8666629642327864330
+      Focus_Potion_24: 1086545994041104982
+      Focus_Potion_25: 7113759444684956919
+      Focus_Potion_26: 1365683339584124722
+      Focus_Potion_27: -4506698396593562843
+      Focus_Potion_28: -4976878032341657532
+      Focus_Potion_29: -7964334807683994668
+      Focus_Potion_3: -837134680261531669
+      Focus_Potion_4: 3213915721149292673
+      Focus_Potion_5: -6158667310582727885
+      Focus_Potion_6: -2138558911525152018
+      Focus_Potion_7: 802610997812330338
+      Focus_Potion_8: -9168870291568839271
+      Focus_Potion_9: 165626836086587623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: deae4f759055c6b408dc402d93bac1cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6290345465287320936
+    second: VFX_Rocks_0
+  - first:
+      213: -4189924233312846408
+    second: VFX_Rocks_1
+  - first:
+      213: 3408136217866541113
+    second: VFX_Rocks_2
+  - first:
+      213: -3128616620996188931
+    second: VFX_Rocks_3
+  - first:
+      213: -6600392989207040920
+    second: VFX_Rocks_4
+  - first:
+      213: 5513260133749882479
+    second: VFX_Rocks_5
+  - first:
+      213: 484909635595045629
+    second: VFX_Rocks_6
+  - first:
+      213: -7434892021426385288
+    second: VFX_Rocks_7
+  - first:
+      213: 2877767995730131908
+    second: VFX_Rocks_8
+  - first:
+      213: -7308662224062241499
+    second: VFX_Rocks_9
+  - first:
+      213: 6443211262158788635
+    second: VFX_Rocks_10
+  - first:
+      213: -8164890829989319441
+    second: VFX_Rocks_11
+  - first:
+      213: -8157854176188844210
+    second: VFX_Rocks_12
+  - first:
+      213: -6875592446502569429
+    second: VFX_Rocks_13
+  - first:
+      213: -3085718588011392983
+    second: VFX_Rocks_14
+  - first:
+      213: -164976542077253436
+    second: VFX_Rocks_15
+  - first:
+      213: -3810568350380292322
+    second: VFX_Rocks_16
+  - first:
+      213: 5997810341922299364
+    second: VFX_Rocks_17
+  - first:
+      213: -7644055136629000947
+    second: VFX_Rocks_18
+  - first:
+      213: 6802325085050894842
+    second: VFX_Rocks_19
+  - first:
+      213: 4702927181880899142
+    second: VFX_Rocks_20
+  - first:
+      213: 7571952218358961491
+    second: VFX_Rocks_21
+  - first:
+      213: -7726854473370872235
+    second: VFX_Rocks_22
+  - first:
+      213: 3945283281145883344
+    second: VFX_Rocks_23
+  - first:
+      213: -4496879038401727825
+    second: VFX_Rocks_24
+  - first:
+      213: 5620497757970140306
+    second: VFX_Rocks_25
+  - first:
+      213: -3366950724558360403
+    second: VFX_Rocks_26
+  - first:
+      213: 791440703759277932
+    second: VFX_Rocks_27
+  - first:
+      213: 1365784709890097612
+    second: VFX_Rocks_28
+  - first:
+      213: -1232076446836735335
+    second: VFX_Rocks_29
+  - first:
+      213: 5059597543446878465
+    second: VFX_Rocks_30
+  - first:
+      213: -7431573521066302123
+    second: VFX_Rocks_31
+  - first:
+      213: -5257381404674038218
+    second: VFX_Rocks_32
+  - first:
+      213: -6177438375699201189
+    second: VFX_Rocks_33
+  - first:
+      213: 5368388095418356533
+    second: VFX_Rocks_34
+  - first:
+      213: 6242056192820882383
+    second: VFX_Rocks_35
+  - first:
+      213: 6012291047291846283
+    second: VFX_Rocks_36
+  - first:
+      213: -7484564543403263319
+    second: VFX_Rocks_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Rocks_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 52
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a5f03802434b8a0800000000000000
+      internalID: -6290345465287320936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 59
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3695eb166ad5c0800000000000000
+      internalID: -4189924233312846408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 33
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938141445d12c4f20800000000000000
+      internalID: 3408136217866541113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 34
+        width: 6
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a32362cbe494d0800000000000000
+      internalID: -3128616620996188931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 88
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ce554fb81b664a0800000000000000
+      internalID: -6600392989207040920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 15
+        width: 88
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6efb7291e8038c40800000000000000
+      internalID: 5513260133749882479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_6
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 15
+        width: 84
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa8ec19ebebab600800000000000000
+      internalID: 484909635595045629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 170
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e8e772915f1d890800000000000000
+      internalID: -7434892021426385288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7b7bbeb2efe720800000000000000
+      internalID: 2877767995730131908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 15
+        width: 55
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525247f1e6a629a90800000000000000
+      internalID: -7308662224062241499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 42
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1855cd5182ea6950800000000000000
+      internalID: 6443211262158788635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 15
+        width: 64
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec64a0bc0b70be80800000000000000
+      internalID: -8164890829989319441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 29
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b3d259da79ce80800000000000000
+      internalID: -8157854176188844210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 37
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2afadd291df490a0800000000000000
+      internalID: -6875592446502569429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d2c40b435d25d0800000000000000
+      internalID: -3085718588011392983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 22
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8863585b2e5bdf0800000000000000
+      internalID: -164976542077253436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 15
+        width: 67
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178c3b46442e1bc0800000000000000
+      internalID: -3810568350380292322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_17
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 15
+        width: 59
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed517c6ab08c3350800000000000000
+      internalID: 5997810341922299364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 33
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057ab96a5cdae590800000000000000
+      internalID: -7644055136629000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 29
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ff25ef96b66e50800000000000000
+      internalID: 6802325085050894842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_20
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 15
+        width: 59
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463a80da57244140800000000000000
+      internalID: 4702927181880899142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 15
+        width: 57
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555487bc6af41960800000000000000
+      internalID: 7571952218358961491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_22
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 15
+        width: 57
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556579b8bc2b4c490800000000000000
+      internalID: -7726854473370872235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 15
+        width: 57
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daecfebd3670c630800000000000000
+      internalID: 3945283281145883344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_24
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 15
+        width: 57
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23a2e0750e791c0800000000000000
+      internalID: -4496879038401727825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_25
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 15
+        width: 57
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c80b4aee4000e40800000000000000
+      internalID: 5620497757970140306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07476a7203641d0800000000000000
+      internalID: -3366950724558360403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f5b587023cbfa00800000000000000
+      internalID: 791440703759277932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 15
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c8a815fd34f210800000000000000
+      internalID: 1365784709890097612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 15
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992cb2adff8c6eee0800000000000000
+      internalID: -1232076446836735335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 15
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109179ba82d473640800000000000000
+      internalID: 5059597543446878465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_31
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e4aab14fbdd890800000000000000
+      internalID: -7431573521066302123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_32
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e8ad97770a07b0800000000000000
+      internalID: -5257381404674038218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_33
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53459ad684554aa0800000000000000
+      internalID: -6177438375699201189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_34
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d8d3a788508a40800000000000000
+      internalID: 5368388095418356533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_35
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbad19190d30a650800000000000000
+      internalID: 6242056192820882383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_36
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e77106ad2ff6350800000000000000
+      internalID: 6012291047291846283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Rocks_37
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 15
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf6f3e33c712890800000000000000
+      internalID: -7484564543403263319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07d12d7a23962ae4a8ee78272f110df9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Rocks_0: -6290345465287320936
+      VFX_Rocks_1: -4189924233312846408
+      VFX_Rocks_10: 6443211262158788635
+      VFX_Rocks_11: -8164890829989319441
+      VFX_Rocks_12: -8157854176188844210
+      VFX_Rocks_13: -6875592446502569429
+      VFX_Rocks_14: -3085718588011392983
+      VFX_Rocks_15: -164976542077253436
+      VFX_Rocks_16: -3810568350380292322
+      VFX_Rocks_17: 5997810341922299364
+      VFX_Rocks_18: -7644055136629000947
+      VFX_Rocks_19: 6802325085050894842
+      VFX_Rocks_2: 3408136217866541113
+      VFX_Rocks_20: 4702927181880899142
+      VFX_Rocks_21: 7571952218358961491
+      VFX_Rocks_22: -7726854473370872235
+      VFX_Rocks_23: 3945283281145883344
+      VFX_Rocks_24: -4496879038401727825
+      VFX_Rocks_25: 5620497757970140306
+      VFX_Rocks_26: -3366950724558360403
+      VFX_Rocks_27: 791440703759277932
+      VFX_Rocks_28: 1365784709890097612
+      VFX_Rocks_29: -1232076446836735335
+      VFX_Rocks_3: -3128616620996188931
+      VFX_Rocks_30: 5059597543446878465
+      VFX_Rocks_31: -7431573521066302123
+      VFX_Rocks_32: -5257381404674038218
+      VFX_Rocks_33: -6177438375699201189
+      VFX_Rocks_34: 5368388095418356533
+      VFX_Rocks_35: 6242056192820882383
+      VFX_Rocks_36: 6012291047291846283
+      VFX_Rocks_37: -7484564543403263319
+      VFX_Rocks_4: -6600392989207040920
+      VFX_Rocks_5: 5513260133749882479
+      VFX_Rocks_6: 484909635595045629
+      VFX_Rocks_7: -7434892021426385288
+      VFX_Rocks_8: 2877767995730131908
+      VFX_Rocks_9: -7308662224062241499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
