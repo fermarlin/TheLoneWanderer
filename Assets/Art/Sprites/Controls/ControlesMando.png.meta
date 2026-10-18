@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 4841d891b1d4a7f4aa13b19446b58d84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5170883482395374864
+    second: ControlesMando_0
+  - first:
+      213: 2856543592846375014
+    second: ControlesMando_1
+  - first:
+      213: 2150266530943559556
+    second: ControlesMando_2
+  - first:
+      213: 1979547843167890605
+    second: ControlesMando_3
+  - first:
+      213: -1730278106017445390
+    second: ControlesMando_4
+  - first:
+      213: 8068291878836824211
+    second: ControlesMando_5
+  - first:
+      213: 8693173283368380298
+    second: ControlesMando_6
+  - first:
+      213: 2983551348710205514
+    second: ControlesMando_7
+  - first:
+      213: -6947619791580591514
+    second: ControlesMando_8
+  - first:
+      213: -8288131018183848513
+    second: ControlesMando_9
+  - first:
+      213: -2453976527828832405
+    second: ControlesMando_10
+  - first:
+      213: 6607006777161155512
+    second: ControlesMando_11
+  - first:
+      213: -4188172012664614378
+    second: ControlesMando_12
+  - first:
+      213: 415062471921608925
+    second: ControlesMando_13
+  - first:
+      213: 2238324839906392913
+    second: ControlesMando_14
+  - first:
+      213: -7398607355785002668
+    second: ControlesMando_15
+  - first:
+      213: 3621449740942761578
+    second: ControlesMando_16
+  - first:
+      213: -3503843911824192114
+    second: ControlesMando_17
+  - first:
+      213: 3321301946201813221
+    second: ControlesMando_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ControlesMando_0
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 834
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa83e88ed45d38b0800000000000000
+      internalID: -5170883482395374864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 834
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668b609534b74a720800000000000000
+      internalID: 2856543592846375014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 834
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4876d4d640847dd10800000000000000
+      internalID: 2150266530943559556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 807
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daca9e77644c87b10800000000000000
+      internalID: 1979547843167890605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 807
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9c130ea31dcf7e0800000000000000
+      internalID: -1730278106017445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ec3657b458ff60800000000000000
+      internalID: 8068291878836824211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_6
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 807
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a616fa0b54a870800000000000000
+      internalID: 8693173283368380298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 780
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486205e424b76920800000000000000
+      internalID: 2983551348710205514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 780
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8d501c98159f90800000000000000
+      internalID: -6947619791580591514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd414950c4aafc80800000000000000
+      internalID: -8288131018183848513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 780
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fad938959b1fdd0800000000000000
+      internalID: -2453976527828832405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 752
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b30a4d88adc0bb50800000000000000
+      internalID: 6607006777161155512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 752
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61294ee8ebf90e5c0800000000000000
+      internalID: -4188172012664614378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ab7e7e1992c500800000000000000
+      internalID: 415062471921608925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_14
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 752
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbd8e2590201f10800000000000000
+      internalID: 2238324839906392913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 722
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c7d53fcdd25990800000000000000
+      internalID: -7398607355785002668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 722
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed2d42a59f14230800000000000000
+      internalID: 3621449740942761578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dcd4fb688df5fc0800000000000000
+      internalID: -3503843911824192114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlesMando_18
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 722
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e03c27e582a71e20800000000000000
+      internalID: 3321301946201813221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ControlesMando_0: -5170883482395374864
+      ControlesMando_1: 2856543592846375014
+      ControlesMando_10: -2453976527828832405
+      ControlesMando_11: 6607006777161155512
+      ControlesMando_12: -4188172012664614378
+      ControlesMando_13: 415062471921608925
+      ControlesMando_14: 2238324839906392913
+      ControlesMando_15: -7398607355785002668
+      ControlesMando_16: 3621449740942761578
+      ControlesMando_17: -3503843911824192114
+      ControlesMando_18: 3321301946201813221
+      ControlesMando_2: 2150266530943559556
+      ControlesMando_3: 1979547843167890605
+      ControlesMando_4: -1730278106017445390
+      ControlesMando_5: 8068291878836824211
+      ControlesMando_6: 8693173283368380298
+      ControlesMando_7: 2983551348710205514
+      ControlesMando_8: -6947619791580591514
+      ControlesMando_9: -8288131018183848513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

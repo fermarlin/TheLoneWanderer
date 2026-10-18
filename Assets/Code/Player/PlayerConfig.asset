@@ -20,7 +20,7 @@ MonoBehaviour:
   capaSuelo:
     serializedVersion: 2
     m_Bits: 64
-  dobleSaltoDesbloqueadoInicialmente: 0
+  dobleSaltoDesbloqueadoInicialmente: 1
   saltosExtra: 1
   multiplicadorDobleSalto: 1
   multiplicadorJumpCut: 0.5
