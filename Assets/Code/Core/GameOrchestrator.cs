@@ -1,8 +1,9 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+//Gestiona el estado de pausa y las peticiones de desbloqueo.
 
-//Este script se encarga de gestionar el juego entero, entre otras cosas la pausa y los eventos para pedir que se desbloqueen cosas
+[DefaultExecutionOrder(-200)]
 public class GameOrchestrator : MonoBehaviour
 {
     public static GameOrchestrator Instance { get; private set; }
@@ -11,11 +12,13 @@ public class GameOrchestrator : MonoBehaviour
     [SerializeField] private InputActionReference pauseAction;
 
     public bool GamePaused { get; private set; }
+    public bool IsPauseLocked => pauseLocks > 0;
     public GameEventsSO Events => gameEvents;
 
     private bool runtimeEvents;
     private float timeScaleBeforePause = 1f;
     private InputAction pauseInputAction;
+    private int pauseLocks;
 
     private void Awake()
     {
@@ -27,6 +30,12 @@ public class GameOrchestrator : MonoBehaviour
 
         Instance = this;
 
+        if (gameEvents == null)
+        {
+            gameEvents = ScriptableObject.CreateInstance<GameEventsSO>();
+            runtimeEvents = true;
+        }
+
         DontDestroyOnLoad(gameObject);
     }
 
@@ -35,21 +44,30 @@ public class GameOrchestrator : MonoBehaviour
         if (Instance != this)
             return;
 
-        //Esto lo he puesto porque el input action lo tiene el player, 
-        // cuando cambie de mapa es posible que lo pierda, asi que para curarnos en salud lo clona
-        pauseInputAction = pauseAction.action.Clone();
-
-        pauseInputAction.performed += PauseInput;
-        pauseInputAction.Enable();
+        if (pauseAction != null && pauseAction.action != null)
+        {
+            pauseInputAction = pauseAction.action.Clone();
+            pauseInputAction.performed += PauseInput;
+            pauseInputAction.Enable();
+        }
     }
 
     private void OnDisable()
     {
-        if (pauseInputAction == null)
+        if (Instance != this)
             return;
 
-        pauseInputAction.performed -= PauseInput;
-        pauseInputAction.Disable();
+        if (pauseInputAction != null)
+        {
+            pauseInputAction.performed -= PauseInput;
+            pauseInputAction.Disable();
+            pauseInputAction.Dispose();
+            pauseInputAction = null;
+        }
+
+        pauseLocks = 0;
+        if (GamePaused)
+            PauseGame(false);
     }
 
     private void PauseInput(InputAction.CallbackContext context)
@@ -57,8 +75,21 @@ public class GameOrchestrator : MonoBehaviour
         PauseChange();
     }
 
+    public void AcquirePauseLock()
+    {
+        pauseLocks++;
+    }
+
+    public void ReleasePauseLock()
+    {
+        pauseLocks = Mathf.Max(0, pauseLocks - 1);
+    }
+
     public void PauseGame(bool paused)
     {
+        if (!paused && IsPauseLocked)
+            return;
+
         if (GamePaused == paused)
             return;
 
@@ -77,26 +108,24 @@ public class GameOrchestrator : MonoBehaviour
         gameEvents?.NotifyPauseChanged(paused);
     }
 
-    //Control desde otros scripts o botones UI
     public void PauseGame() => PauseGame(true);
     public void ResumeGame() => PauseGame(false);
-    public void PauseChange() => PauseGame(!GamePaused);
+    public void PauseChange()
+    {
+        if (!IsPauseLocked)
+            PauseGame(!GamePaused);
+    }
 
-    // Solicitudes de desbloqueo
-    public void UnlockDoubleJump() =>
-        gameEvents?.RequestDoubleJumpUnlock();
-
-    public void UnlockWallJump() =>
-        gameEvents?.RequestWallJumpUnlock();
-
-    public void UnlockDash() =>
-        gameEvents?.RequestDashUnlock();
+    public void UnlockDoubleJump() => gameEvents?.RequestDoubleJumpUnlock();
+    public void UnlockWallJump() => gameEvents?.RequestWallJumpUnlock();
+    public void UnlockDash() => gameEvents?.RequestDashUnlock();
 
     private void OnDestroy()
     {
         if (Instance != this)
             return;
 
+        pauseLocks = 0;
         if (GamePaused)
             PauseGame(false);
 
