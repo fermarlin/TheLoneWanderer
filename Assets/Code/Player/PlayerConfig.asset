@@ -20,20 +20,32 @@ MonoBehaviour:
   capaSuelo:
     serializedVersion: 2
     m_Bits: 64
+<<<<<<< HEAD
+  dobleSaltoDesbloqueadoInicialmente: 1
+=======
   dobleSaltoDesbloqueadoInicialmente: 0
+>>>>>>> fernando
   saltosExtra: 1
   multiplicadorDobleSalto: 1
   multiplicadorJumpCut: 0.5
   gravedadCaida: 2.5
   gravedadSubida: 1.2
   velocidadMaximaCaida: 25
+<<<<<<< HEAD
+  saltoParedDesbloqueadoInicialmente: 1
+=======
   saltoParedDesbloqueadoInicialmente: 0
+>>>>>>> fernando
   longitudRaycastPared: 1.4
   velocidadDeslizamiento: 2.5
   fuerzaWallJumpX: 15
   fuerzaWallJumpY: 10
   tiempoBloqueoMovimiento: 0.2
+<<<<<<< HEAD
+  dashDesbloqueadoInicialmente: 1
+=======
   dashDesbloqueadoInicialmente: 0
+>>>>>>> fernando
   velocidadDash: 25
   duracionDash: 0.2
   tiempoRecargaDash: 0.6
