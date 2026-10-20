@@ -2,10 +2,7 @@ using System;
 using UnityEngine;
 
 
-/* Este codigo utiliza comunica a los distintos sistemas 
-del juego sin usar referencias directas la pausa, salud, movimiento, 
-combate y desbloqueo de habilidades, permitiendo que otros componentes reaccionen cuando ocurren.
-*/
+//Este codigo comunica a los distintos sistemas
 
 [CreateAssetMenu(fileName = "GameEvents", menuName = "Game/Events/Game Events")]
 public sealed class GameEventsSO : ScriptableObject

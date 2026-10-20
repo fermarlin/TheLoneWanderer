@@ -53,7 +53,6 @@ public sealed class PausableMovement : MonoBehaviour
             gameEvent.OnPauseChanged -= ApplyPause;
         gameEvent = null;
 
-        // Despausar si he desactivado el objeto
         ApplyPause(false);
     }
 

@@ -10,8 +10,6 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Configuracion")]
     [SerializeField] private PlayerConfigSO config;
-
-    [Header("Eventos compartidos (opcional si hay GameOrchestrator)")]
     [SerializeField] private GameEventsSO gameEvents;
 
     private Transform groundPoint;
@@ -41,7 +39,10 @@ public class PlayerController : MonoBehaviour
     private bool isJumping;
     private bool isPaused;
     private bool isShieldInFlight;
+    private bool isInDamageKnockback;
     private RigidbodyConstraints2D previousShieldConstraints;
+    private readonly ContactPoint2D[] groundContacts = new ContactPoint2D[16];
+    private MovingPlatform2D currentMovingPlatform;
 
     private bool isDoubleJumpUnlocked;
     private bool isWallJumpUnlocked;
@@ -76,13 +77,14 @@ public class PlayerController : MonoBehaviour
     public bool IsDashUnlocked => isDashUnlocked;
     public bool IsDashing => isDashing;
     public bool IsShieldInFlight => isShieldInFlight;
+    public bool IsInDamageKnockback => isInDamageKnockback;
     public float DashCooldownRemaining => dashCooldownRemaining;
     public bool IsFalling =>
         !isDashing && !isGrounded && rb != null &&
         (isForcedWallFall || (!isJumping && rb.linearVelocity.y <= 0.05f));
     public int FacingDirection => facingDirection;
     public float HorizontalMovement => horizontalMovement;
-    public Vector2 InputDirection => moveAction != null && moveAction.enabled
+    public Vector2 InputDirection => !isInDamageKnockback && moveAction != null && moveAction.enabled
         ? moveAction.ReadValue<Vector2>() : Vector2.zero;
     public Vector2 Velocity => rb != null ? rb.linearVelocity : Vector2.zero;
 
@@ -99,23 +101,11 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>();
-        if (playerInput == null)
-        {
-            Debug.LogError("[PlayerController] Necesitas el componente Player Input oficial de Unity.", this);
-            enabled = false;
-            return;
-        }
 
         if (visualObject == null)
             visualObject = transform;
         originalVisualScale = visualObject.localScale;
 
-        if (config == null)
-        {
-            Debug.LogError("[PlayerController] Asigna un PlayerConfigSO en el Inspector.", this);
-            enabled = false;
-            return;
-        }
 
         isDoubleJumpUnlocked = config.dobleSaltoDesbloqueadoInicialmente;
         isWallJumpUnlocked = config.saltoParedDesbloqueadoInicialmente;
@@ -197,6 +187,33 @@ public class PlayerController : MonoBehaviour
     }
 
 
+    //Lo usa el knockback generico para impedir que cualquier movimiento
+    // sobreescriban la velocidad del retroceso.
+    public void SetDamageKnockbackActive(bool active)
+    {
+        if (isInDamageKnockback == active)
+            return;
+
+        isInDamageKnockback = active;
+        ClearPendingInput();
+
+        if (active)
+        {
+            isDashing = false;
+            dashTimeRemaining = 0f;
+            wallJumpTimer = 0f;
+            isWallSliding = false;
+            isForcedWallFall = false;
+            isJumping = false;
+
+            if (rb != null && config != null)
+                rb.gravityScale = rb.linearVelocity.y < 0f
+                    ? config.gravedadCaida : config.gravedadSubida;
+        }
+
+        AuthorizeCurrentVerticalVelocity();
+    }
+
     public void SetShieldInFlight(bool block)
     {
         if (rb == null || isShieldInFlight == block)
@@ -222,7 +239,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if (config == null || isPaused || isShieldInFlight)
+        if (config == null || isPaused || isShieldInFlight || isInDamageKnockback)
             return;
 
         horizontalMovement = Mathf.Clamp(InputDirection.x, -1f, 1f);
@@ -230,7 +247,7 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (config == null || isPaused || isShieldInFlight)
+        if (config == null || isPaused || isShieldInFlight || isInDamageKnockback)
             return;
 
         CorrectVerticalImpulse();
@@ -299,12 +316,30 @@ public class PlayerController : MonoBehaviour
 
         UpdateMovement();
 
+
         if (wallJumpTimer <= 0f)
         {
+            Vector2 platformVelocity = Vector2.zero;
+
+            if (isGrounded && currentMovingPlatform != null)
+            {
+                platformVelocity = currentMovingPlatform.PlatformVelocity;
+            }
+
+            float verticalVelocity = rb.linearVelocity.y;
+
+            //Esto es para que el player acompane a la plataforma
+            if (isGrounded && currentMovingPlatform != null)
+            {
+                verticalVelocity = platformVelocity.y;
+            }
+
             rb.linearVelocity = new Vector2(
-                horizontalMovement * config.velocidad,
-                rb.linearVelocity.y);
+                horizontalMovement * config.velocidad + platformVelocity.x,
+                verticalVelocity
+            );
         }
+
 
         rb.gravityScale = !isGrounded && rb.linearVelocity.y < 0f
             ? config.gravedadCaida
@@ -345,39 +380,97 @@ public class PlayerController : MonoBehaviour
             pendingDash = true;
     }
 
+
+
     private void DetectGround()
     {
-        Vector2 origin = groundPoint != null ? (Vector2)groundPoint.position : (Vector2)transform.position;
-        RaycastHit2D hit = Physics2D.Raycast(
-            origin, Vector2.down, config.longitudRaycast, config.capaSuelo);
+        currentMovingPlatform = null;
+        isGrounded = false;
+
+        Vector2 origin = groundPoint != null
+            ? (Vector2)groundPoint.position
+            : (Vector2)transform.position;
 
         if (isJumping && rb.linearVelocity.y > 0.05f)
+            return;
+
+        RaycastHit2D[] hits = Physics2D.RaycastAll(
+            origin,
+            Vector2.down,
+            config.longitudRaycast,
+            config.capaSuelo
+        );
+
+        foreach (RaycastHit2D hit in hits)
         {
-            isGrounded = false;
+            Collider2D col = hit.collider;
+
+            if (col == null || col.isTrigger)
+                continue;
+
+            MovingPlatform2D platform =
+                col.GetComponentInParent<MovingPlatform2D>();
+
+            bool hasEffector =
+                col.GetComponentInParent<PlatformEffector2D>() != null;
+
+
+            if ((hasEffector || platform != null) &&
+                !HasValidGroundContact(col))
+            {
+                continue;
+            }
+
+            isGrounded = true;
+            currentMovingPlatform = platform;
             return;
         }
-
-        isGrounded = hit.collider != null;
     }
+
+
+    private bool HasValidGroundContact(Collider2D platform)
+    {
+        int count = rb.GetContacts(groundContacts);
+
+        for (int i = 0; i < count; i++)
+        {
+            ContactPoint2D contact = groundContacts[i];
+
+            if (!contact.enabled)
+                continue;
+
+            if (contact.collider != platform &&
+                contact.otherCollider != platform)
+                continue;
+
+            if (contact.normal.y > 0.5f)
+                return true;
+        }
+
+        return false;
+    }
+
+
 
     private void DetectWall()
     {
         Vector2 rightOrigin = rightWallPoint != null
-            ? (Vector2)rightWallPoint.position : (Vector2)transform.position;
+            ? (Vector2)rightWallPoint.position
+            : (Vector2)transform.position;
+
         Vector2 leftOrigin = leftWallPoint != null
-            ? (Vector2)leftWallPoint.position : (Vector2)transform.position;
+            ? (Vector2)leftWallPoint.position
+            : (Vector2)transform.position;
 
-        RaycastHit2D rightHit = Physics2D.Raycast(
-            rightOrigin, Vector2.right, config.longitudRaycastPared, config.capaSuelo);
-        RaycastHit2D leftHit = Physics2D.Raycast(
-            leftOrigin, Vector2.left, config.longitudRaycastPared, config.capaSuelo);
+        bool rightWall = IsValidWall(rightOrigin, Vector2.right);
+        bool leftWall = IsValidWall(leftOrigin, Vector2.left);
 
-        if (rightHit.collider != null)
+        if (rightWall)
         {
             isTouchingWall = true;
             wallDirection = 1;
         }
-        else if (leftHit.collider != null)
+        else if (leftWall)
         {
             isTouchingWall = true;
             wallDirection = -1;
@@ -388,6 +481,38 @@ public class PlayerController : MonoBehaviour
             wallDirection = 0;
         }
     }
+    
+    private bool IsValidWall(Vector2 origin, Vector2 direction)
+    {
+        RaycastHit2D[] hits = Physics2D.RaycastAll(
+            origin,
+            direction,
+            config.longitudRaycastPared,
+            config.capaSuelo
+        );
+
+        foreach (RaycastHit2D hit in hits)
+        {
+            Collider2D col = hit.collider;
+
+            if (col == null)
+                continue;
+
+            //Ignorar colliders Trigger
+            if (col.isTrigger)
+                continue;
+
+            //Ignorar plataformas con PlatformEffector2D
+            if (col.GetComponentInParent<PlatformEffector2D>() != null)
+                continue;
+
+            return true;
+        }
+
+        return false;
+    }
+
+
 
     private void PrepareJump()
     {
@@ -458,7 +583,7 @@ public class PlayerController : MonoBehaviour
 
     public void Bounce(float force)
     {
-        if (config == null || rb == null || isPaused || isDashing || force <= 0f)
+        if (config == null || rb == null || isPaused || isInDamageKnockback || isDashing || force <= 0f)
             return;
 
         pendingJumpCut = false;
@@ -537,7 +662,7 @@ public class PlayerController : MonoBehaviour
 
     public void UpdateMovement()
     {
-        if (isPaused || isShieldInFlight || wallJumpTimer > 0f)
+        if (isPaused || isShieldInFlight || isInDamageKnockback || wallJumpTimer > 0f)
             return;
 
         if (isTouchingWall && wallDirection != 0)

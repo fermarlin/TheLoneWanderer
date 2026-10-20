@@ -162,7 +162,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -216,15 +216,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StatusResist_Potion_0
+      name: 14
       rect:
         serializedVersion: 2
         x: 2757
-        y: 31
+        y: 32
         width: 51
-        height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -238,37 +238,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_1
-      rect:
-        serializedVersion: 2
-        x: 2963
-        y: 72
-        width: 19
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b2cb359d9b927c40800000000000000
-      internalID: 5508636395343430324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_2
+      name: 16
       rect:
         serializedVersion: 2
         x: 3140
-        y: 31
+        y: 32
         width: 53
-        height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,37 +260,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_3
-      rect:
-        serializedVersion: 2
-        x: 3154
-        y: 72
-        width: 21
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1701a950403133e40800000000000000
-      internalID: 5634868466765402225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_4
+      name: 17
       rect:
         serializedVersion: 2
         x: 3331
-        y: 31
+        y: 32
         width: 55
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -326,147 +282,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_5
+      name: 0
       rect:
         serializedVersion: 2
-        x: 3345
-        y: 77
-        width: 23
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a58ec45a8e1f3800800000000000000
-      internalID: 594227255313335712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_6
-      rect:
-        serializedVersion: 2
-        x: 3350
-        y: 74
-        width: 6
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6bd58559c1668dc0800000000000000
-      internalID: -3637112131703940242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_7
-      rect:
-        serializedVersion: 2
-        x: 3357
-        y: 74
-        width: 6
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fef684d3000345d0800000000000000
-      internalID: -3079617703740768528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_8
-      rect:
-        serializedVersion: 2
-        x: 3536
-        y: 75
-        width: 25
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dd7e4667aac5b510800000000000000
-      internalID: 1564379265905884628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_9
-      rect:
-        serializedVersion: 2
-        x: 3732
-        y: 76
-        width: 17
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 708d9b2973b78b8e0800000000000000
-      internalID: -1677455382580439033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_10
-      rect:
-        serializedVersion: 2
-        x: 3924
-        y: 77
-        width: 17
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c135e68f3467b86c0800000000000000
-      internalID: -4140085398134172900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_11
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 31
+        x: 77
+        y: 32
         width: 40
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -480,15 +304,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_12
+      name: 1
       rect:
         serializedVersion: 2
         x: 269
-        y: 31
-        width: 39
+        y: 32
+        width: 40
         height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -502,15 +326,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_13
+      name: 2
       rect:
         serializedVersion: 2
         x: 462
-        y: 31
-        width: 39
+        y: 32
+        width: 40
         height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -524,15 +348,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_14
+      name: 3
       rect:
         serializedVersion: 2
         x: 654
-        y: 31
-        width: 39
+        y: 32
+        width: 40
         height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -546,15 +370,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_15
+      name: 4
       rect:
         serializedVersion: 2
         x: 846
-        y: 31
+        y: 32
         width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 39
+      alignment: 9
+      pivot: {x: 0.425, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -568,15 +392,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_16
+      name: 5
       rect:
         serializedVersion: 2
         x: 1038
-        y: 31
+        y: 32
         width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -590,15 +414,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_17
+      name: 6
       rect:
         serializedVersion: 2
         x: 1230
-        y: 31
+        y: 32
         width: 39
         height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -612,14 +436,14 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_18
+      name: 7
       rect:
         serializedVersion: 2
         x: 1420
-        y: 31
+        y: 32
         width: 38
-        height: 41
-      alignment: 7
+        height: 40
+      alignment: 9
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -634,15 +458,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_19
+      name: 8
       rect:
         serializedVersion: 2
         x: 1611
-        y: 31
+        y: 32
         width: 37
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -656,15 +480,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_20
+      name: 9
       rect:
         serializedVersion: 2
         x: 1803
-        y: 31
+        y: 32
         width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -678,15 +502,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_21
+      name: 10
       rect:
         serializedVersion: 2
         x: 1995
-        y: 31
+        y: 32
         width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -700,15 +524,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_22
+      name: 11
       rect:
         serializedVersion: 2
         x: 2184
-        y: 31
+        y: 32
         width: 42
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -722,15 +546,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_23
+      name: 12
       rect:
         serializedVersion: 2
         x: 2376
-        y: 31
+        y: 32
         width: 45
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -744,15 +568,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_24
+      name: 13
       rect:
         serializedVersion: 2
         x: 2566
-        y: 31
+        y: 32
         width: 49
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -766,15 +590,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_25
+      name: 15
       rect:
         serializedVersion: 2
         x: 2948
-        y: 31
+        y: 32
         width: 53
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 60
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -788,37 +612,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_26
-      rect:
-        serializedVersion: 2
-        x: 2952
-        y: 60
-        width: 9
-        height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70ac2963df017a730800000000000000
-      internalID: 4010192672925075975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StatusResist_Potion_27
+      name: 18
       rect:
         serializedVersion: 2
         x: 3523
-        y: 31
+        y: 32
         width: 55
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -832,15 +634,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_28
+      name: 19
       rect:
         serializedVersion: 2
         x: 3715
-        y: 31
+        y: 32
         width: 55
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -854,15 +656,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_29
+      name: 20
       rect:
         serializedVersion: 2
-        x: 3915
-        y: 31
+        x: 3916
+        y: 32
         width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 62
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -876,15 +678,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StatusResist_Potion_30
+      name: 21
       rect:
         serializedVersion: 2
         x: 4107
-        y: 31
+        y: 32
         width: 37
         height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -911,37 +713,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      StatusResist_Potion_0: -368710520259163791
-      StatusResist_Potion_1: 5508636395343430324
-      StatusResist_Potion_10: -4140085398134172900
-      StatusResist_Potion_11: -8696135551070172954
-      StatusResist_Potion_12: 2172233652578765377
-      StatusResist_Potion_13: 5485445267714069410
-      StatusResist_Potion_14: -411738096767473899
-      StatusResist_Potion_15: 4344913110210957265
-      StatusResist_Potion_16: -1946851776396350397
-      StatusResist_Potion_17: -7296448306064918882
-      StatusResist_Potion_18: -8767562798916457293
-      StatusResist_Potion_19: 2247080549350140064
-      StatusResist_Potion_2: 1564426453790768863
-      StatusResist_Potion_20: 4821009112990886515
-      StatusResist_Potion_21: 9110929004399122179
-      StatusResist_Potion_22: 1596497799115762550
-      StatusResist_Potion_23: 8347690452334007075
-      StatusResist_Potion_24: 7610316371360813287
-      StatusResist_Potion_25: 1260081814408331628
+      0: -8696135551070172954
+      1: 2172233652578765377
+      10: 9110929004399122179
+      11: 1596497799115762550
+      12: 8347690452334007075
+      13: 7610316371360813287
+      14: -368710520259163791
+      15: 1260081814408331628
+      16: 1564426453790768863
+      17: -7131863548651282689
+      18: 1477657666394673826
+      19: 4433148898768452923
+      2: 5485445267714069410
+      20: 1140683369504355683
+      21: -2952015546379590831
+      3: -411738096767473899
+      4: 4344913110210957265
+      5: -1946851776396350397
+      6: -7296448306064918882
+      7: -8767562798916457293
+      8: 2247080549350140064
+      9: 4821009112990886515
+      StatusResist_Potion_0: 1972985918
       StatusResist_Potion_26: 4010192672925075975
-      StatusResist_Potion_27: 1477657666394673826
-      StatusResist_Potion_28: 4433148898768452923
-      StatusResist_Potion_29: 1140683369504355683
-      StatusResist_Potion_3: 5634868466765402225
-      StatusResist_Potion_30: -2952015546379590831
-      StatusResist_Potion_4: -7131863548651282689
-      StatusResist_Potion_5: 594227255313335712
-      StatusResist_Potion_6: -3637112131703940242
-      StatusResist_Potion_7: -3079617703740768528
-      StatusResist_Potion_8: 1564379265905884628
-      StatusResist_Potion_9: -1677455382580439033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
