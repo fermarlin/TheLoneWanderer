@@ -243,7 +243,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -297,147 +297,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Luck_Potion_0
-      rect:
-        serializedVersion: 2
-        x: 1803
-        y: 31
-        width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d8ebd8d48c00e0a0800000000000000
-      internalID: -6854464868144387879
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_1
-      rect:
-        serializedVersion: 2
-        x: 1988
-        y: 31
-        width: 52
-        height: 94
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d204581c78a401e40800000000000000
-      internalID: 5625077881513525293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_2
-      rect:
-        serializedVersion: 2
-        x: 2180
-        y: 62
-        width: 52
-        height: 60
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0571277de567f3620800000000000000
-      internalID: 2756051646687614800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_3
-      rect:
-        serializedVersion: 2
-        x: 2184
-        y: 31
-        width: 48
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2067aac8749351260800000000000000
-      internalID: 7067618169693304322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_4
-      rect:
-        serializedVersion: 2
-        x: 2188
-        y: 74
-        width: 13
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09b6745153741cab0800000000000000
-      internalID: -4989628618833958000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_5
-      rect:
-        serializedVersion: 2
-        x: 2372
-        y: 74
-        width: 52
-        height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76a990a1b0ac28d40800000000000000
-      internalID: 5585248636923124327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Luck_Potion_6
       rect:
         serializedVersion: 2
-        x: 2374
-        y: 31
-        width: 52
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1152
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,22 +319,154 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luck_Potion_7
+      name: Luck_Potion_0
       rect:
         serializedVersion: 2
-        x: 2381
-        y: 74
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 486fbac0c31feacd0800000000000000
+      spriteID: a8df8d4d03afa5f48af4a89225802ba3
+      internalID: 377051624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3037dfc78ea1446ab7fac07d923f2b
+      internalID: -334796926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f3b032070789744bcb2010c65a7626
+      internalID: 2756051646687614800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68150d1477e6148a9d8886750880eb
+      internalID: 1327493808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddafa70239f818b4baea8806a17ddffb
+      internalID: -4989628618833958000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9876f6fc00aebbf49b2342bf1f83582d
+      internalID: 5585248636923124327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luck_Potion_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3e80ac8d48c64caad6a8cc3f5a9fe
       internalID: -2544831499204823420
       vertices: []
       indices: 
@@ -476,19 +476,19 @@ TextureImporter:
       name: Luck_Potion_8
       rect:
         serializedVersion: 2
-        x: 2564
-        y: 75
-        width: 20
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 06fa2c3c1d8796750800000000000000
+      spriteID: 870848a3742097645b9db715e5100f8c
       internalID: 6298698396182163296
       vertices: []
       indices: 
@@ -498,20 +498,20 @@ TextureImporter:
       name: Luck_Potion_9
       rect:
         serializedVersion: 2
-        x: 2565
-        y: 31
-        width: 55
-        height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1728
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 271661a87b956e650800000000000000
-      internalID: 6261790976735863154
+      spriteID: f92a4fbb3432b264db560ce3eae5a6d2
+      internalID: -1628164249
       vertices: []
       indices: 
       edges: []
@@ -520,19 +520,19 @@ TextureImporter:
       name: Luck_Potion_10
       rect:
         serializedVersion: 2
-        x: 2598
-        y: 75
-        width: 18
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1920
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c3451eb673ca3e1b0800000000000000
+      spriteID: e39276ea8edbb0e46b36af4b0a47e792
       internalID: -5628465755249880004
       vertices: []
       indices: 
@@ -542,20 +542,20 @@ TextureImporter:
       name: Luck_Potion_11
       rect:
         serializedVersion: 2
-        x: 2755
-        y: 31
-        width: 59
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2112
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d497fbcb67c27b20800000000000000
-      internalID: 3130783956773344465
+      spriteID: 4df5bf8cee8f8d04e94ff9599f7ff81e
+      internalID: 2032588917
       vertices: []
       indices: 
       edges: []
@@ -564,19 +564,19 @@ TextureImporter:
       name: Luck_Potion_12
       rect:
         serializedVersion: 2
-        x: 2756
-        y: 75
-        width: 20
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2304
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3a6864d4c7e9a2a90800000000000000
+      spriteID: cf8689ea5938c1d43a563e9491647d57
       internalID: -7337878386137200989
       vertices: []
       indices: 
@@ -586,19 +586,19 @@ TextureImporter:
       name: Luck_Potion_13
       rect:
         serializedVersion: 2
-        x: 2785
-        y: 75
-        width: 23
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2496
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de0436bda8fa33170800000000000000
+      spriteID: d6ffa865c9192c94ca31368ce79745c8
       internalID: 8157056361019162861
       vertices: []
       indices: 
@@ -608,20 +608,20 @@ TextureImporter:
       name: Luck_Potion_14
       rect:
         serializedVersion: 2
-        x: 2945
-        y: 31
-        width: 62
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2688
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e16c518d29851c40800000000000000
-      internalID: 5482438949930295784
+      spriteID: 13b54c8f960d5ce43b16dd22b3520d77
+      internalID: -1238616464
       vertices: []
       indices: 
       edges: []
@@ -630,19 +630,19 @@ TextureImporter:
       name: Luck_Potion_15
       rect:
         serializedVersion: 2
-        x: 2957
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2880
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81d93dbde57321d10800000000000000
+      spriteID: 99e9bf719ceff0f4092c1f3af39c3df1
       internalID: 2094797657235234072
       vertices: []
       indices: 
@@ -652,19 +652,19 @@ TextureImporter:
       name: Luck_Potion_16
       rect:
         serializedVersion: 2
-        x: 2979
-        y: 75
-        width: 14
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3072
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0df498fbcff6cfc50800000000000000
+      spriteID: 827083306a363fa478fa0c20f094438a
       internalID: 6700353476956344272
       vertices: []
       indices: 
@@ -674,20 +674,20 @@ TextureImporter:
       name: Luck_Potion_17
       rect:
         serializedVersion: 2
-        x: 3137
-        y: 31
-        width: 64
-        height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3264
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 824736a4de31c8af0800000000000000
-      internalID: -392917157611867096
+      spriteID: 23316ece6c9e8d347acd23db7420aec5
+      internalID: 952646392
       vertices: []
       indices: 
       edges: []
@@ -696,19 +696,19 @@ TextureImporter:
       name: Luck_Potion_18
       rect:
         serializedVersion: 2
-        x: 3149
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3456
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d75731c8729eae740800000000000000
+      spriteID: c8ff4196192947f469f4b3cd7d663a0e
       internalID: 5182210677306258813
       vertices: []
       indices: 
@@ -718,19 +718,19 @@ TextureImporter:
       name: Luck_Potion_19
       rect:
         serializedVersion: 2
-        x: 3174
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3648
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b00392d10cac4b610800000000000000
+      spriteID: 7cfeb393cbc35af4182b86dfc4971cab
       internalID: 1636155491114102795
       vertices: []
       indices: 
@@ -740,20 +740,20 @@ TextureImporter:
       name: Luck_Potion_20
       rect:
         serializedVersion: 2
-        x: 3329
-        y: 31
-        width: 64
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3840
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 96e1c7ae269e722b0800000000000000
-      internalID: -5609258199816593815
+      spriteID: 05f1a9c4918e3f6409ad62c84e759522
+      internalID: -1776823995
       vertices: []
       indices: 
       edges: []
@@ -762,812 +762,20 @@ TextureImporter:
       name: Luck_Potion_21
       rect:
         serializedVersion: 2
-        x: 3341
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 4032
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17a9d17c06e5c9980800000000000000
+      spriteID: 33277b133651aba45936d32d0f440684
       internalID: -8530839824396084623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_22
-      rect:
-        serializedVersion: 2
-        x: 3366
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2f8513c5849b6c80800000000000000
-      internalID: -8328399783667069140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_23
-      rect:
-        serializedVersion: 2
-        x: 3521
-        y: 31
-        width: 64
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a1537fb69ff74c690800000000000000
-      internalID: -7582795163350125286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_24
-      rect:
-        serializedVersion: 2
-        x: 3533
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ca4c74da452b8fe0800000000000000
-      internalID: -1185813073559270719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_25
-      rect:
-        serializedVersion: 2
-        x: 3558
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f86350a451dae4900800000000000000
-      internalID: 670663701472556687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_26
-      rect:
-        serializedVersion: 2
-        x: 3713
-        y: 31
-        width: 64
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 864f4444a624b3930800000000000000
-      internalID: 4123962907967157352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_27
-      rect:
-        serializedVersion: 2
-        x: 3725
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 395bcb2aecd9f66f0800000000000000
-      internalID: -689158707145296493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_28
-      rect:
-        serializedVersion: 2
-        x: 3750
-        y: 75
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4aa7f467fbf4217e0800000000000000
-      internalID: -1796285617625138524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_29
-      rect:
-        serializedVersion: 2
-        x: 3905
-        y: 31
-        width: 64
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b3d0cd76abbf5020800000000000000
-      internalID: 2332789455749960632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_30
-      rect:
-        serializedVersion: 2
-        x: 4097
-        y: 31
-        width: 64
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b748cf65462b8a910800000000000000
-      internalID: 1848923791061451899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_31
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 31
-        width: 40
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 776919650dd880bc0800000000000000
-      internalID: -3816644758251399561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_32
-      rect:
-        serializedVersion: 2
-        x: 269
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2c20b6ac22c622b0800000000000000
-      internalID: -5609582788812461012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_33
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 642947def18584b80800000000000000
-      internalID: -8410375409963331002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_34
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 073698a37a42f9380800000000000000
-      internalID: -8962404432783776912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_35
-      rect:
-        serializedVersion: 2
-        x: 846
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af34092ffc5d64ef0800000000000000
-      internalID: -124176850601622534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_36
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5946bc98570265d0800000000000000
-      internalID: -3070883918745548452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_37
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c313b35040f17cc0800000000000000
-      internalID: -3714924058531130432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_38
-      rect:
-        serializedVersion: 2
-        x: 1420
-        y: 31
-        width: 38
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea3b14582bfb91960800000000000000
-      internalID: 7573295021860959150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_39
-      rect:
-        serializedVersion: 2
-        x: 1611
-        y: 31
-        width: 37
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 170751177d6476120800000000000000
-      internalID: 2406970416981962865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_40
-      rect:
-        serializedVersion: 2
-        x: 2176
-        y: 53
-        width: 13
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe62914158d6b63f0800000000000000
-      internalID: -906510481649752337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_41
-      rect:
-        serializedVersion: 2
-        x: 2224
-        y: 53
-        width: 13
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e2742739906a96b0800000000000000
-      internalID: -5288808601221827869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_42
-      rect:
-        serializedVersion: 2
-        x: 2369
-        y: 53
-        width: 11
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 200e507ddb2d79c80800000000000000
-      internalID: -8315946474118193150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_43
-      rect:
-        serializedVersion: 2
-        x: 2417
-        y: 53
-        width: 11
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9389c0cc34ee6ac10800000000000000
-      internalID: 2064599454149548089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_44
-      rect:
-        serializedVersion: 2
-        x: 2561
-        y: 54
-        width: 11
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d1ba198a291b5210800000000000000
-      internalID: 1322678586042921426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_45
-      rect:
-        serializedVersion: 2
-        x: 2609
-        y: 54
-        width: 11
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15851903752c8f6f0800000000000000
-      internalID: -650556466422261679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_46
-      rect:
-        serializedVersion: 2
-        x: 2753
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4806b779648ef2b90800000000000000
-      internalID: -7264332284038520700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_47
-      rect:
-        serializedVersion: 2
-        x: 2801
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32b5c149ebfd4fef0800000000000000
-      internalID: -75189284136789213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_48
-      rect:
-        serializedVersion: 2
-        x: 2945
-        y: 49
-        width: 11
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9efb35d0f2a368c0800000000000000
-      internalID: -4007180088176279906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_49
-      rect:
-        serializedVersion: 2
-        x: 2993
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05c6942e3ed165440800000000000000
-      internalID: 4924156107167460432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_50
-      rect:
-        serializedVersion: 2
-        x: 3137
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a81dfbee61e5a7240800000000000000
-      internalID: 4790244606249783690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_51
-      rect:
-        serializedVersion: 2
-        x: 3185
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: def6ec38c5a658800800000000000000
-      internalID: 614013869786820589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_52
-      rect:
-        serializedVersion: 2
-        x: 3329
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13b596f9e83b388d0800000000000000
-      internalID: -2845233114426811599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_53
-      rect:
-        serializedVersion: 2
-        x: 3377
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 107ac80b2732df500800000000000000
-      internalID: 431540114792687361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_54
-      rect:
-        serializedVersion: 2
-        x: 3521
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91c244aee50077d10800000000000000
-      internalID: 2123166156985740313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_55
-      rect:
-        serializedVersion: 2
-        x: 3569
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 313673dea495e6fc0800000000000000
-      internalID: -3499761682078014701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_56
-      rect:
-        serializedVersion: 2
-        x: 3713
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cebe5cb0fa91668f0800000000000000
-      internalID: -547722065071445012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luck_Potion_57
-      rect:
-        serializedVersion: 2
-        x: 3761
-        y: 54
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47ae4678311644fe0800000000000000
-      internalID: -1205732063724639628
       vertices: []
       indices: 
       edges: []
@@ -1586,64 +794,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Luck_Potion_0: -6854464868144387879
-      Luck_Potion_1: 5625077881513525293
+      Luck_Potion_0: 377051624
+      Luck_Potion_1: -334796926
       Luck_Potion_10: -5628465755249880004
-      Luck_Potion_11: 3130783956773344465
+      Luck_Potion_11: 2032588917
       Luck_Potion_12: -7337878386137200989
       Luck_Potion_13: 8157056361019162861
-      Luck_Potion_14: 5482438949930295784
+      Luck_Potion_14: -1238616464
       Luck_Potion_15: 2094797657235234072
       Luck_Potion_16: 6700353476956344272
-      Luck_Potion_17: -392917157611867096
+      Luck_Potion_17: 952646392
       Luck_Potion_18: 5182210677306258813
       Luck_Potion_19: 1636155491114102795
       Luck_Potion_2: 2756051646687614800
-      Luck_Potion_20: -5609258199816593815
+      Luck_Potion_20: -1776823995
       Luck_Potion_21: -8530839824396084623
-      Luck_Potion_22: -8328399783667069140
-      Luck_Potion_23: -7582795163350125286
-      Luck_Potion_24: -1185813073559270719
-      Luck_Potion_25: 670663701472556687
-      Luck_Potion_26: 4123962907967157352
-      Luck_Potion_27: -689158707145296493
-      Luck_Potion_28: -1796285617625138524
-      Luck_Potion_29: 2332789455749960632
-      Luck_Potion_3: 7067618169693304322
-      Luck_Potion_30: 1848923791061451899
-      Luck_Potion_31: -3816644758251399561
-      Luck_Potion_32: -5609582788812461012
-      Luck_Potion_33: -8410375409963331002
-      Luck_Potion_34: -8962404432783776912
-      Luck_Potion_35: -124176850601622534
-      Luck_Potion_36: -3070883918745548452
-      Luck_Potion_37: -3714924058531130432
-      Luck_Potion_38: 7573295021860959150
-      Luck_Potion_39: 2406970416981962865
+      Luck_Potion_3: 1327493808
       Luck_Potion_4: -4989628618833958000
-      Luck_Potion_40: -906510481649752337
-      Luck_Potion_41: -5288808601221827869
-      Luck_Potion_42: -8315946474118193150
-      Luck_Potion_43: 2064599454149548089
-      Luck_Potion_44: 1322678586042921426
-      Luck_Potion_45: -650556466422261679
-      Luck_Potion_46: -7264332284038520700
-      Luck_Potion_47: -75189284136789213
-      Luck_Potion_48: -4007180088176279906
-      Luck_Potion_49: 4924156107167460432
       Luck_Potion_5: 5585248636923124327
-      Luck_Potion_50: 4790244606249783690
-      Luck_Potion_51: 614013869786820589
-      Luck_Potion_52: -2845233114426811599
-      Luck_Potion_53: 431540114792687361
-      Luck_Potion_54: 2123166156985740313
-      Luck_Potion_55: -3499761682078014701
-      Luck_Potion_56: -547722065071445012
-      Luck_Potion_57: -1205732063724639628
       Luck_Potion_6: 2854622194624952299
       Luck_Potion_7: -2544831499204823420
       Luck_Potion_8: 6298698396182163296
-      Luck_Potion_9: 6261790976735863154
+      Luck_Potion_9: -1628164249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -174,7 +174,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -231,12 +231,12 @@ TextureImporter:
       name: Mana_Potion_0
       rect:
         serializedVersion: 2
-        x: 2405
-        y: 77
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,12 +253,12 @@ TextureImporter:
       name: Mana_Potion_1
       rect:
         serializedVersion: 2
-        x: 2597
-        y: 78
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 192
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: Mana_Potion_2
       rect:
         serializedVersion: 2
-        x: 2789
-        y: 79
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 384
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,12 +297,12 @@ TextureImporter:
       name: Mana_Potion_3
       rect:
         serializedVersion: 2
-        x: 2981
-        y: 80
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 576
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: Mana_Potion_4
       rect:
         serializedVersion: 2
-        x: 3173
-        y: 81
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 768
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,12 +341,12 @@ TextureImporter:
       name: Mana_Potion_5
       rect:
         serializedVersion: 2
-        x: 3365
-        y: 82
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 960
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,12 +363,12 @@ TextureImporter:
       name: Mana_Potion_6
       rect:
         serializedVersion: 2
-        x: 3557
-        y: 83
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1152
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,12 +385,12 @@ TextureImporter:
       name: Mana_Potion_7
       rect:
         serializedVersion: 2
-        x: 2021
-        y: 75
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1344
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,12 +407,12 @@ TextureImporter:
       name: Mana_Potion_8
       rect:
         serializedVersion: 2
-        x: 2213
-        y: 76
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,12 +429,12 @@ TextureImporter:
       name: Mana_Potion_9
       rect:
         serializedVersion: 2
-        x: 2373
-        y: 31
-        width: 48
-        height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1728
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,12 +451,12 @@ TextureImporter:
       name: Mana_Potion_10
       rect:
         serializedVersion: 2
-        x: 2564
-        y: 31
-        width: 54
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1920
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -473,12 +473,12 @@ TextureImporter:
       name: Mana_Potion_11
       rect:
         serializedVersion: 2
-        x: 2757
-        y: 31
-        width: 52
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2112
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -495,12 +495,12 @@ TextureImporter:
       name: Mana_Potion_12
       rect:
         serializedVersion: 2
-        x: 2948
-        y: 31
-        width: 53
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2304
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -517,12 +517,12 @@ TextureImporter:
       name: Mana_Potion_13
       rect:
         serializedVersion: 2
-        x: 3140
-        y: 31
-        width: 53
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2496
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,12 +539,12 @@ TextureImporter:
       name: Mana_Potion_14
       rect:
         serializedVersion: 2
-        x: 3149
-        y: 70
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2688
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -561,12 +561,12 @@ TextureImporter:
       name: Mana_Potion_15
       rect:
         serializedVersion: 2
-        x: 3331
-        y: 31
-        width: 55
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2880
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -583,12 +583,12 @@ TextureImporter:
       name: Mana_Potion_16
       rect:
         serializedVersion: 2
-        x: 3533
-        y: 72
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3072
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: Mana_Potion_17
       rect:
         serializedVersion: 2
-        x: 76
-        y: 31
-        width: 40
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3264
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -627,12 +627,12 @@ TextureImporter:
       name: Mana_Potion_18
       rect:
         serializedVersion: 2
-        x: 269
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3456
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -649,12 +649,12 @@ TextureImporter:
       name: Mana_Potion_19
       rect:
         serializedVersion: 2
-        x: 462
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3648
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -671,12 +671,12 @@ TextureImporter:
       name: Mana_Potion_20
       rect:
         serializedVersion: 2
-        x: 654
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3840
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -693,12 +693,12 @@ TextureImporter:
       name: Mana_Potion_21
       rect:
         serializedVersion: 2
-        x: 846
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 4032
+        y: 0
+        width: 192
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -707,292 +707,6 @@ TextureImporter:
       bones: []
       spriteID: 00caff60d97612530800000000000000
       internalID: 3828455082366577664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_22
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83ab38d8c03fa3fb0800000000000000
-      internalID: -4667150828576720328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_23
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 31
-        width: 39
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 297e96a82a2699db0800000000000000
-      internalID: -4784684678858020974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_24
-      rect:
-        serializedVersion: 2
-        x: 1420
-        y: 31
-        width: 38
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 111f015ea3e5cf570800000000000000
-      internalID: 8501773803612860689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_25
-      rect:
-        serializedVersion: 2
-        x: 1611
-        y: 31
-        width: 37
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfa5633e2132abe00800000000000000
-      internalID: 1061199226227546875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_26
-      rect:
-        serializedVersion: 2
-        x: 1803
-        y: 31
-        width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 379bd3ad83f5921c0800000000000000
-      internalID: -4527983252560037517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_27
-      rect:
-        serializedVersion: 2
-        x: 1988
-        y: 31
-        width: 44
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a49a0ea71e906e90800000000000000
-      internalID: -7034448793411349338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_28
-      rect:
-        serializedVersion: 2
-        x: 2181
-        y: 31
-        width: 54
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eea2645d1fb0d4760800000000000000
-      internalID: 7443618892406467310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_29
-      rect:
-        serializedVersion: 2
-        x: 2410
-        y: 50
-        width: 16
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 777e0e0e34e1ed7d0800000000000000
-      internalID: -2891840633840801929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_30
-      rect:
-        serializedVersion: 2
-        x: 3523
-        y: 31
-        width: 55
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8752c3fceca5cc710800000000000000
-      internalID: 1714845402407904632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_31
-      rect:
-        serializedVersion: 2
-        x: 3715
-        y: 31
-        width: 55
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3aebee10a79a7ec0800000000000000
-      internalID: -3568373040768357829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_32
-      rect:
-        serializedVersion: 2
-        x: 3915
-        y: 31
-        width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 418c1e6ac7c8b5e70800000000000000
-      internalID: 9105025538663237652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_33
-      rect:
-        serializedVersion: 2
-        x: 4107
-        y: 31
-        width: 37
-        height: 44
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df518417f72e318a0800000000000000
-      internalID: -6335471213790882307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mana_Potion_34
-      rect:
-        serializedVersion: 2
-        x: 1993
-        y: 37
-        width: 9
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c70cd018baadaffe0800000000000000
-      internalID: -1154369924327686020
       vertices: []
       indices: 
       edges: []
@@ -1026,20 +740,7 @@ TextureImporter:
       Mana_Potion_2: 8007352451270948935
       Mana_Potion_20: 4779273618536507464
       Mana_Potion_21: 3828455082366577664
-      Mana_Potion_22: -4667150828576720328
-      Mana_Potion_23: -4784684678858020974
-      Mana_Potion_24: 8501773803612860689
-      Mana_Potion_25: 1061199226227546875
-      Mana_Potion_26: -4527983252560037517
-      Mana_Potion_27: -7034448793411349338
-      Mana_Potion_28: 7443618892406467310
-      Mana_Potion_29: -2891840633840801929
       Mana_Potion_3: 8019776362311704345
-      Mana_Potion_30: 1714845402407904632
-      Mana_Potion_31: -3568373040768357829
-      Mana_Potion_32: 9105025538663237652
-      Mana_Potion_33: -6335471213790882307
-      Mana_Potion_34: -1154369924327686020
       Mana_Potion_4: 5522543804300470558
       Mana_Potion_5: -2123355141528410586
       Mana_Potion_6: -3809976802990410432

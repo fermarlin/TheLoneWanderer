@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.Serialization;
 using UnityEngine;
 /*Este script se encarga de gestionar las animaciones del player
@@ -8,12 +10,45 @@ public class PlayerAnimator : MonoBehaviour
     private PlayerController player;
     private PlayerCombo combo;
     private PlayerShieldThrow shield;
+    private Health health;
     private Animator animator;
     private bool wasOnWall;
     private bool previousForcedFall;
     [SerializeField] private PlayerVFX jumpEffect;
     [SerializeField] private PlayerVFX wallJumpEffect;
     [SerializeField] private PlayerVFX dashEffect;
+
+    [SerializeField] private GameEventsSO gameEvents;
+    [SerializeField, Min(0.05f)] private float doubleJumpUnlockDuration = 2f;
+    [SerializeField, Min(0.05f)] private float wallJumpUnlockDuration = 2f;
+    [SerializeField, Min(0.05f)] private float dashUnlockDuration = 2f;
+
+    private enum UnlockType { DoubleJump, WallJump, Dash }
+    private readonly Queue<UnlockType> pendingUnlocks = new Queue<UnlockType>();
+    private GameEventsSO subscribedEvents;
+    private Coroutine unlockCoroutine;
+    private bool showingUnlock;
+    private AnimatorUpdateMode previousUpdateMode;
+    private AnimatorCullingMode previousCullingMode;
+    private GameOrchestrator pauseOwner;
+
+    [SerializeField] private string hurtTriggerName = "Hurt";
+    private int hurtTriggerHash;
+
+
+    [SerializeField, Min(0.05f)] private float deathAnimationDuration = 1.2f;
+
+    [SerializeField] private string respawnIdleState = "Base Layer.MainChar_Idle";
+
+    private static readonly int Death = Animator.StringToHash("Death");
+    private bool isPlayingDeath;
+    private AnimatorUpdateMode animatorModeBeforeDeath;
+    public float DeathAnimationDuration => Mathf.Max(0.05f, deathAnimationDuration);
+    public bool IsPlayingDeath => isPlayingDeath;
+
+    private static readonly int UnlockDoubleJump = Animator.StringToHash("UnlockDoubleJump");
+    private static readonly int UnlockWallJump = Animator.StringToHash("UnlockWallJump");
+    private static readonly int UnlockDash = Animator.StringToHash("UnlockDash");
 
     private static readonly int ShieldThrow = Animator.StringToHash("ShieldThrow");
     private static readonly int ShieldCatch = Animator.StringToHash("ShieldCatch");
@@ -70,18 +105,13 @@ public class PlayerAnimator : MonoBehaviour
         if (animator == null)
             animator = GetComponentInChildren<Animator>();
 
-        if (player == null || animator == null)
-        {
-            Debug.LogError(
-                "PlayerAnimator: PlayerController or Animator was not found.",
-                this
-            );
-
-            enabled = false;
-            return;
-        }
 
         animator.updateMode = AnimatorUpdateMode.Normal;
+        hurtTriggerHash = Animator.StringToHash(hurtTriggerName);
+
+        health = GetComponentInParent<Health>();
+        if (health == null)
+            health = GetComponent<Health>();
     }
 
     void OnEnable()
@@ -113,6 +143,23 @@ public class PlayerAnimator : MonoBehaviour
             shield.OnShieldPreparing += HandleShieldThrow;
             shield.OnShieldRecovered += HandleShieldCatch;
         }
+
+        if (health == null)
+            health = GetComponentInParent<Health>();
+        if (health != null)
+        {
+            health.OnDamaged += HandleDamage;
+            health.OnDied += HandleDeath;
+        }
+
+        GameOrchestrator orchestrator = GameOrchestrator.Instance;
+        subscribedEvents = orchestrator != null ? orchestrator.Events : gameEvents;
+        if (subscribedEvents != null)
+        {
+            subscribedEvents.OnDoubleJumpUnlocked += HandleDoubleJumpUnlocked;
+            subscribedEvents.OnWallJumpUnlocked += HandleWallJumpUnlocked;
+            subscribedEvents.OnDashUnlocked += HandleDashUnlocked;
+        }
     }
 
     void OnDisable()
@@ -135,6 +182,28 @@ public class PlayerAnimator : MonoBehaviour
             shield.OnShieldPreparing -= HandleShieldThrow;
             shield.OnShieldRecovered -= HandleShieldCatch;
         }
+
+        if (health != null)
+        {
+            health.OnDamaged -= HandleDamage;
+            health.OnDied -= HandleDeath;
+        }
+
+        if (subscribedEvents != null)
+        {
+            subscribedEvents.OnDoubleJumpUnlocked -= HandleDoubleJumpUnlocked;
+            subscribedEvents.OnWallJumpUnlocked -= HandleWallJumpUnlocked;
+            subscribedEvents.OnDashUnlocked -= HandleDashUnlocked;
+            subscribedEvents = null;
+        }
+
+        if (unlockCoroutine != null)
+        {
+            StopCoroutine(unlockCoroutine);
+            unlockCoroutine = null;
+        }
+        pendingUnlocks.Clear();
+        EndUnlockPresentation();
     }
 
     private bool HasParameter(int hash, AnimatorControllerParameterType comboType)
@@ -145,9 +214,111 @@ public class PlayerAnimator : MonoBehaviour
         return false;
     }
 
-    //Empieza la animacion al pulsar, no cuando aparece el proyectil. Esto lo hice porque la animacion que tenemos tarda un plein en lanzarlo
+    private void HandleDamage(int amount)
+    {
+        if (animator == null || showingUnlock || isPlayingDeath || (health != null && health.IsDead) || amount <= 0)
+            return;
+
+
+        ClearAttackTriggers();
+        animator.ResetTrigger(AttackEnd);
+        animator.ResetTrigger(Jump);
+        animator.ResetTrigger(Dash);
+        animator.SetBool(IsOnWall, false);
+        animator.SetBool(Falling, false);
+        animator.SetFloat(Speed, 0f);
+        animator.ResetTrigger(hurtTriggerHash);
+        animator.SetTrigger(hurtTriggerHash);
+    }
+
+    private void HandleDeath()
+    {
+        if (isPlayingDeath || animator == null)
+            return;
+
+        if (unlockCoroutine != null)
+        {
+            StopCoroutine(unlockCoroutine);
+            unlockCoroutine = null;
+        }
+        pendingUnlocks.Clear();
+        EndUnlockPresentation();
+
+        isPlayingDeath = true;
+        animatorModeBeforeDeath = animator.updateMode;
+        animator.updateMode = AnimatorUpdateMode.UnscaledTime;
+        ClearAttackTriggers();
+        animator.ResetTrigger(AttackEnd);
+        animator.ResetTrigger(Jump);
+        animator.ResetTrigger(Dash);
+        animator.ResetTrigger(ShieldThrow);
+        animator.ResetTrigger(ShieldCatch);
+        animator.ResetTrigger(UnlockDoubleJump);
+        animator.ResetTrigger(UnlockWallJump);
+        animator.ResetTrigger(UnlockDash);
+        if (HasParameter(hurtTriggerHash, AnimatorControllerParameterType.Trigger))
+            animator.ResetTrigger(hurtTriggerHash);
+        animator.SetFloat(Speed, 0f);
+        animator.SetBool(IsOnWall, false);
+        animator.SetBool(Falling, false);
+
+        if (HasParameter(Death, AnimatorControllerParameterType.Trigger))
+        {
+            animator.ResetTrigger(Death);
+            animator.SetTrigger(Death);
+        }
+    }
+
+
+    public void ResetAfterRespawn()
+    {
+        if (animator == null)
+        {
+            isPlayingDeath = false;
+            return;
+        }
+
+        animator.ResetTrigger(Death);
+        if (HasParameter(hurtTriggerHash, AnimatorControllerParameterType.Trigger))
+            animator.ResetTrigger(hurtTriggerHash);
+        ClearAttackTriggers();
+        animator.ResetTrigger(AttackEnd);
+        animator.ResetTrigger(Jump);
+        animator.ResetTrigger(Dash);
+        animator.ResetTrigger(ShieldThrow);
+        animator.ResetTrigger(ShieldCatch);
+        animator.ResetTrigger(UnlockDoubleJump);
+        animator.ResetTrigger(UnlockWallJump);
+        animator.ResetTrigger(UnlockDash);
+
+        //Esto evita que quede activa alguna condicion de antes de morir.
+        animator.SetBool(ShieldAway, false);
+        animator.SetFloat(Speed, 0f);
+        animator.SetBool(IsOnWall, false);
+        animator.SetBool(Falling, false);
+        animator.SetBool(Grounded, player != null && player.IsGrounded);
+
+        wasOnWall = false;
+        previousForcedFall = false;
+        isPlayingDeath = false;
+        animator.updateMode = animatorModeBeforeDeath;
+
+        string stateName = string.IsNullOrWhiteSpace(respawnIdleState)
+            ? "Base Layer.MainChar_Idle"
+            : respawnIdleState.Trim();
+
+        int idleStateHash = Animator.StringToHash(stateName);
+        if (animator.HasState(0, idleStateHash))
+        {
+            animator.Play(idleStateHash, 0, 0f);
+        }
+    }
+
     private void HandleShieldThrow()
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
             animator.SetBool(ShieldAway, true);
             animator.ResetTrigger(ShieldCatch);
             animator.ResetTrigger(ShieldThrow);
@@ -157,6 +328,9 @@ public class PlayerAnimator : MonoBehaviour
 
     private void HandleShieldCatch()
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
             animator.SetBool(ShieldAway, false);
             animator.ResetTrigger(ShieldThrow);
             animator.ResetTrigger(ShieldCatch);
@@ -165,8 +339,18 @@ public class PlayerAnimator : MonoBehaviour
 
     void Update()
     {
-        if (player == null || animator == null)
+        TryStartUnlockPresentation();
+
+        if (showingUnlock || isPlayingDeath || player == null || animator == null)
             return;
+
+        if (player.IsInDamageKnockback)
+        {
+            animator.SetFloat(Speed, 0f);
+            animator.SetBool(IsOnWall, false);
+            animator.SetBool(Falling, false);
+            return;
+        }
 
         if (player.IsShieldInFlight)
         {
@@ -244,6 +428,9 @@ public class PlayerAnimator : MonoBehaviour
 
     private void FinishComboAnimation(bool interrupted)
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
         if (animator == null)
             return;
 
@@ -264,6 +451,9 @@ public class PlayerAnimator : MonoBehaviour
 
     private void HandleAttack(int attackNumber, PlayerCombo.ComboType comboType)
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
         if (animator == null)
             return;
 
@@ -279,8 +469,6 @@ public class PlayerAnimator : MonoBehaviour
         animator.SetBool(IsOnWall, false);
         animator.SetBool(Falling, false);
 
-        // El primer golpe de cada rama parte de Any State.
-        // Los siguientes SOLO se alcanzan desde el golpe previo.
         switch (comboType)
         {
             case PlayerCombo.ComboType.Running:
@@ -311,6 +499,9 @@ public class PlayerAnimator : MonoBehaviour
 
     private void HandleDash()
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
         animator.ResetTrigger(AttackEnd);
         ClearAttackTriggers();
         animator.ResetTrigger(Jump);
@@ -319,11 +510,15 @@ public class PlayerAnimator : MonoBehaviour
         animator.SetBool(Grounded, false);
         animator.ResetTrigger(Dash);
         animator.SetTrigger(Dash);
-        dashEffect.PlayVFX();
+        if (dashEffect != null)
+            dashEffect.PlayVFX();
     }
 
     void HandleJump()
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
         animator.SetBool(Grounded, false);
         animator.SetBool(IsOnWall, false);
         animator.SetBool(Falling, false);
@@ -339,6 +534,9 @@ public class PlayerAnimator : MonoBehaviour
 
     void HandleWallJump()
     {
+        if (showingUnlock || isPlayingDeath)
+            return;
+
         if (animator == null)
             return;
 
@@ -359,4 +557,117 @@ public class PlayerAnimator : MonoBehaviour
             wallJumpEffect.PlayVFX(wallSide);
         }
     }
+
+    private void HandleDoubleJumpUnlocked() => QueueUnlock(UnlockType.DoubleJump);
+    private void HandleWallJumpUnlocked() => QueueUnlock(UnlockType.WallJump);
+    private void HandleDashUnlocked() => QueueUnlock(UnlockType.Dash);
+
+    private int UnlockTrigger(UnlockType ability)
+    {
+        switch (ability)
+        {
+            case UnlockType.DoubleJump: return UnlockDoubleJump;
+            case UnlockType.WallJump: return UnlockWallJump;
+            default: return UnlockDash;
+        }
+    }
+
+    private float UnlockDuration(UnlockType ability)
+    {
+        switch (ability)
+        {
+            case UnlockType.DoubleJump: return doubleJumpUnlockDuration;
+            case UnlockType.WallJump: return wallJumpUnlockDuration;
+            default: return dashUnlockDuration;
+        }
+    }
+
+    private void QueueUnlock(UnlockType ability)
+    {
+        if (isPlayingDeath) return;
+        int trigger = UnlockTrigger(ability);
+
+
+        pendingUnlocks.Enqueue(ability);
+        TryStartUnlockPresentation();
+    }
+
+    private void TryStartUnlockPresentation()
+    {
+        if (!isActiveAndEnabled || isPlayingDeath || animator == null ||
+            unlockCoroutine != null || showingUnlock || pendingUnlocks.Count == 0)
+            return;
+
+        GameOrchestrator orchestrator = GameOrchestrator.Instance;
+        if (orchestrator == null || orchestrator.GamePaused)
+            return;
+
+        unlockCoroutine = StartCoroutine(PlayUnlockQueue(orchestrator));
+    }
+
+    private IEnumerator PlayUnlockQueue(GameOrchestrator orchestrator)
+    {
+        showingUnlock = true;
+        previousUpdateMode = animator.updateMode;
+        previousCullingMode = animator.cullingMode;
+        animator.updateMode = AnimatorUpdateMode.UnscaledTime;
+        animator.cullingMode = AnimatorCullingMode.AlwaysAnimate;
+
+
+        pauseOwner = orchestrator;
+        orchestrator.AcquirePauseLock();
+        orchestrator.PauseGame(true);
+
+        while (pendingUnlocks.Count > 0)
+        {
+            UnlockType ability = pendingUnlocks.Dequeue();
+
+            ClearAttackTriggers();
+            animator.ResetTrigger(AttackEnd);
+            animator.ResetTrigger(Jump);
+            animator.ResetTrigger(Dash);
+            animator.ResetTrigger(ShieldThrow);
+            animator.ResetTrigger(ShieldCatch);
+            animator.ResetTrigger(UnlockDoubleJump);
+            animator.ResetTrigger(UnlockWallJump);
+            animator.ResetTrigger(UnlockDash);
+            animator.SetBool(IsOnWall, false);
+            animator.SetBool(Falling, false);
+            animator.SetFloat(Speed, 0f);
+
+            animator.SetTrigger(UnlockTrigger(ability));
+
+            yield return new WaitForSecondsRealtime(
+                Mathf.Max(0.05f, UnlockDuration(ability)));
+        }
+
+        EndUnlockPresentation();
+        unlockCoroutine = null;
+    }
+
+    private void EndUnlockPresentation()
+    {
+        if (!showingUnlock)
+            return;
+
+        showingUnlock = false;
+
+        if (animator != null)
+        {
+            animator.ResetTrigger(UnlockDoubleJump);
+            animator.ResetTrigger(UnlockWallJump);
+            animator.ResetTrigger(UnlockDash);
+            animator.updateMode = previousUpdateMode;
+            animator.cullingMode = previousCullingMode;
+        }
+
+        GameOrchestrator orchestrator = pauseOwner;
+        pauseOwner = null;
+        if (orchestrator != null)
+        {
+            orchestrator.ReleasePauseLock();
+            orchestrator.PauseGame(false);
+        }
+    }
+
 }

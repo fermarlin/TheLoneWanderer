@@ -20,20 +20,20 @@ MonoBehaviour:
   capaSuelo:
     serializedVersion: 2
     m_Bits: 64
-  dobleSaltoDesbloqueadoInicialmente: 1
+  dobleSaltoDesbloqueadoInicialmente: 0
   saltosExtra: 1
   multiplicadorDobleSalto: 1
   multiplicadorJumpCut: 0.5
   gravedadCaida: 2.5
   gravedadSubida: 1.2
   velocidadMaximaCaida: 25
-  saltoParedDesbloqueadoInicialmente: 1
+  saltoParedDesbloqueadoInicialmente: 0
   longitudRaycastPared: 1.4
   velocidadDeslizamiento: 2.5
   fuerzaWallJumpX: 15
   fuerzaWallJumpY: 10
   tiempoBloqueoMovimiento: 0.2
-  dashDesbloqueadoInicialmente: 1
+  dashDesbloqueadoInicialmente: 0
   velocidadDash: 25
   duracionDash: 0.2
   tiempoRecargaDash: 0.6
