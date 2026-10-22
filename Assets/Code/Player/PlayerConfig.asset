@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ba3d2867fcd6c94eadd1f81ba2c6403, type: 3}
   m_Name: PlayerConfig
   m_EditorClassIdentifier: 
-  vidaMaxima: 3
+  vidaMaxima: 10
   velocidad: 8
   fuerzaSalto: 10
   fuerzaRebote: 6
