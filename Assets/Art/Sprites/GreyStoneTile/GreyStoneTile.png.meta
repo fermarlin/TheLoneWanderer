@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -164,10 +164,10 @@ TextureImporter:
         serializedVersion: 2
         x: 24
         y: 0
-        width: 72
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: GreyStoneTile_1
       rect:
         serializedVersion: 2
-        x: 95
+        x: 48
         y: 0
-        width: 26
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: GreyStoneTile_2
       rect:
         serializedVersion: 2
-        x: 120
+        x: 72
         y: 0
-        width: 48
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: GreyStoneTile_3
       rect:
         serializedVersion: 2
-        x: 167
+        x: 96
         y: 0
-        width: 145
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: GreyStoneTile_4
       rect:
         serializedVersion: 2
-        x: 311
+        x: 120
         y: 0
         width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: GreyStoneTile_5
       rect:
         serializedVersion: 2
-        x: 337
+        x: 144
         y: 0
         width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: GreyStoneTile_6
       rect:
         serializedVersion: 2
-        x: 360
+        x: 168
         y: 0
-        width: 25
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: GreyStoneTile_7
       rect:
         serializedVersion: 2
-        x: 384
+        x: 192
         y: 0
-        width: 49
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: GreyStoneTile_8
       rect:
         serializedVersion: 2
-        x: 432
+        x: 216
         y: 0
         width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -360,12 +360,12 @@ TextureImporter:
       name: GreyStoneTile_9
       rect:
         serializedVersion: 2
-        x: 456
+        x: 240
         y: 0
-        width: 25
+        width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -382,12 +382,12 @@ TextureImporter:
       name: GreyStoneTile_10
       rect:
         serializedVersion: 2
-        x: 480
+        x: 264
         y: 0
         width: 24
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -404,12 +404,12 @@ TextureImporter:
       name: GreyStoneTile_11
       rect:
         serializedVersion: 2
-        x: 503
+        x: 288
         y: 0
-        width: 25
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -418,6 +418,204 @@ TextureImporter:
       bones: []
       spriteID: 278a616bf15293200800000000000000
       internalID: 160200079877515378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b2b96f0da729c4db332d89879514a6
+      internalID: 1589043404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859ae6ba13d4ec4785c244db5a4d996
+      internalID: -1862635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d00c61847eb941812ec0e5fe5d310
+      internalID: -242466011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab7fe924d66214c9c979b701995220
+      internalID: 1311650740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fddb94a32893b448178dc816049966
+      internalID: 1522068547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6b8bb0f10ba249bbd66809bc4eb91
+      internalID: 178688396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0cfdb9ba4cd341a456784d355ae6d
+      internalID: -1499722982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df2f46c4166094ca632cd89feb9d0b
+      internalID: -1334050351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStoneTile_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60c6302f6476349b6c86343e31ff4c
+      internalID: 1090717308
       vertices: []
       indices: 
       edges: []
@@ -440,7 +638,16 @@ TextureImporter:
       GreyStoneTile_1: 4375217469119622855
       GreyStoneTile_10: 6170366335522599553
       GreyStoneTile_11: 160200079877515378
+      GreyStoneTile_12: 1589043404
+      GreyStoneTile_13: -1862635929
+      GreyStoneTile_14: -242466011
+      GreyStoneTile_15: 1311650740
+      GreyStoneTile_16: 1522068547
+      GreyStoneTile_17: 178688396
+      GreyStoneTile_18: -1499722982
+      GreyStoneTile_19: -1334050351
       GreyStoneTile_2: 3586932109424230836
+      GreyStoneTile_20: 1090717308
       GreyStoneTile_3: 6385725073568708895
       GreyStoneTile_4: 6483710185559783760
       GreyStoneTile_5: -6599835090260577188
