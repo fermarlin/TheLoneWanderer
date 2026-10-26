@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
-//El sistema de cambio de escena, tambien sirve para cerrar el jeugo
+//Este script se encarga de la transicion entre escenas
 [DefaultExecutionOrder(-150)]
 public sealed class SceneTransitionManager : MonoBehaviour
 {
@@ -48,7 +48,7 @@ public sealed class SceneTransitionManager : MonoBehaviour
     {
         if (instance != null && instance != this)
         {
-            Destroy(gameObject);
+
             return;
         }
 
@@ -65,25 +65,48 @@ public sealed class SceneTransitionManager : MonoBehaviour
 
     public void ChangeScene(string sceneName)
     {
+        
+        if (instance != null && instance != this)
+        {
+            instance.ChangeScene(sceneName);
+            return;
+        }
+
         if (!isActiveAndEnabled || IsTransitioning)
             return;
 
+        if (string.IsNullOrWhiteSpace(sceneName) ||
+            !Application.CanStreamedLevelBeLoaded(sceneName))
+        {
+            Debug.LogError("[SceneTransitionManager] Escena no disponible en Build Profiles: " + sceneName, this);
+            return;
+        }
 
         GameOrchestrator orchestrator = GameOrchestrator.Instance;
+        if (orchestrator != null && orchestrator.IsPauseLocked)
+            return;
 
         ScreenFader fader = ScreenFader.Instance;
+        if (fader == null || !fader.TryAcquire(this))
+        {
+            Debug.LogWarning("[SceneTransitionManager] ScreenFader ocupado.", this);
+            return;
+        }
 
 
         if (orchestrator != null && orchestrator.GamePaused)
             orchestrator.ResumeGame();
+        Time.timeScale = 1f;
 
         IsTransitioning = true;
         StartCoroutine(ChangeSceneRoutine(sceneName, fader));
     }
 
-
     public bool FadeThroughBlack(Action whenBlack, Action whenFinished = null)
     {
+        if (instance != null && instance != this)
+        return instance.FadeThroughBlack(whenBlack, whenFinished);
+
         if (!isActiveAndEnabled || IsTransitioning)
             return false;
 
@@ -100,14 +123,7 @@ public sealed class SceneTransitionManager : MonoBehaviour
     {
         yield return fader.FadeOut(this, fadeOutSeconds);
 
-        try
-        {
-            whenBlack?.Invoke();
-        }
-        catch (Exception exception)
-        {
-            Debug.LogException(exception, this);
-        }
+        whenBlack?.Invoke();
 
         yield return null;
         yield return fader.FadeIn(this, fadeInSeconds);
@@ -140,6 +156,12 @@ public sealed class SceneTransitionManager : MonoBehaviour
 
         while (!operation.isDone)
             yield return null;
+
+
+        GameOrchestrator orchestrator = GameOrchestrator.Instance;
+        if (orchestrator != null && orchestrator.GamePaused && !orchestrator.IsPauseLocked)
+            orchestrator.ResumeGame();
+        Time.timeScale = 1f;
 
         yield return null;
         incomingPlayer = LockPlayer(FindFirstObjectByType<PlayerController>());
