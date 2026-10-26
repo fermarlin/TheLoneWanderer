@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 1838210248557290908}
   - component: {fileID: 2008309768009674487}
   - component: {fileID: 9057895344701509756}
-  - component: {fileID: 3292998926358222852}
   - component: {fileID: 5648889689264296062}
   - component: {fileID: 8239773256941386601}
   - component: {fileID: 1176928778088013032}
@@ -143,20 +142,8 @@ MonoBehaviour:
   wallJumpUnlockDuration: 1.2
   dashUnlockDuration: 1.2
   hurtTriggerName: Hurt
---- !u!114 &3292998926358222852
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1327972453177409247}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 499ce14879debf446a10bfed350dde24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  movementScripts:
-  - {fileID: 2008309768009674487}
+  deathAnimationDuration: 1.2
+  respawnIdleState: Base Layer.MainChar_Idle
 --- !u!114 &5648889689264296062
 MonoBehaviour:
   m_ObjectHideFlags: 0
