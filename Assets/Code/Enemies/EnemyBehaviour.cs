@@ -26,6 +26,9 @@ public abstract class EnemyBehaviour : MonoBehaviour
     [SerializeField] protected float maxPatrolTime = 5f;
     [SerializeField] protected float minWaitTime = 1f;
     [SerializeField] protected float maxWaitTime = 3f;
+ 
+    protected bool isSpawning = false;
+    protected bool hasSpawned = false;
 
     protected GameObject player;
     protected bool isPlayerInRange;
@@ -34,42 +37,80 @@ public abstract class EnemyBehaviour : MonoBehaviour
     protected int facingDirection = -1; // 1 derecha -1 izquierda
 
     protected bool isPatrolling = true;
-    protected bool hasSpawned = false;
     protected float patrolTimer;
     protected float waitTimer;
     protected bool isWaiting;
     protected bool isObstacleWait;
+    protected bool isAttacking = false;
+    protected bool isHit = false;
+    protected bool isDead = false;
 
+    protected Health health;
     protected Rigidbody2D rb;
+    protected SpriteRenderer spriteRenderer;
 
     protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer.enabled = false;
+
         facingDirection = (int)Mathf.Sign(transform.localScale.x);
+
+        health = GetComponent<Health>();
+        if (health != null)
+        {
+            health.OnDamaged += HandleDamaged;
+            health.OnDied += HandleDied;
+        }
     }
 
     protected virtual void Update()
     {
+        if (isDead)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+        if (isHit)
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
         LookForPlayer();
 
         if (!hasSpawned)
         {
-            if (isPlayerInRange)
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+
+            if (isPlayerInRange && !isSpawning)
             {
-                Spawn();
+                isSpawning = true;
+                spriteRenderer.enabled = true;
+                Spawn();           
             }
             return; 
         }
 
+        if (isAttacking)
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
         if (isPlayerInAttackRange)
         {
-            if (isPatrolling) EndPatrol();
+            if (isPatrolling) 
+            EndPatrol();
             AttackPlayer();
         }
-        else if (isPlayerInMovementRange && !isObstacleWait)
+        else if (isPlayerInMovementRange)
         {
 
-            if (isPatrolling) EndPatrol();
+            if (isPatrolling)
+            EndPatrol();
             MoveTowardsPlayer();
         }
         else
@@ -82,9 +123,14 @@ public abstract class EnemyBehaviour : MonoBehaviour
 
     protected virtual void Spawn()
     {
-        // animator
-        hasSpawned = true; 
         Debug.Log("Spawnea");
+    }
+
+    protected virtual void FinishSpawn()
+    {
+        hasSpawned = true;
+        isSpawning = false;
+        Debug.Log("Spawn terminado");
     }
 
     public virtual void LookForPlayer()
@@ -162,19 +208,73 @@ public abstract class EnemyBehaviour : MonoBehaviour
 
         if (Time.time >= e_nextAttackTime)
         {
-            Health playerHealth = player.GetComponent<Health>();
-            //animator
-            Debug.Log("Te pega un mascazo");
+            isAttacking = true;
+            e_nextAttackTime = Time.time + e_attackCooldown;
+        }
+    }
 
+    protected virtual void ExecuteAttackHit()
+    {
+        if (player == null) return;
+
+        LookForPlayer();
+
+        if (isPlayerInAttackRange)
+        {
+            Health playerHealth = player.GetComponent<Health>();
             if (playerHealth != null)
             {
                 playerHealth.TakeDamage(e_damage);
-                Debug.Log("Recives " + e_damage + " de daño");
-                Debug.Log("Vida restante " + playerHealth.CurrentHealth);
+                Debug.Log("Recibes " + e_damage + " de daño. Vida restante: " + playerHealth.CurrentHealth);
             }
-
-            e_nextAttackTime = Time.time + e_attackCooldown;
         }
+        else
+        {
+            Debug.Log("Dodge");
+        }
+    }
+
+    protected virtual void FinishAttack()
+    {
+        isAttacking = false;
+    }
+
+    protected virtual void HandleDamaged(int damageAmount)
+    {
+        if (isDead) return;
+
+        if (health != null)
+        {
+            Debug.Log($"SkeletonMelee recibe: {damageAmount} | Vida restante: {health.CurrentHealth} / {health.MaxHealth}");
+        }
+
+        if (!hasSpawned || isSpawning) return;
+        if (isAttacking) return;
+        if (isHit) return;
+
+        isHit = true;
+    }
+
+    protected virtual void HandleDied()
+    {
+        isDead = true;
+        isHit = false;
+        isAttacking = false;
+
+        rb.linearVelocity = Vector2.zero;
+        rb.bodyType = RigidbodyType2D.Kinematic;
+    }
+
+    public virtual void FinishHit()
+    {
+        isHit = false;
+    }
+
+    public virtual void FinishDeath()
+    {
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null) col.enabled = false;
+        Destroy(gameObject);
     }
 
     protected virtual void Patrol()
