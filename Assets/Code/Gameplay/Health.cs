@@ -8,7 +8,7 @@ public sealed class Health : MonoBehaviour, ITakeDamage
 {
     [Header("Health")]
     [SerializeField, Min(1)] private int maxHealth = 6;
-    [SerializeField] private bool destroyOnDeath = true;
+    [SerializeField] private PlayerVFX hitEffect;
 
     public int CurrentHealth { get; private set; }
     public int MaxHealth => maxHealth;
@@ -28,14 +28,13 @@ public sealed class Health : MonoBehaviour, ITakeDamage
     private void Awake()
     {
         if (!initialized)
-            Initialize(maxHealth, destroyOnDeath);
+            Initialize(maxHealth);
     }
 
-    public void Initialize(int health, bool destroy)
+    public void Initialize(int health)
     {
         maxHealth = Mathf.Max(1, health);
         CurrentHealth = maxHealth;
-        destroyOnDeath = destroy;
         initialized = true;
     }
 
@@ -62,13 +61,10 @@ public sealed class Health : MonoBehaviour, ITakeDamage
 
         OnDamaged?.Invoke(actualDamage);
         NotifyHealthChanged();
-
+        HitVFX();
         if (IsDead)
         {
             OnDied?.Invoke();
-
-            if (destroyOnDeath)
-                Destroy(gameObject);
         }
     }
 
@@ -93,6 +89,13 @@ public sealed class Health : MonoBehaviour, ITakeDamage
     {
         CurrentHealth = maxHealth;
         NotifyHealthChanged();
+    }
+
+    private void HitVFX(){
+        if (hitEffect != null){
+            hitEffect.PlayVFX();
+        }
+            
     }
 
     public void NotifyHealthChanged()

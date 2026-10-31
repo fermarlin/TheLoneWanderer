@@ -142,8 +142,8 @@ TextureImporter:
         y: 22
         width: 23
         height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,8 +164,8 @@ TextureImporter:
         y: 16
         width: 37
         height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,11 +183,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 14
+        y: 15
         width: 41
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Hit_VFX_3
       rect:
         serializedVersion: 2
-        x: 203
-        y: 13
-        width: 107
-        height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 204
+        y: 14
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,6 +218,28 @@ TextureImporter:
       bones: []
       spriteID: 92920b223a010e690800000000000000
       internalID: -7575036280389490391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_VFX_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 13
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96b813891ad3b41b0898a11cbc2e7b
+      internalID: 232139997
       vertices: []
       indices: 
       edges: []
@@ -240,6 +262,7 @@ TextureImporter:
       Hit_VFX_1: 3537907488323448980
       Hit_VFX_2: -6511729794108119773
       Hit_VFX_3: -7575036280389490391
+      Hit_VFX_4: 232139997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
