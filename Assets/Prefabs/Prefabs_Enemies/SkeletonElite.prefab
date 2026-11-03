@@ -187,7 +187,7 @@ MonoBehaviour:
   maxPatrolTime: 5
   minWaitTime: 1
   maxWaitTime: 3
-  dashSpeed: 12
+  dashDistance: 12
   specialAttackCooldown: 5
   specialDamage: 3
   specialAttackDistanceX: 5
@@ -252,8 +252,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bc29ea8e5e62694cbcbd21b425e785e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 8
-  destroyOnDeath: 0
+  maxHealth: 5
+  hitEffect: {fileID: 0}
 --- !u!95 &6809299901795078626
 Animator:
   serializedVersion: 7
