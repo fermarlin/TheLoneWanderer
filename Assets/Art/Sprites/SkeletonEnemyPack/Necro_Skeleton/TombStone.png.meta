@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -229,8 +229,8 @@ TextureImporter:
         y: 9
         width: 44
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,8 +251,8 @@ TextureImporter:
         y: 9
         width: 48
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: TombStone_2
       rect:
         serializedVersion: 2
-        x: 1581
+        x: 1576
         y: 9
-        width: 57
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 62
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -288,37 +288,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_3
-      rect:
-        serializedVersion: 2
-        x: 1585
-        y: 36
-        width: 34
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dea4be47622346d80800000000000000
-      internalID: -8258420675938923795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TombStone_4
       rect:
         serializedVersion: 2
         x: 1702
         y: 9
-        width: 45
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 71
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -332,59 +310,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_5
-      rect:
-        serializedVersion: 2
-        x: 1714
-        y: 31
-        width: 18
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b00a6372ce9fba4e0800000000000000
-      internalID: -1969205619378970613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TombStone_6
-      rect:
-        serializedVersion: 2
-        x: 1732
-        y: 31
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c86dd5f5efd77940800000000000000
-      internalID: 5293946065762740425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TombStone_7
       rect:
         serializedVersion: 2
         x: 1829
         y: 9
-        width: 46
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 77
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -398,59 +332,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_8
-      rect:
-        serializedVersion: 2
-        x: 1842
-        y: 34
-        width: 17
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc11c75081c9be7e0800000000000000
-      internalID: -1735121604436028981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TombStone_9
-      rect:
-        serializedVersion: 2
-        x: 1861
-        y: 33
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b99d435d270c7e140800000000000000
-      internalID: 4748975931521292699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TombStone_10
       rect:
         serializedVersion: 2
         x: 1955
         y: 9
-        width: 48
+        width: 81
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -464,37 +354,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_11
-      rect:
-        serializedVersion: 2
-        x: 1970
-        y: 35
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44c0fb9bf164e3df0800000000000000
-      internalID: -198644231483487164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TombStone_12
       rect:
         serializedVersion: 2
-        x: 2093
+        x: 2080
         y: 9
-        width: 72
+        width: 85
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -515,8 +383,8 @@ TextureImporter:
         y: 9
         width: 87
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,8 +405,8 @@ TextureImporter:
         y: 9
         width: 88
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -559,8 +427,8 @@ TextureImporter:
         y: 9
         width: 44
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -574,50 +442,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_16
-      rect:
-        serializedVersion: 2
-        x: 1576
-        y: 25
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2116390b7dcd9cc10800000000000000
-      internalID: 2074431922319352082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TombStone_17
-      rect:
-        serializedVersion: 2
-        x: 1869
-        y: 26
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e408e790370f7c40800000000000000
-      internalID: 5512132374213166304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TombStone_18
       rect:
         serializedVersion: 2
@@ -625,8 +449,8 @@ TextureImporter:
         y: 9
         width: 89
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -647,8 +471,8 @@ TextureImporter:
         y: 9
         width: 90
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -669,8 +493,8 @@ TextureImporter:
         y: 9
         width: 91
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -691,8 +515,8 @@ TextureImporter:
         y: 9
         width: 92
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -711,10 +535,10 @@ TextureImporter:
         serializedVersion: 2
         x: 49
         y: 9
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 30
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,12 +555,12 @@ TextureImporter:
       name: TombStone_23
       rect:
         serializedVersion: 2
-        x: 72
+        x: 430
         y: 9
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 36
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -755,10 +579,10 @@ TextureImporter:
         serializedVersion: 2
         x: 176
         y: 9
-        width: 10
+        width: 32
         height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,12 +599,12 @@ TextureImporter:
       name: TombStone_25
       rect:
         serializedVersion: 2
-        x: 198
-        y: 9
-        width: 10
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 684
+        y: 8
+        width: 44
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -799,10 +623,10 @@ TextureImporter:
         serializedVersion: 2
         x: 303
         y: 9
-        width: 162
+        width: 34
         height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,11 +644,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 557
-        y: 9
-        width: 427
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 8
+        width: 43
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -845,8 +669,8 @@ TextureImporter:
         y: 9
         width: 44
         height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -860,89 +684,45 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_29
+      name: TombStone_33
       rect:
         serializedVersion: 2
-        x: 1762
-        y: 13
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 810
+        y: 9
+        width: 47
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 945ccf72c6bb710d0800000000000000
-      internalID: -3452084516154456759
+      spriteID: c84e1e435531c30488468728a6dff8a1
+      internalID: 1184842099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TombStone_30
+      name: TombStone_34
       rect:
         serializedVersion: 2
-        x: 1898
+        x: 939
         y: 9
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b07fb67a7df1840b0800000000000000
-      internalID: -5744306313623767285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TombStone_31
-      rect:
-        serializedVersion: 2
-        x: 2029
-        y: 9
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58ec51be339f57270800000000000000
-      internalID: 8247772293981654661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TombStone_32
-      rect:
-        serializedVersion: 2
-        x: 2081
-        y: 9
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75acba0fb79a8d9c0800000000000000
-      internalID: -3902182727332672937
+      spriteID: 9e7521294720e1e42b26db6ed6848edb
+      internalID: 1592624638
       vertices: []
       indices: 
       edges: []
@@ -951,7 +731,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f53ffad1b0b60174fac399d6d8663f10
     internalID: 0
     vertices: []
     indices: 
@@ -988,6 +768,8 @@ TextureImporter:
       TombStone_30: -5744306313623767285
       TombStone_31: 8247772293981654661
       TombStone_32: -3902182727332672937
+      TombStone_33: 1184842099
+      TombStone_34: 1592624638
       TombStone_4: -8404997915647492865
       TombStone_5: -1969205619378970613
       TombStone_6: 5293946065762740425

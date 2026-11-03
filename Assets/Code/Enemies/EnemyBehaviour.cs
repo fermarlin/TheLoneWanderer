@@ -340,11 +340,10 @@ public abstract class EnemyBehaviour : MonoBehaviour
     {
         isPatrolling = false;
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
-
     }
 
 
-    private void OnDrawGizmosSelected()
+    protected virtual void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, e_detectionRange);
