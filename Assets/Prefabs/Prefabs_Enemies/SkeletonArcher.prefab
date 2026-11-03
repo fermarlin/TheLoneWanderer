@@ -311,8 +311,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bc29ea8e5e62694cbcbd21b425e785e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 6
-  destroyOnDeath: 0
+  maxHealth: 1
+  hitEffect: {fileID: 0}
 --- !u!95 &4143124312273093517
 Animator:
   serializedVersion: 7
