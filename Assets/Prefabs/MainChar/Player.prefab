@@ -216,7 +216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 6
-  destroyOnDeath: 0
+  hitEffect: {fileID: 0}
 --- !u!114 &1990394920694709157
 MonoBehaviour:
   m_ObjectHideFlags: 0

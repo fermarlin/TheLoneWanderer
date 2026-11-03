@@ -14,7 +14,7 @@ public class PlayerHealth : MonoBehaviour
     {
         health = GetComponent<Health>();
 
-        health.Initialize(config.vidaMaxima, false);
+        health.Initialize(config.vidaMaxima);
     }
 
     private void OnEnable()

@@ -9,7 +9,7 @@ public sealed class PauseMenuUI : MonoBehaviour
     [SerializeField] private GameObject menuRoot;
     [SerializeField] private Button resumeButton;
     [SerializeField] private Button mainMenuButton;
-
+    [SerializeField] private Slider volumeSlider;
     [SerializeField] private string mainMenuScene = "MainMenu";
 
     private GameEventsSO subscribedEvents;
@@ -42,6 +42,18 @@ public sealed class PauseMenuUI : MonoBehaviour
         SceneTransitionManager.OnTransitionStarted += HandleTransitionStarted;
 
         SubscribeToEvents();
+        if (volumeSlider != null)
+        {
+            volumeSlider.onValueChanged.RemoveListener(OnVolumeChanged);
+            volumeSlider.onValueChanged.AddListener(OnVolumeChanged);
+
+            if (AudioManager.Instance != null)
+            {
+                volumeSlider.SetValueWithoutNotify(
+                    AudioManager.Instance.MasterVolume
+                );
+            }
+        }
     }
 
     private void Start()
@@ -90,6 +102,8 @@ public sealed class PauseMenuUI : MonoBehaviour
 
         if (menuRoot != null)
             menuRoot.SetActive(false);
+        if (volumeSlider != null)
+        volumeSlider.onValueChanged.RemoveListener(OnVolumeChanged);
     }
 
     private void HandlePauseChanged(bool paused)
@@ -157,5 +171,11 @@ public sealed class PauseMenuUI : MonoBehaviour
             return;
 
         transitions.ChangeScene(mainMenuScene);
+    }
+
+    private void OnVolumeChanged(float volume)
+    {
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.SetMasterVolume(volume);
     }
 }
