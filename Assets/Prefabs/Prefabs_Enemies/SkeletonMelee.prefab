@@ -216,7 +216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bc29ea8e5e62694cbcbd21b425e785e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 2
+  maxHealth: 3
   hitEffect: {fileID: 0}
 --- !u!95 &2392201479459966684
 Animator:
