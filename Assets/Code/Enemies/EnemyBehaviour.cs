@@ -123,14 +123,14 @@ public abstract class EnemyBehaviour : MonoBehaviour
 
     protected virtual void Spawn()
     {
-        Debug.Log("Spawnea");
+        
     }
 
     protected virtual void FinishSpawn()
     {
         hasSpawned = true;
         isSpawning = false;
-        Debug.Log("Spawn terminado");
+        
     }
 
     public virtual void LookForPlayer()
@@ -189,7 +189,6 @@ public abstract class EnemyBehaviour : MonoBehaviour
         else
         {
             rb.linearVelocity = new Vector2(facingDirection * e_movementSpeed, rb.linearVelocity.y);
-            Debug.Log("Voy a por ti");
         }
     }
 
@@ -225,12 +224,7 @@ public abstract class EnemyBehaviour : MonoBehaviour
             if (playerHealth != null)
             {
                 playerHealth.TakeDamage(e_damage);
-                Debug.Log("Recibes " + e_damage + " de daño. Vida restante: " + playerHealth.CurrentHealth);
             }
-        }
-        else
-        {
-            Debug.Log("Dodge");
         }
     }
 
@@ -242,11 +236,6 @@ public abstract class EnemyBehaviour : MonoBehaviour
     protected virtual void HandleDamaged(int damageAmount)
     {
         if (isDead) return;
-
-        if (health != null)
-        {
-            Debug.Log($"SkeletonMelee recibe: {damageAmount} | Vida restante: {health.CurrentHealth} / {health.MaxHealth}");
-        }
 
         if (!hasSpawned || isSpawning) return;
         if (isAttacking) return;

@@ -22,8 +22,9 @@ public class PlayerAnimator : MonoBehaviour
     [SerializeField, Min(0.05f)] private float doubleJumpUnlockDuration = 2f;
     [SerializeField, Min(0.05f)] private float wallJumpUnlockDuration = 2f;
     [SerializeField, Min(0.05f)] private float dashUnlockDuration = 2f;
+    [SerializeField, Min(0.05f)] private float healthPotionDuration = 2f;
 
-    private enum UnlockType { DoubleJump, WallJump, Dash }
+    private enum UnlockType { DoubleJump, WallJump, Dash, HealthPotion }
     private readonly Queue<UnlockType> pendingUnlocks = new Queue<UnlockType>();
     private GameEventsSO subscribedEvents;
     private Coroutine unlockCoroutine;
@@ -49,6 +50,7 @@ public class PlayerAnimator : MonoBehaviour
     private static readonly int UnlockDoubleJump = Animator.StringToHash("UnlockDoubleJump");
     private static readonly int UnlockWallJump = Animator.StringToHash("UnlockWallJump");
     private static readonly int UnlockDash = Animator.StringToHash("UnlockDash");
+    private static readonly int HealthPotion = Animator.StringToHash("HealthPotion");
 
     private static readonly int ShieldThrow = Animator.StringToHash("ShieldThrow");
     private static readonly int ShieldCatch = Animator.StringToHash("ShieldCatch");
@@ -562,12 +564,26 @@ public class PlayerAnimator : MonoBehaviour
     private void HandleWallJumpUnlocked() => QueueUnlock(UnlockType.WallJump);
     private void HandleDashUnlocked() => QueueUnlock(UnlockType.Dash);
 
+    public bool PlayHealthPotionAnimation()
+    {
+        GameOrchestrator orchestrator = GameOrchestrator.Instance;
+        if (!isActiveAndEnabled || animator == null || isPlayingDeath ||
+            health == null || health.IsDead ||
+            orchestrator == null || orchestrator.GamePaused || orchestrator.IsPauseLocked ||
+            !HasParameter(HealthPotion, AnimatorControllerParameterType.Trigger))
+            return false;
+
+        QueueUnlock(UnlockType.HealthPotion);
+        return true;
+    }
+
     private int UnlockTrigger(UnlockType ability)
     {
         switch (ability)
         {
             case UnlockType.DoubleJump: return UnlockDoubleJump;
             case UnlockType.WallJump: return UnlockWallJump;
+            case UnlockType.HealthPotion: return HealthPotion;
             default: return UnlockDash;
         }
     }
@@ -578,6 +594,7 @@ public class PlayerAnimator : MonoBehaviour
         {
             case UnlockType.DoubleJump: return doubleJumpUnlockDuration;
             case UnlockType.WallJump: return wallJumpUnlockDuration;
+            case UnlockType.HealthPotion: return healthPotionDuration;
             default: return dashUnlockDuration;
         }
     }
@@ -631,6 +648,7 @@ public class PlayerAnimator : MonoBehaviour
             animator.ResetTrigger(UnlockDoubleJump);
             animator.ResetTrigger(UnlockWallJump);
             animator.ResetTrigger(UnlockDash);
+            animator.ResetTrigger(HealthPotion);
             animator.SetBool(IsOnWall, false);
             animator.SetBool(Falling, false);
             animator.SetFloat(Speed, 0f);
@@ -657,6 +675,7 @@ public class PlayerAnimator : MonoBehaviour
             animator.ResetTrigger(UnlockDoubleJump);
             animator.ResetTrigger(UnlockWallJump);
             animator.ResetTrigger(UnlockDash);
+            animator.ResetTrigger(HealthPotion);
             animator.updateMode = previousUpdateMode;
             animator.cullingMode = previousCullingMode;
         }
