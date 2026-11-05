@@ -34,7 +34,7 @@ public abstract class EnemyBehaviour : MonoBehaviour
     protected bool isPlayerInRange;
     protected bool isPlayerInAttackRange;
     protected bool isPlayerInMovementRange;
-    protected int facingDirection = -1; // 1 derecha -1 izquierda
+    protected int facingDirection = -1;
 
     protected bool isPatrolling = true;
     protected float patrolTimer;
@@ -52,6 +52,11 @@ public abstract class EnemyBehaviour : MonoBehaviour
     protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.simulated = false;
+        }
+
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.enabled = false;
 
@@ -123,7 +128,10 @@ public abstract class EnemyBehaviour : MonoBehaviour
 
     protected virtual void Spawn()
     {
-        
+        if (rb != null)
+        {
+            rb.simulated = true;
+        }
     }
 
     protected virtual void FinishSpawn()
