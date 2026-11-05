@@ -20,6 +20,7 @@ GameObject:
   - component: {fileID: 1990394920694709157}
   - component: {fileID: 1958495293555439324}
   - component: {fileID: 2345651516934772708}
+  - component: {fileID: 1497219435485157585}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -141,6 +142,7 @@ MonoBehaviour:
   doubleJumpUnlockDuration: 1.2
   wallJumpUnlockDuration: 1.2
   dashUnlockDuration: 1.2
+  healthPotionDuration: 1.2
   hurtTriggerName: Hurt
   deathAnimationDuration: 1.2
   respawnIdleState: Base Layer.MainChar_Idle
@@ -260,6 +262,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93bd98887d7da3e4d82d920ea3ae49cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1497219435485157585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327972453177409247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dec2027f7aac8744ea007ff929818c4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpSound: Jump
+  wallJumpSound: Jump
+  dashSound: Dash
+  attackSound: Attack
+  shieldSound: Shield
+  hurtSound: Hurt
+  deathSound: Death
 --- !u!1 &2258730650216427601
 GameObject:
   m_ObjectHideFlags: 0
