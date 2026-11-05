@@ -77,6 +77,7 @@ GameObject:
   - component: {fileID: 5543107503534490508}
   - component: {fileID: 6201604237171689125}
   - component: {fileID: -2180477809206575483}
+  - component: {fileID: 4375642133278316679}
   m_Layer: 7
   m_Name: SkeletonNecrotic
   m_TagString: Untagged
@@ -301,3 +302,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4375642133278316679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4716129171468493140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b38089b71f6b4294ea8d676d86d1d9b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnSound: EnemySpawn
+  attackSound: EnemyAttack
+  hurtSound: EnemyHurt
+  deathSound: EnemyDeath
+  detectAttackByAnimatorTag: 0

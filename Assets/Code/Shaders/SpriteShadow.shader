@@ -240,7 +240,7 @@ Shader "Sprites/Custom/SpriteShadowOptimized"
         // Se mantiene el surface shader original con Lambert,
         // sombra/cutout y flash blanco al recibir dano.
         CGPROGRAM
-        #pragma surface surf Lambert vertex:vert alphatest:_Cutoff addshadow nofog nolightmap nodynlightmap keepalpha noinstancing noforwardadd
+        #pragma surface surf Lambert vertex:vert alphatest:_Cutoff addshadow nofog nolightmap nodynlightmap keepalpha noinstancing
         #pragma target 3.0
         #pragma multi_compile_local _ PIXELSNAP_ON
         #pragma multi_compile _ ETC1_EXTERNAL_ALPHA

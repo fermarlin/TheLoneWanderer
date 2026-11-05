@@ -12,4 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a727bf3d1d329240854523796d62ff9, type: 3}
   m_Name: AudioLibrary
   m_EditorClassIdentifier: 
-  sounds: []
+  sounds:
+  - id: Jump
+    clip: {fileID: 8300000, guid: efbd2a7c6bae5ac4e9dfe4e84741e806, type: 3}
+    volume: 1
+  - id: Attack
+    clip: {fileID: 8300000, guid: faa9a02a4e4fc8f479221cf9c5048e01, type: 3}
+    volume: 1
+  - id: Dash
+    clip: {fileID: 8300000, guid: f3455e808896eb945a7dde954143e57c, type: 3}
+    volume: 1
+  - id: Hurt
+    clip: {fileID: 8300000, guid: 89c6377c6f50a8947a7e331c3d816994, type: 3}
+    volume: 1
+  - id: Shield
+    clip: {fileID: 8300000, guid: ce5fcea0a36a464498507dfc7aa2cb93, type: 3}
+    volume: 1
+  - id: Death
+    clip: {fileID: 8300000, guid: 5efeea00ef7cc374a8192d50a268495f, type: 3}
+    volume: 1
+  - id: EnemySpawn
+    clip: {fileID: 8300000, guid: 1d1104370f45d324da9b32abdc9f57e6, type: 3}
+    volume: 1
+  - id: EnemyAttack
+    clip: {fileID: 8300000, guid: 4ba44e22088744c4da484683cf4c2e31, type: 3}
+    volume: 1
+  - id: EnemyHurt
+    clip: {fileID: 8300000, guid: 414f532f157d5384db96e716abd6b9bf, type: 3}
+    volume: 1
+  - id: EnemyDeath
+    clip: {fileID: 8300000, guid: 565b931a10fa0b34a93a9574e13f5856, type: 3}
+    volume: 1
