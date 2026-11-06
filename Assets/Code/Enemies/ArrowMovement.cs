@@ -47,7 +47,6 @@ public class ArrowMovement : MonoBehaviour
             if (playerHealth != null)
             {
                 playerHealth.TakeDamage(damage);
-                Debug.Log("¡La flecha ha impactado al jugador y le quita " + damage + " de vida!");
             }
 
             if (anim != null) anim.enabled = false;
@@ -58,7 +57,6 @@ public class ArrowMovement : MonoBehaviour
         }
         else if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
-            Debug.Log("La flecha choca contra un muro/suelo");
             StickArrow(collision.transform);
         }
     }

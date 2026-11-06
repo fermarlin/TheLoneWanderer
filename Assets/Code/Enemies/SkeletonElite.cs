@@ -149,7 +149,6 @@ public class SkeletonElite : EnemyBehaviour
             if (playerHealth != null)
             {
                 playerHealth.TakeDamage(specialDamage);
-                Debug.Log($"¡El cuadrado rojo impactó durante la embestida! Daño aplicado: {specialDamage}");
                 hasHitPlayerThisDash = true;
             }
         }
